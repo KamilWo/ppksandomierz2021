@@ -19,6 +19,17 @@ include 'head.php';
                     <div class="col-md-6 col-lg-4">
                         <div class="card">
                             <div class="card-header">
+                                1. stycznia 2021 - 3.&nbsp;stycznia 2021 r.
+                            </div>
+                            <div class="col">
+                                <p><a href="archiwum10.php" title="Archiwum 2021 roku"><i class="fa fa-archive"></i> Archiwum 2021 roku</a>.</p>
+                            </div>
+                        </div>
+                        <br/>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card">
+                            <div class="card-header">
                                 1. stycznia 2020 - 31.&nbsp;grudnia 2020 r.
                             </div>
                             <div class="col">

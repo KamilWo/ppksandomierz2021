@@ -16,6 +16,69 @@ include 'head.php';
                 <h2>Okres 1.&nbsp;stycznia 2020 - 31.&nbsp;grudnia 2020 r.</h2>
 <div class="card">
     <div class="card-header">
+        <h3>27.&nbsp;grudnia 2020&nbsp;r.</h3>
+        <h3>NIEDZIELA W&nbsp;OKTAWIE BOŻEGO NARODZENIA –
+        ŚWIĘTO ŚWIĘTEJ RODZINY, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. <em>Bóg zapłać</em> parafianom, mieszkańcom z&nbsp;bloku 51,
+        ul.&nbsp;Mickiewicza: Agnieszce Król, Wandzie Łabędzkiej, Teresie
+        Dąbrowskiej, Dariuszowi Dąbrowskiemu za&nbsp;sprzątanie kościoła
+        i&nbsp;za&nbsp;ofiarę 100&nbsp;zł na&nbsp;potrzeby parafii.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 51, mieszkania od&nbsp;21 do&nbsp;30.</p>
+        <p>2. Słowa wdzięczności kierujemy do&nbsp;tych parafian, którzy
+        w&nbsp;odpowiedzi na&nbsp;apel Caritas Diecezji Sandomierskiej,
+        ofiarowali: nowe kołdry, pościel, ciepłe czapki, skarpetki, nowe
+        ubrania. Niech Pan Bóg hojnie wam błogosławi. Wdzięczni jesteśmy
+        wszystkim dobroczyńcom naszej parafii.</p>
+        <p>3. Dziękujemy za&nbsp;wykonanie dekoracji Bożonarodzeniowej przy
+        ołtarzu, Paniom: Dorocie Sarzyńskiej i&nbsp;Jolancie Maciejewskiej,
+        i&nbsp;innym osobom, które pomagały. <em>Bóg zapłać</em> wszystkim,
+        którzy w&nbsp;jakikolwiek sposób angażują się w&nbsp;parafialne
+        duszpasterstwo.</p>
+        <p>4. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej z&nbsp;naszej
+        parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
+        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
+        spowiedź św. W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
+        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;godz.&nbsp;16.00.</p>
+        <p>5. W&nbsp;najbliższy czwartek o&nbsp;godz.&nbsp;17.00 Msza&nbsp;św.
+        na&nbsp;zakończenie roku z&nbsp;uroczystym „Te Deum”
+        i&nbsp;błogosławieństwem Najświętszym Sakramentem.</p>
+        <p>6. W&nbsp;piątek 1&nbsp;stycznia - Uroczystość Świętej Bożej
+        Rodzicielki – Nowy Rok. Porządek Mszy&nbsp;św. jak w&nbsp;Niedzielę.
+        Ze&nbsp;względu na&nbsp;uroczystość, w&nbsp;tym dniu nie obowiązuje
+        wstrzemięźliwość od&nbsp;pokarmów mięsnych.</p>
+        <p>7. W&nbsp;tym tygodniu Pierwszy piątek, sobota miesiąca.
+        W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu,
+        w&nbsp;czasie Mszy&nbsp;św. W&nbsp;Pierwszą sobotę od&nbsp;17.15 -
+        adoracja Najśw. Sakramentu.</p>
+        <p>8. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św. o&nbsp;godz.&nbsp;11.15 – adoracja Najśw. Sakramentu
+        połączona z&nbsp;modlitwą różańcową, którą poprowadzi Koło Żywego
+        Różańca z&nbsp;naszej parafii i&nbsp;zmiana tajemnic różańcowych.
+        Zapraszamy do&nbsp;tej wspólnotowej modlitwy.</p>
+        <p>9. Dziś o&nbsp;godz.&nbsp;17.30 Modlitwa różańcowa za&nbsp;rodziny
+        w&nbsp;naszej parafii i&nbsp;za&nbsp;tych, którzy szczególnie
+        potrzebują Bożej Pomocy.</p>
+        <p>10. W&nbsp;tym roku nie będzie wizyty duszpasterskiej tzw. kolędy,
+        w&nbsp;dotychczasowej, tradycyjnej formie.</p>
+        <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 27.&nbsp;grudnia 2020&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
             21 – 27&nbsp;grudnia 2020&nbsp;r.
         </h3>
