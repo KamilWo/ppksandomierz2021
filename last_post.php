@@ -1,48 +1,47 @@
 <div class="card">
     <div class="card-header">
-        <h3>3.&nbsp;stycznia 2021&nbsp;r.</h3>
-        <h3>II&nbsp;NIEDZIELA PO&nbsp;UROCZYSTOŚCI
-        NARODZENIA PAŃSKIEGO, Rok B</h3>
+        <h3>10.&nbsp;stycznia 2021&nbsp;r.</h3>
+        <h3>NIEDZIELA – ŚWIĘTO CHRZTU PAŃSKIEGO, ROK B,<BR />
+        ZAKOŃCZENIE OKRESU NARODZENIA PAŃSKIEGO</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy Panu Mariuszowi Pronobisowi za&nbsp;pomoc
+        <p>1. <em>Bóg zapłać</em> parafianom, wszystkim mieszkańcom
+        z&nbsp;pierwszej klatki z&nbsp;bloku 53, za&nbsp;pomoc
         w&nbsp;sprzątaniu kościoła w&nbsp;minioną sobotę i&nbsp;ofiarę
-        50&nbsp;zł na&nbsp;rzecz parafii. <strong>W&nbsp;najbliższą sobotę,
+        180&nbsp;zł na&nbsp;rzecz parafii. <strong>W&nbsp;najbliższą sobotę,
         do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
-        mieszkających przy ul.&nbsp;Mickiewicza, blok&nbsp;53, mieszkania
-        od&nbsp;1 do&nbsp;10.</p>
-        <p>2. W&nbsp;tym roku nie będzie wizyty duszpasterskiej, tzw. kolędy,
+        mieszkających przy ul. Mickiewicza, blok 53, druga klatka.</p>
+        <p>2. W&nbsp;tym roku nie będzie wizyty duszpasterskiej, tzw. kolędy
         w&nbsp;dotychczasowej, tradycyjnej formie. Wyrazem troski
         duszpasterskiej Kościoła nad powierzonymi sobie wiernymi, będą
-        sprawowane Msze&nbsp;św. za&nbsp;parafian. W&nbsp;przyszłą niedzielę
-        podamy porządek Mszy&nbsp;św. celebrowanych w&nbsp;intencji parafian,
-        mieszkańców z&nbsp;poszczególnych miejscowości i&nbsp;ulic należących
-        do&nbsp;naszej parafii. Do&nbsp;uczestnictwa w&nbsp;nich serdecznie
-        zapraszamy.</p>
-        <p>3. Zachęcamy do&nbsp;czytania prasy katolickiej. Jest
+        sprawowane Msze św. za&nbsp;parafian o&nbsp;godz.&nbsp;18.00.
+        W&nbsp;tym tygodniu:</p>
+        <p><strong>WTOREK</strong> - domy prywatne po&nbsp;mieście wraz
+        z&nbsp;szeregówką przy ul.&nbsp;Maciejowskiego,
+        ul.&nbsp;Kwiatkowskiego, Orzechowa, Klonowa, ul.&nbsp;Skłodowskiej,
+        Młodożeńca, Dąbrowskiego, Wąska, Różana, Szczęśliwa, Harcerska,
+        Batalionów Chłopskich</p>
+        <p><strong>ŚRODA</strong> - Kochanowskiego, Wiosenna,
+        15&nbsp;Sierpnia, Westerplatte, Reymonta, Asnyka, Przytulna,
+        Gałczyńskiego, Kwiatowa, Sucharzowska, Wiejska, Frankowskiego, Reja,
+        Grodzisko, tzw. os.&nbsp;Lekarskie, Orzeszkowa, Modrzewskiego</p>
+        <p><strong>CZWARTEK</strong> - ul.&nbsp;Cieśli 1,3,7,9</p>
+        <p><strong>SOBOTA</strong> - ul.&nbsp;Czachowskiego
+        3,5,7,9,11,12,13,14,17,19</p>
+        <p>Do uczestnictwa w nich serdecznie zapraszamy.</p>
+        <p>3. Dziękujemy dwom naszym parafiankom za&nbsp;odkurzenie
+        i&nbsp;wyczyszczenie tabernakulum. Niech Pan Jezus im&nbsp;i&nbsp;ich
+        najbliższym błogosławi.</p>
+        <p>4. Zachęcamy do&nbsp;czytania prasy katolickiej. Jest
         do&nbsp;nabycia na&nbsp;stoliku pod chórem w&nbsp;kościele.</p>
-        <p>4. W&nbsp;najbliższą środę – Uroczystość Objawienia Pańskiego –
-        w&nbsp;tradycji: Święto Trzech Króli – prządek Mszy&nbsp;św. jak
-        w&nbsp;niedzielę. Poświęcenie kredy i&nbsp;kadzidła
-        na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;11.15. Poświęconą kredą
-        oznaczamy odrzwia naszych domów i&nbsp;mieszkań C+M+B 2021.</p>
-        <p>5. W&nbsp;tym tygodniu Pierwszy Czwartek. O&nbsp;godz.&nbsp;17.30
-        wystawienie Najśw. Sakramentu, będzie okazja do&nbsp;osobistej
-        adoracji Pana Jezusa. W&nbsp;tym dniu będziemy się modlić
-        w&nbsp;intencji kapłanów i&nbsp;o&nbsp;nowe powołania do&nbsp;stanu
-        duchownego.</p>
-        <p>6. W&nbsp;przyszłą niedzielę – Święto Chrztu Pańskiego. Koniec
-        Okresu Bożego Narodzenia. Tradycyjnie bożonarodzeniową dekorację
-        zachowujemy w&nbsp;kościele do&nbsp;Święta Ofiarowania Pańskiego –
-        tradycyjnie – Matki Bożej Gromnicznej.</p>
-        <p>7. Wdzięczni jesteśmy za&nbsp;modlitwę, dobre słowo, składane
+        <p>5. Wdzięczni jesteśmy za&nbsp;modlitwę, dobre słowo, składane
         ofiary na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym
         tygodniu obchodzą swoje imieniny, urodziny, inne rocznice, składamy
         najlepsze życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
         uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
         niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 3.&nbsp;stycznia 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 10.&nbsp;stycznia 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
