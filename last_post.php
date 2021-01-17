@@ -1,39 +1,34 @@
 <div class="card">
     <div class="card-header">
-        <h3>10.&nbsp;stycznia 2021&nbsp;r.</h3>
-        <h3>NIEDZIELA – ŚWIĘTO CHRZTU PAŃSKIEGO, ROK B,<BR />
-        ZAKOŃCZENIE OKRESU NARODZENIA PAŃSKIEGO</h3>
+        <h3>17.&nbsp;stycznia 2021&nbsp;r.</h3>
+        <h3>II Niedziela Zwykła, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. <em>Bóg zapłać</em> parafianom, wszystkim mieszkańcom
-        z&nbsp;pierwszej klatki z&nbsp;bloku 53, za&nbsp;pomoc
-        w&nbsp;sprzątaniu kościoła w&nbsp;minioną sobotę i&nbsp;ofiarę
-        180&nbsp;zł na&nbsp;rzecz parafii. <strong>W&nbsp;najbliższą sobotę,
-        do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
-        mieszkających przy ul. Mickiewicza, blok 53, druga klatka.</p>
-        <p>2. W&nbsp;tym roku nie będzie wizyty duszpasterskiej, tzw. kolędy
-        w&nbsp;dotychczasowej, tradycyjnej formie. Wyrazem troski
-        duszpasterskiej Kościoła nad powierzonymi sobie wiernymi, będą
-        sprawowane Msze św. za&nbsp;parafian o&nbsp;godz.&nbsp;18.00.
-        W&nbsp;tym tygodniu:</p>
-        <p><strong>WTOREK</strong> - domy prywatne po&nbsp;mieście wraz
-        z&nbsp;szeregówką przy ul.&nbsp;Maciejowskiego,
-        ul.&nbsp;Kwiatkowskiego, Orzechowa, Klonowa, ul.&nbsp;Skłodowskiej,
-        Młodożeńca, Dąbrowskiego, Wąska, Różana, Szczęśliwa, Harcerska,
-        Batalionów Chłopskich</p>
-        <p><strong>ŚRODA</strong> - Kochanowskiego, Wiosenna,
-        15&nbsp;Sierpnia, Westerplatte, Reymonta, Asnyka, Przytulna,
-        Gałczyńskiego, Kwiatowa, Sucharzowska, Wiejska, Frankowskiego, Reja,
-        Grodzisko, tzw. os.&nbsp;Lekarskie, Orzeszkowa, Modrzewskiego</p>
-        <p><strong>CZWARTEK</strong> - ul.&nbsp;Cieśli 1,3,7,9</p>
-        <p><strong>SOBOTA</strong> - ul.&nbsp;Czachowskiego
-        3,5,7,9,11,12,13,14,17,19</p>
-        <p>Do uczestnictwa w nich serdecznie zapraszamy.</p>
-        <p>3. Dziękujemy dwom naszym parafiankom za&nbsp;odkurzenie
-        i&nbsp;wyczyszczenie tabernakulum. Niech Pan Jezus im&nbsp;i&nbsp;ich
-        najbliższym błogosławi.</p>
-        <p>4. Zachęcamy do&nbsp;czytania prasy katolickiej. Jest
-        do&nbsp;nabycia na&nbsp;stoliku pod chórem w&nbsp;kościele.</p>
+        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafianom; Jolancie
+        i&nbsp;Damianowi Wosiom. <em>Bóg zapłać</em> za&nbsp;złożoną
+        ofiarę. <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 53, od&nbsp;mieszkania 21 do&nbsp;30.</p>
+        <p>2. Dziękujemy tym parafianom, którzy wzięli udział w&nbsp;Mszach
+        św.&nbsp;celebrowanych w&nbsp;intencji parafian, w&nbsp;minionym
+        tygodniu, w&nbsp;ramach duszpasterstwa kolędowego.
+        W&nbsp;tym tygodniu o&nbsp;godz.&nbsp;18.00 Msze&nbsp;św. Kolędowe
+        będą sprawowane w&nbsp;następującym porządku:</p>
+        <p><strong>WTOREK</strong> - ul.&nbsp;Mickiewicza 43,45,47,49,51,53</p>
+        <p><strong>ŚRODA</strong> - ul.&nbsp;Mickiewicza 55,57,59, Polna,
+        Żółkiewskiego, Morelowa, Wiśniowa oraz miejscowość - Sucharzów</p>
+        <p><strong>SOBOTA</strong> - ul.&nbsp;Maciejowskiego 2,4,5,6</p>
+        <p>Zapraszamy do&nbsp;wspólnej modlitwy za&nbsp;rodziny
+        z&nbsp;powyżej wspomnianych części naszej parafii.</p>
+        <p>3. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”
+        i&nbsp;„Gość Niedzielny”. Jest do&nbsp;nabycia na&nbsp;stoliku pod
+        chórem w&nbsp;kościele.</p>
+        <p>4. W&nbsp;najbliższą niedzielę 24&nbsp;stycznia br. przeżywać
+        będziemy „Dzień solidarności z&nbsp;Chorwacją”. Związane to&nbsp;jest
+        z&nbsp;trzęsieniami ziemi, które w&nbsp;okresie Bożonarodzeniowym
+        nawiedziły ten kraj. Podczas każdej Mszy Świętej będziemy modlić się
+        za&nbsp;poszkodowanych, a&nbsp;po&nbsp;Jej zakończeniu zostanie
+        przeprowadzona zbiórka do&nbsp;puszek na&nbsp;pomoc dla nich.</p>
         <p>5. Wdzięczni jesteśmy za&nbsp;modlitwę, dobre słowo, składane
         ofiary na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym
         tygodniu obchodzą swoje imieniny, urodziny, inne rocznice, składamy
@@ -41,7 +36,7 @@
         uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
         niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 10.&nbsp;stycznia 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 17.&nbsp;stycznia 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
