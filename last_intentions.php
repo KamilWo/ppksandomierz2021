@@ -1,106 +1,112 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            18 – 24&nbsp;stycznia 2021&nbsp;r.
+            25 – 31&nbsp;stycznia 2021&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">18&nbsp;stycznia, Poniedziałek</p>
+<p class="intentions_date">25&nbsp;stycznia, Poniedziałek –
+Nawrócenie św.&nbsp;Pawła Apostoła</p>
 <ul>
-    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;12</li>
-    <li>6.30 + Tadeusza Mądrego</li>
-    <li>6.30 + Józefę, Stefana, Artura Steców</li>
-    <br />
-    <li>18.00 O&nbsp;ducha pokuty dla naszej wspólnoty parafialnej</li>
-    <li>18.00 + Mariannę Wójcik</li>
-    <li>18.00 + Feliksa Borkowskiego</li>
-</ul>
-
-<p class="intentions_date">19&nbsp;stycznia, Wtorek –
-św.&nbsp;Józefa Sebastian Pelczara</p>
-<ul>
-    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;13</li>
-    <li>6.30 + Tadeusza Mądrego</li>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;19</li>
+    <li>6.30 + Mariannę Wójcik</li>
     <li>6.30 + Jarosława Drabika</li>
     <br />
-    <li>18.00 w&nbsp;int.&nbsp;parafian – ul.&nbsp;Mickiewicza 43,
-    45, 47, 49, 51, 53</li>
+    <li>18.00 + Tadeusza Mądrego</li>
     <li>18.00 + Feliksa Borkowskiego</li>
-    <li>18.00 + Mariannę (+4), Stanisława Kozłowskich</li>
+    <li>18.00 + Janusza Nawrota w&nbsp;5&nbsp;r.&nbsp;śm.</li>
 </ul>
 
-<p class="intentions_date">20&nbsp;stycznia, Środa</p>
+<p class="intentions_date">26&nbsp;stycznia, Wtorek –
+św.&nbsp;Tymoteusza i&nbsp;św.&nbsp;Tytusa</p>
 <ul>
-    <li>6.30 Dzięk.–błag. o&nbsp;Boże błog., potrzebne łaski
-    w&nbsp;małżeństwie Asi i&nbsp;Daniela</li>
-    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;14</li>
-    <li>6.30 Dzięk.–błag. za&nbsp;otrzymane łaski w&nbsp;rodzinie
-    Maliborskich, Buczków z&nbsp;prośbą o&nbsp;BB, opiekę MB
-    w&nbsp;dalszym życiu</li>
+    <li>6.30 + Jadwigę, Szczepana Kasprzyckich
+    i&nbsp;zm.&nbsp;z&nbsp;rodziny</li>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;20</li>
+    <li>6.30 + Jarosława Drabika</li>
     <br />
-    <li>18.00 w&nbsp;int. parafian – ul.&nbsp;Mickiewicza 55, 57, 59,
-    Polnej, Żółkiewskiego, Morelowej, Wiśniowej, Sucharzowa</li>
-    <li>18.00 Dzięk.–błag., o&nbsp;Boże błog., dary Ducha Świętego
-    i&nbsp;opiekę Matki Bożej dla ks.&nbsp;Sebastiana z&nbsp;racji
-    imienin w&nbsp;dalszym życiu kapłańskim – Legion Maryi</li>
+    <li>18.00 w&nbsp;int. parafian – ul.&nbsp;Maciejowskiego 7, 8,
+    9, 10, 11, 13</li>
+    <li>18.00 + Mariannę Wójcik</li>
     <li>18.00 + Tadeusza Mądrego</li>
 </ul>
 
-<p class="intentions_date">21&nbsp;stycznia, Czwartek –
-św.&nbsp;Agnieszki</p>
+<p class="intentions_date">27&nbsp;stycznia, Środa</p>
 <ul>
-    <li>6.30 O&nbsp;łaskę nawrócenia</li>
-    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;15</li>
-    <li>6.30 + Bogusławę Maziarz</li>
-    <br />
-    <li>18.00 + Marię Włoch</li>
-    <li>18.00 + Mariannę Wójcik</li>
-    <li>18.00 + Jarosława Drabika</li>
-</ul>
-
-<p class="intentions_date">22&nbsp;stycznia, Piątek</p>
-<ul>
-    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;16</li>
-    <li>6.30 + Walentego, Juliannę Bulirów, Wincentego Kołodzieja,
-    Stanisława, Stanisławę Wosiów, Irenę, Tadeusza Kołaczów</li>
-    <li>6.30 + Zdzisława (+21), Teodozję Dudków
-    i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
-<li></li>
-    <li>18.00 + Tadeusza Mądrego</li>
-    <li>18.00 + Feliksa Borkowskiego</li>
-    <li>18.00 + Mieczysława Osmalę</li>
-</ul>
-
-<p class="intentions_date">23&nbsp;stycznia, Sobota</p>
-<ul>
-    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;17</li>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;21</li>
     <li>6.30 + Tadeusza Mądrego</li>
     <li>6.30 + Jarosława Drabika</li>
     <br />
-    <li>18.00 w&nbsp;int. parafian – ul.&nbsp;Maciejowskiego 7, 8, 9,
-    10, 11, 13</li>
+    <li>18.00 w&nbsp;int. parafian – ul.&nbsp;Maciejowskiego 15, 32,
+    34, 36, 38, 40, Ożarowskiej, Sadowniczej i&nbsp;Warzywnej
+    z&nbsp;przyległymi ulicami</li>
     <li>18.00 + Feliksa Borkowskiego</li>
-    <li>18.00 + zm.&nbsp;z&nbsp;rodz. Miłków: Marię, Wincentego,
-    Józefa, Romana, Józefę, Franciszka, Edwarda, Klarę oraz
-    Stanisława Tetera</li>
+    <li>18.00 + Bernadetę Smerdel w&nbsp;1&nbsp;r.&nbsp;sm.</li>
 </ul>
 
-<p class="intentions_date">24&nbsp;stycznia,
+<p class="intentions_date">28&nbsp;stycznia, Czwartek –
+św. Tomasza z Akwinu</p>
+<ul>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;22</li>
+    <li>6.30 + Feliksa Borkowskiego</li>
+    <li>6.30 + Jarosława Drabika</li>
+    <br />
+    <li>18.00 int. wynagradzająca za&nbsp;bluźnierstwa przeciwko Panu
+    Bogu i&nbsp;Matce Bożej</li>
+    <li>18.00 + Stanisława, Genowefę
+    i&nbsp;zm.&nbsp;z&nbsp;rodziny</li>
+    <li>18.00 + Jacka Strugałę</li>
+</ul>
+
+<p class="intentions_date">29&nbsp;stycznia, Piątek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę
+    Matki Bożej dla Agnieszki z&nbsp;racji urodzin</li>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;23</li>
+    <li>6.30 + Feliksa Borkowskiego</li>
+    <br />
+    <li>18.00 w&nbsp;int. parafian – z&nbsp;Chwałek</li>
+    <li>18.00 int. dziękczynna z&nbsp;racji urodzin Krystiana
+    z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne łaski,
+    opiekę Matki Bożej</li>
+    <li>18.00 + Stanisława Kasę w&nbsp;18&nbsp;r.&nbsp;śm.; Jana,
+    Stefanię Kos; Jana, Helenę Mieczysława Czosnków</li>
+</ul>
+
+<p class="intentions_date">30&nbsp;stycznia, Sobota</p>
+<ul>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;24</li>
+    <li>6.30 + Mariannę Wójcik</li>
+    <li>6.30 + Jarosława Drabika</li>
+    <br />
+    <li>18.00 w&nbsp;int. parafian – z Kobiernik i&nbsp;Milczan</li>
+    <li>18.00 int. dziękczynna z&nbsp;racji 30&nbsp;urodzin Marka
+    z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne łaski,
+    opiekę Matki Bożej</li>
+    <li>18.00 + Genowefę, Andrzeja Tosiów; Mariannę Sędrowicz;
+    Stanisława Wróbla</li>
+    <li>18.00 + Feliksa Borkowskiego</li>
+</ul>
+
+<p class="intentions_date">31&nbsp;stycznia,
     <span style="color: grey">
-        Niedziela – III Tydzień zwykły, Rok B
+        IV Niedziela w okresie zwykłym, Rok B
     </span>
 </p>
 <ul>
-    <li>7.30 w&nbsp;int. parafian</li>
-    <li>7.30 + Henrykę Kurzępę – greg.&nbsp;18</li>
+    <li>7.30 + Anielę, Stefana, Jana Jędrzejewskich</li>
+    <li>7.30 + Henrykę Kurzępę – greg.&nbsp;25</li>
     <br />
-    <li>9.30 + Kazimierza Kondeusza (+6)</li>
+    <li>9.30 + Natalię Piskor w&nbsp;r.&nbsp;śm.
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Statów</li>
     <br />
-    <li>11.15 + Izabelę Maknowską</li>
+    <li>11.15 + Zofię w&nbsp;1&nbsp;r.&nbsp;śm. Władysława
+    Guściorów</li>
     <br />
-    <li>12.30 + Antoniego Dampc, Annę Hebel</li>
+    <li>12.30 + Władysławę, Józefa, Władysława Gospodarczyków;
+    Dymitra, Mariannę Chlebdników</li>
     <br />
-    <li>18.00 O&nbsp;łaskę nawrócenia</li>
+    <li>18.00 w&nbsp;int. parafian</li>
 </ul>
     </div>
 </div>

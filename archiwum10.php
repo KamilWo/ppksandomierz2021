@@ -13,7 +13,160 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 17.&nbsp;stycznia 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 24.&nbsp;stycznia 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            18 – 24&nbsp;stycznia 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">18&nbsp;stycznia, Poniedziałek</p>
+<ul>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;12</li>
+    <li>6.30 + Tadeusza Mądrego</li>
+    <li>6.30 + Józefę, Stefana, Artura Steców</li>
+    <br />
+    <li>18.00 O&nbsp;ducha pokuty dla naszej wspólnoty parafialnej</li>
+    <li>18.00 + Mariannę Wójcik</li>
+    <li>18.00 + Feliksa Borkowskiego</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;stycznia, Wtorek –
+św.&nbsp;Józefa Sebastian Pelczara</p>
+<ul>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;13</li>
+    <li>6.30 + Tadeusza Mądrego</li>
+    <li>6.30 + Jarosława Drabika</li>
+    <br />
+    <li>18.00 w&nbsp;int.&nbsp;parafian – ul.&nbsp;Mickiewicza 43,
+    45, 47, 49, 51, 53</li>
+    <li>18.00 + Feliksa Borkowskiego</li>
+    <li>18.00 + Mariannę (+4), Stanisława Kozłowskich</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;stycznia, Środa</p>
+<ul>
+    <li>6.30 Dzięk.–błag. o&nbsp;Boże błog., potrzebne łaski
+    w&nbsp;małżeństwie Asi i&nbsp;Daniela</li>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;14</li>
+    <li>6.30 Dzięk.–błag. za&nbsp;otrzymane łaski w&nbsp;rodzinie
+    Maliborskich, Buczków z&nbsp;prośbą o&nbsp;BB, opiekę MB
+    w&nbsp;dalszym życiu</li>
+    <br />
+    <li>18.00 w&nbsp;int. parafian – ul.&nbsp;Mickiewicza 55, 57, 59,
+    Polnej, Żółkiewskiego, Morelowej, Wiśniowej, Sucharzowa</li>
+    <li>18.00 Dzięk.–błag., o&nbsp;Boże błog., dary Ducha Świętego
+    i&nbsp;opiekę Matki Bożej dla ks.&nbsp;Sebastiana z&nbsp;racji
+    imienin w&nbsp;dalszym życiu kapłańskim – Legion Maryi</li>
+    <li>18.00 + Tadeusza Mądrego</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;stycznia, Czwartek –
+św.&nbsp;Agnieszki</p>
+<ul>
+    <li>6.30 O&nbsp;łaskę nawrócenia</li>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;15</li>
+    <li>6.30 + Bogusławę Maziarz</li>
+    <br />
+    <li>18.00 + Marię Włoch</li>
+    <li>18.00 + Mariannę Wójcik</li>
+    <li>18.00 + Jarosława Drabika</li>
+</ul>
+
+<p class="intentions_date">22&nbsp;stycznia, Piątek</p>
+<ul>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;16</li>
+    <li>6.30 + Walentego, Juliannę Bulirów, Wincentego Kołodzieja,
+    Stanisława, Stanisławę Wosiów, Irenę, Tadeusza Kołaczów</li>
+    <li>6.30 + Zdzisława (+21), Teodozję Dudków
+    i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
+<li></li>
+    <li>18.00 + Tadeusza Mądrego</li>
+    <li>18.00 + Feliksa Borkowskiego</li>
+    <li>18.00 + Mieczysława Osmalę</li>
+</ul>
+
+<p class="intentions_date">23&nbsp;stycznia, Sobota</p>
+<ul>
+    <li>6.30 + Henrykę Kurzępę – greg.&nbsp;17</li>
+    <li>6.30 + Tadeusza Mądrego</li>
+    <li>6.30 + Jarosława Drabika</li>
+    <br />
+    <li>18.00 w&nbsp;int. parafian – ul.&nbsp;Maciejowskiego 7, 8, 9,
+    10, 11, 13</li>
+    <li>18.00 + Feliksa Borkowskiego</li>
+    <li>18.00 + zm.&nbsp;z&nbsp;rodz. Miłków: Marię, Wincentego,
+    Józefa, Romana, Józefę, Franciszka, Edwarda, Klarę oraz
+    Stanisława Tetera</li>
+</ul>
+
+<p class="intentions_date">24&nbsp;stycznia,
+    <span style="color: grey">
+        Niedziela – III Tydzień zwykły, Rok B
+    </span>
+</p>
+<ul>
+    <li>7.30 w&nbsp;int. parafian</li>
+    <li>7.30 + Henrykę Kurzępę – greg.&nbsp;18</li>
+    <br />
+    <li>9.30 + Kazimierza Kondeusza (+6)</li>
+    <br />
+    <li>11.15 + Izabelę Maknowską</li>
+    <br />
+    <li>12.30 + Antoniego Dampc, Annę Hebel</li>
+    <br />
+    <li>18.00 O&nbsp;łaskę nawrócenia</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>17.&nbsp;stycznia 2021&nbsp;r.</h3>
+        <h3>II Niedziela Zwykła, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafianom; Jolancie
+        i&nbsp;Damianowi Wosiom. <em>Bóg zapłać</em> za&nbsp;złożoną
+        ofiarę. <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 53, od&nbsp;mieszkania 21 do&nbsp;30.</p>
+        <p>2. Dziękujemy tym parafianom, którzy wzięli udział w&nbsp;Mszach
+        św.&nbsp;celebrowanych w&nbsp;intencji parafian, w&nbsp;minionym
+        tygodniu, w&nbsp;ramach duszpasterstwa kolędowego.
+        W&nbsp;tym tygodniu o&nbsp;godz.&nbsp;18.00 Msze&nbsp;św. Kolędowe
+        będą sprawowane w&nbsp;następującym porządku:</p>
+        <p><strong>WTOREK</strong> - ul.&nbsp;Mickiewicza 43,45,47,49,51,53</p>
+        <p><strong>ŚRODA</strong> - ul.&nbsp;Mickiewicza 55,57,59, Polna,
+        Żółkiewskiego, Morelowa, Wiśniowa oraz miejscowość - Sucharzów</p>
+        <p><strong>SOBOTA</strong> - ul.&nbsp;Maciejowskiego 2,4,5,6</p>
+        <p>Zapraszamy do&nbsp;wspólnej modlitwy za&nbsp;rodziny
+        z&nbsp;powyżej wspomnianych części naszej parafii.</p>
+        <p>3. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”
+        i&nbsp;„Gość Niedzielny”. Jest do&nbsp;nabycia na&nbsp;stoliku pod
+        chórem w&nbsp;kościele.</p>
+        <p>4. W&nbsp;najbliższą niedzielę 24&nbsp;stycznia br. przeżywać
+        będziemy „Dzień solidarności z&nbsp;Chorwacją”. Związane to&nbsp;jest
+        z&nbsp;trzęsieniami ziemi, które w&nbsp;okresie Bożonarodzeniowym
+        nawiedziły ten kraj. Podczas każdej Mszy Świętej będziemy modlić się
+        za&nbsp;poszkodowanych, a&nbsp;po&nbsp;Jej zakończeniu zostanie
+        przeprowadzona zbiórka do&nbsp;puszek na&nbsp;pomoc dla nich.</p>
+        <p>5. Wdzięczni jesteśmy za&nbsp;modlitwę, dobre słowo, składane
+        ofiary na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym
+        tygodniu obchodzą swoje imieniny, urodziny, inne rocznice, składamy
+        najlepsze życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 17.&nbsp;stycznia 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
