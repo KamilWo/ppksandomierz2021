@@ -34,12 +34,12 @@
         i&nbsp;„Gość Niedzielny”, i&nbsp;„Mały Gość” czasopismo dla dzieci.
         Gazety są do&nbsp;nabycia na&nbsp;stoliku pod chórem
         w&nbsp;kościele.</p>
-        <p>6. Dla poratowania zdrowia ks.&nbsp;Sebastiana Mroczkowskiego,
+        <p>6. <!--Dla poratowania zdrowia ks.&nbsp;Sebastiana Mroczkowskiego,
         Ks.&nbsp;Biskup Ordynariusz odwołał Go z&nbsp;funkcji wikariusza
         w&nbsp;naszej parafii, przez jakiś czas ks.&nbsp;Sebastian będzie
         mieszkał na&nbsp;wikariacie przy katedrze. Dziękujemy Mu
         za&nbsp;posługę w&nbsp;naszej parafii i&nbsp;życzymy zdrowia,
-        i&nbsp;wszelkich łask w&nbsp;kapłańskim życiu. Od&nbsp;8&nbsp;lutego
+        i&nbsp;wszelkich łask w&nbsp;kapłańskim życiu.--> Od&nbsp;8&nbsp;lutego
         do&nbsp;8&nbsp;maja br.&nbsp;w&nbsp;naszej parafii będzie odbywał
         praktykę duszpasterską alumn Radosław Piotr Szczur student szóstego
         roku w&nbsp;Wyższym Seminarium Duchownym w&nbsp;Sandomierzu, pochodzi
