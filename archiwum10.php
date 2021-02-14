@@ -13,7 +13,178 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 7.&nbsp;lutego 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 14.&nbsp;lutego 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            08.02 – 14.02 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">08&nbsp;lutego, Poniedziałek</p>
+<ul>
+    <li>6.30 + Annę, Stanisława Janiszewskich</li>
+    <li>6.30 + Zbigniewa, Ludwikę, Jana Kamińskich; Mariannę, Józefa,
+    Lecha, Katarzynę Stybałkowskich; Krzysia Karweckiego, Wiesława
+    Synowca, Mieczysława Kapałę, Hankę Tworek</li>
+    <li>18.00 + Wincentego Świrkulę w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Mariannę Jakułę</li>
+    <li>18.00 + Zbigniewa, Mariana w&nbsp;17&nbsp;r.&nbsp;śm.
+    Woźniaków i&nbsp;zm.&nbsp;z&nbsp;rodziny</li>
+</ul>
+
+<p class="intentions_date">09&nbsp;lutego, Wtorek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę
+    Matki Bożej dla Joanny i&nbsp;jej rodziny z&nbsp;racji urodzin</li>
+    <li>6.30 + Seweryna Rybę w&nbsp;4&nbsp;r.&nbsp;śm.; Teresę,
+    Witolda Rybów</li>
+    <li>18.00 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin,
+    o&nbsp;łaskę przemiany i&nbsp;Boże błogosławieństwo</li>
+    <li>18.00 + Annę Tomaszewską</li>
+    <li>18.00 + Jerzego Polaka w&nbsp;r.&nbsp;śm.; Mariannę, Janinę,
+    Mariana</li>
+</ul>
+
+<p class="intentions_date">10&nbsp;lutego, Środa –
+św.&nbsp;Scholastyki</p>
+<ul>
+    <li>6.30 + Irenę Stopczyńską</li>
+    <li>6.30 + Stanisławę Teter</li>
+    <li>6.30 + Zofię Jurkowską</li>
+    <li>18.00 o&nbsp;łaskę przemiany, nawrócenia dla męża
+    i&nbsp;ojca Piotra</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę
+    Matki Bożej dla Jerzego z&nbsp;racji urodzin</li>
+    <li>18.00 + Mariannę, Juliana Godwinów</li>
+</ul>
+
+<p class="intentions_date">11&nbsp;lutego, Czwartek</p>
+<ul>
+    <li>6.30 + Mieczysława Niewiadomskiego
+    i&nbsp;zm.&nbsp;z&nbsp;rodziny</li>
+    <li>6.30 + Zofię Jurkowską</li>
+    <li>6.30 + Stanisławę, Mariana Mądrych</li>
+    <li>18.00 w&nbsp;int. dziękczynnej z&nbsp;racji urodzin Rafała
+    z&nbsp;prośbą o&nbsp;Boże błogosławieństwo</li>
+    <li>18.00 + Irenę Stopczyńską</li>
+    <li>18.00 + Jarosława Drabika</li>
+</ul>
+
+<p class="intentions_date">12&nbsp;lutego, Piątek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę
+    Matki Bożej dla dzieci i&nbsp;chrześniaków</li>
+    <li>6.30 + Tadeusza Szwagierczaka</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+    i&nbsp;eutanazji</li>
+    <li>18.00 int. dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla wnuków Błażeja, Alana,
+    Dawida</li>
+    <li>18.00 + Bogusławę Maziarz</li>
+</ul>
+
+<p class="intentions_date">13&nbsp;lutego, Sobota</p>
+<ul>
+    <li>6.30 o&nbsp;łaskę dobrej śmierci</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>6.30 w&nbsp;int. Panu Bogu wiadomej</li>
+    <li>18.00 + Jadwigę w&nbsp;r.&nbsp;śm., Aleksego Kaczmarczyków
+    i&nbsp;zm.&nbsp;z&nbsp;rodziny</li>
+    <li>18.00 + Elżbietę Stefanek w&nbsp;21&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Danutę w&nbsp;11&nbsp;r.&nbsp;śm.; Mieczysława
+    Pawlikowskich</li>
+</ul>
+
+<p class="intentions_date">14&nbsp;lutego,
+    <span style="color: grey">
+        VI&nbsp;NIEDZIELA zwykła, Rok B
+    </span>
+</p>
+<ul>
+    <li>7.30 + Krzysztofa, Wiesława Zwolskich</li>
+    <li>7.30 + Henryka Kordosa, Stanisława Pliżgę</li>
+    <li>9.30 + Pawła Krasudę w&nbsp;7&nbsp;r.&nbsp;śm.</li>
+    <li>11.15 + Władysława Anwajlera</li>
+    <li>12.30 + Czesława, Janinę, Krzysztofa Płazów</li>
+    <li>18.00 w&nbsp;intencji parafian</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>7.&nbsp;lutego 2021&nbsp;r.</h3>
+        <h3>V Niedziela Zwykła, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafiankom, Paniom:
+        Urszuli Król, Edycie Wolarskiej, Beacie Jagiełło. <em>Bóg zapłać</em>
+        parafianom z&nbsp;V&nbsp;klatki bloku 53 za&nbsp;złożoną ofiarę
+        w&nbsp;wysokości 140&nbsp;zł, na&nbsp;rzecz parafii.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 53, od&nbsp;mieszkania 51 do&nbsp;60.</p>
+        <p>2. Dziękujemy parafianom za&nbsp;pracę włożoną w&nbsp;demontaż
+        dekoracji bożonarodzeniowej w&nbsp;kościele parafialnym
+        w&nbsp;zeszłym tygodniu.</p>
+        <p>3. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+        na&nbsp;Fundusz Pomocy Chorym Kapłanom Diecezji Sandomierskiej.</p>
+        <p>4. Przeżywany w&nbsp;tym roku Światowy Dzień Chorego kieruje naszą 
+        <em>uwagę na&nbsp;chorych i&nbsp;na&nbsp;tych, którzy się nimi
+        opiekują, zarówno w&nbsp;miejscach przeznaczonych na&nbsp;ich
+        pielęgnację, jak i&nbsp;na&nbsp;łonie rodziny czy wspólnot. Nasze
+        myśli kierujemy w&nbsp;szczególności do&nbsp;tych, którzy
+        na&nbsp;całym świecie cierpią z&nbsp;powodu skutków pandemii
+        koronawirusa</em>. W&nbsp;Diecezji Sandomierskiej tegoroczne obchody
+        będą wyglądały następująco: 11&nbsp;lutego, godz.&nbsp;12.00 – Msza
+        Święta w&nbsp;intencji ludzi chorych oraz pracowników służby zdrowia
+        w&nbsp;kościele św.&nbsp;Ducha w&nbsp;Sandomierzu pod przewodnictwem
+        biskupa Krzysztofa Nitkiewicza. Msza Święta będzie transmitowana
+        przez diecezjalne media oraz Radio Kielce na&nbsp;falach
+        101,4&nbsp;MHz. Zachęcamy osoby chore oraz w&nbsp;podeszłym wieku
+        do&nbsp;duchowej łączności z&nbsp;obchodami diecezjalnymi.</p>
+        <p>5. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”
+        i&nbsp;„Gość Niedzielny”, i&nbsp;„Mały Gość” czasopismo dla dzieci.
+        Gazety są do&nbsp;nabycia na&nbsp;stoliku pod chórem
+        w&nbsp;kościele.</p>
+        <p>6. <!--Dla poratowania zdrowia ks.&nbsp;Sebastiana Mroczkowskiego,
+        Ks.&nbsp;Biskup Ordynariusz odwołał Go z&nbsp;funkcji wikariusza
+        w&nbsp;naszej parafii, przez jakiś czas ks.&nbsp;Sebastian będzie
+        mieszkał na&nbsp;wikariacie przy katedrze. Dziękujemy Mu
+        za&nbsp;posługę w&nbsp;naszej parafii i&nbsp;życzymy zdrowia,
+        i&nbsp;wszelkich łask w&nbsp;kapłańskim życiu.--> Od&nbsp;8&nbsp;lutego
+        do&nbsp;8&nbsp;maja br.&nbsp;w&nbsp;naszej parafii będzie odbywał
+        praktykę duszpasterską alumn Radosław Piotr Szczur student szóstego
+        roku w&nbsp;Wyższym Seminarium Duchownym w&nbsp;Sandomierzu, pochodzi
+        z&nbsp;parafii pw.&nbsp;Chrystusa Dobrego Pasterza w&nbsp;Tarnobrzegu
+        - Mokrzyszów. Polecajmy Bogu w&nbsp;naszej modlitwie, wcześniej
+        wspomnianych.</p>
+        <p>7. W&nbsp;przyszłą niedzielę spotkanie z&nbsp;rodzicami
+        pierwszokomunijnych dzieci po&nbsp;Mszy&nbsp;św., która jest
+        o&nbsp;godz.&nbsp;9.30.</p>
+        <p>8. Za&nbsp;naszym pośrednictwem Urząd miejski w&nbsp;Sandomierzu
+        informuje o&nbsp;naborze na&nbsp;rachmistrzów, który trwa
+        w&nbsp;naszym mieście do&nbsp;9&nbsp;lutego br. Rachmistrzowie będą
+        brali udział w&nbsp;Powszechnym Spisie Ludności w&nbsp;2021 roku.
+        Wszelki informacje znajdują się na&nbsp;stronie Urzędu Miejskiego
+        w&nbsp;Sandomierzu.</p>
+        <p>9. Dziękujemy za&nbsp;modlitwę, dobre słowo, składane ofiary
+        na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym tygodniu
+        obchodzą swoje imieniny, urodziny, inne rocznice, składamy najlepsze
+        życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 7.&nbsp;lutego 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

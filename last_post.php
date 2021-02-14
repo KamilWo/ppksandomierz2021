@@ -1,68 +1,57 @@
 <div class="card">
     <div class="card-header">
-        <h3>7.&nbsp;lutego 2021&nbsp;r.</h3>
-        <h3>V Niedziela Zwykła, Rok B</h3>
+        <h3>14.&nbsp;lutego 2021&nbsp;r.</h3>
+        <h3>VI Niedziela Zwykła, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafiankom, Paniom:
-        Urszuli Król, Edycie Wolarskiej, Beacie Jagiełło. <em>Bóg zapłać</em>
-        parafianom z&nbsp;V&nbsp;klatki bloku 53 za&nbsp;złożoną ofiarę
-        w&nbsp;wysokości 140&nbsp;zł, na&nbsp;rzecz parafii.
+        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafianom - Paniom:
+        Marii Żyła, Agnieszce Kawęckiej i&nbsp;Panom: Kazimierzowi Włochowi
+        i&nbsp;Krzysztofowi Łukaszkowi. <em>Bóg zapłać</em> za&nbsp;złożoną
+        ofiarę w&nbsp;wysokości 200&nbsp;zł, na&nbsp;rzecz parafii.
         <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
         parafialnej prosimy</strong> parafian mieszkających przy
-        ul.&nbsp;Mickiewicza, blok 53, od&nbsp;mieszkania 51 do&nbsp;60.</p>
-        <p>2. Dziękujemy parafianom za&nbsp;pracę włożoną w&nbsp;demontaż
-        dekoracji bożonarodzeniowej w&nbsp;kościele parafialnym
-        w&nbsp;zeszłym tygodniu.</p>
-        <p>3. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+        ul.&nbsp;Mickiewicza, blok 55, od&nbsp;mieszkania nr&nbsp;1
+        do&nbsp;10.</p>
+        <p>2. Dziś po&nbsp;Mszach&nbsp;Św. zbiórka do&nbsp;puszek
         na&nbsp;Fundusz Pomocy Chorym Kapłanom Diecezji Sandomierskiej.</p>
-        <p>4. Przeżywany w&nbsp;tym roku Światowy Dzień Chorego kieruje naszą 
-        <em>uwagę na&nbsp;chorych i&nbsp;na&nbsp;tych, którzy się nimi
-        opiekują, zarówno w&nbsp;miejscach przeznaczonych na&nbsp;ich
-        pielęgnację, jak i&nbsp;na&nbsp;łonie rodziny czy wspólnot. Nasze
-        myśli kierujemy w&nbsp;szczególności do&nbsp;tych, którzy
-        na&nbsp;całym świecie cierpią z&nbsp;powodu skutków pandemii
-        koronawirusa</em>. W&nbsp;Diecezji Sandomierskiej tegoroczne obchody
-        będą wyglądały następująco: 11&nbsp;lutego, godz.&nbsp;12.00 – Msza
-        Święta w&nbsp;intencji ludzi chorych oraz pracowników służby zdrowia
-        w&nbsp;kościele św.&nbsp;Ducha w&nbsp;Sandomierzu pod przewodnictwem
-        biskupa Krzysztofa Nitkiewicza. Msza Święta będzie transmitowana
-        przez diecezjalne media oraz Radio Kielce na&nbsp;falach
-        101,4&nbsp;MHz. Zachęcamy osoby chore oraz w&nbsp;podeszłym wieku
-        do&nbsp;duchowej łączności z&nbsp;obchodami diecezjalnymi.</p>
-        <p>5. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”
-        i&nbsp;„Gość Niedzielny”, i&nbsp;„Mały Gość” czasopismo dla dzieci.
-        Gazety są do&nbsp;nabycia na&nbsp;stoliku pod chórem
-        w&nbsp;kościele.</p>
-        <p>6. <!--Dla poratowania zdrowia ks.&nbsp;Sebastiana Mroczkowskiego,
-        Ks.&nbsp;Biskup Ordynariusz odwołał Go z&nbsp;funkcji wikariusza
-        w&nbsp;naszej parafii, przez jakiś czas ks.&nbsp;Sebastian będzie
-        mieszkał na&nbsp;wikariacie przy katedrze. Dziękujemy Mu
-        za&nbsp;posługę w&nbsp;naszej parafii i&nbsp;życzymy zdrowia,
-        i&nbsp;wszelkich łask w&nbsp;kapłańskim życiu.--> Od&nbsp;8&nbsp;lutego
-        do&nbsp;8&nbsp;maja br.&nbsp;w&nbsp;naszej parafii będzie odbywał
-        praktykę duszpasterską alumn Radosław Piotr Szczur student szóstego
-        roku w&nbsp;Wyższym Seminarium Duchownym w&nbsp;Sandomierzu, pochodzi
-        z&nbsp;parafii pw.&nbsp;Chrystusa Dobrego Pasterza w&nbsp;Tarnobrzegu
-        - Mokrzyszów. Polecajmy Bogu w&nbsp;naszej modlitwie, wcześniej
-        wspomnianych.</p>
-        <p>7. W&nbsp;przyszłą niedzielę spotkanie z&nbsp;rodzicami
-        pierwszokomunijnych dzieci po&nbsp;Mszy&nbsp;św., która jest
-        o&nbsp;godz.&nbsp;9.30.</p>
-        <p>8. Za&nbsp;naszym pośrednictwem Urząd miejski w&nbsp;Sandomierzu
-        informuje o&nbsp;naborze na&nbsp;rachmistrzów, który trwa
-        w&nbsp;naszym mieście do&nbsp;9&nbsp;lutego br. Rachmistrzowie będą
-        brali udział w&nbsp;Powszechnym Spisie Ludności w&nbsp;2021 roku.
-        Wszelki informacje znajdują się na&nbsp;stronie Urzędu Miejskiego
-        w&nbsp;Sandomierzu.</p>
-        <p>9. Dziękujemy za&nbsp;modlitwę, dobre słowo, składane ofiary
-        na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym tygodniu
-        obchodzą swoje imieniny, urodziny, inne rocznice, składamy najlepsze
-        życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
-        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
-        niedzieli.</p>
+        <p>3. W&nbsp;dniach od&nbsp;14 do&nbsp;20 lutego br. w &nbsp;Kościele
+        w&nbsp;Polsce Tydzień modlitw o&nbsp;trzeźwość Polaków, przeżywany
+        pod hasłem „Trzeźwością pokonać kryzys”. W&nbsp;zeszłym roku, Polacy
+        wydali 40&nbsp;mld&nbsp;zł na&nbsp;alkohol, można
+        za&nbsp;to&nbsp;kupić ponad 100&nbsp;tys. mieszkań średniej wartości.
+        Spożycie alkoholu w&nbsp;Polsce kształtuje się obecnie
+        na&nbsp;poziomie 10&nbsp;l na&nbsp;mieszkańca, nie liczony jest tzw.
+        „nielegalny alkohol”. Rocznie z&nbsp;powodu choroby alkoholowej
+        umiera 20&nbsp;tys. ludzi. Tam, gdzie brakuje trzeźwości, tam
+        pojawiają się w&nbsp;nadmiarze problemy, mnożą się dramaty całych
+        rodzin, wspólnot, ale także i&nbsp;całych środowisk. Trzeźwość jest
+        tamą, która chroni życie indywidualne, rodzinne, ale także społeczne
+        przed wielką powodzią cierpienia. Módlmy się i&nbsp;troszczmy
+        o&nbsp;trzeźwość.</p>
+        <p>4. Okażmy troskę o&nbsp;przydrożne krzyże, kapliczki, które
+        są&nbsp;na&nbsp;terenie naszej parafii. Wszystkim, którzy
+        to&nbsp;czynią niech Dobry Bóg im&nbsp;błogosławi i&nbsp;ich
+        najbliższym.</p>
+        <p>5. W&nbsp;tym tygodniu rozpoczynamy czas Wielkiego Postu,
+        najbliższa środa to&nbsp;Środa Popielcowa. Msze&nbsp;św.
+        z&nbsp;posypaniem głów popiołem o&nbsp;godz.&nbsp;6.30, 9.00
+        i&nbsp;18.00. Przypominamy, że&nbsp;w&nbsp;tym dniu obowiązuje post
+        ścisły ilościowy i&nbsp;jakościowy. <strong>Taca ze&nbsp;Środy
+        Popielcowej przeznaczona jest na&nbsp;Caritas.</strong> W&nbsp;naszej
+        Parafii rekolekcje wielkopostne rozpoczną się późniejszym terminie,
+        tj.&nbsp;w&nbsp;piątek w&nbsp;Uroczystość św.&nbsp;Józefa
+        19&nbsp;marca, przed V&nbsp;niedzielą Wielkiego Postu.</p>
+        <p>6. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.30 - zapraszamy do&nbsp;udziału.</p>
+        <p>7. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        Święta.</p>
+        <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety na&nbsp;stoliku pod chórem.</p>
+        <p>9. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy
+        błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 7.&nbsp;lutego 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 14.&nbsp;lutego 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
