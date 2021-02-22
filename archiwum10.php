@@ -13,7 +13,170 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 14.&nbsp;lutego 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 21.&nbsp;lutego 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            15.02 – 21.02 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">15&nbsp;lutego, Poniedziałek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej, łaskę
+    uzdrowienia z&nbsp;nieuleczalnej choroby i&nbsp;siły w&nbsp;walce
+    z&nbsp;chorobą, wszelkie łaski dla Anny</li>
+    <li>6.30 + Irenę Stopczyńską</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej dla pewnej osoby i&nbsp;jej
+    rodziny</li>
+    <li>18.00 + Tadeusza Szwagierczaka</li>
+</ul>
+
+<p class="intentions_date">16&nbsp;lutego, Wtorek</p>
+<ul>
+    <li>6.30 we&nbsp;wszystkich intencjach wspólnoty
+    św.&nbsp;s.&nbsp;Faustyny</li>
+    <li>6.30 w&nbsp;int. rodziny z&nbsp;ul.&nbsp;Ożarowskiej
+    o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
+    Świętego, opiekę Matki Bożej</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>18.00 + Mariannę Jakułę</li>
+    <li>18.00 + Zofię Jurkowską</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;lutego, Środa –
+Środa Popielcowa</p>
+<ul>
+    <li>6.30 + Irenę Stopczyńską</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>9.00 + Zofię Jurkowską</li>
+    <li>18.00 int. dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla Madzi</li>
+    <li>18.00 + Tadeusza Szwagierczaka</li>
+    <li>18.00 + Kazimierza Tenderendę</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;lutego, Czwartek</p>
+<ul>
+    <li>6.30 + Mariannę Jakułę</li>
+    <li>6.30 + Władysławę Sowę</li>
+    <li>6.30 w&nbsp;intencji Panu Bogu wiadomej</li>
+    <li>18.00 + Danutę Zioło w&nbsp;4&nbsp;r.&nbsp;śm.; Władysławę,
+    Ignacego Ajdukiewiczów</li>
+    <li>18.00 + Tadeusza w&nbsp;3&nbsp;r.&nbsp;śm.; Andrzeja Mazurów,
+    Stanisławę Łukasiewicz</li>
+    <li>18.00 + Piotra w&nbsp;5&nbsp;r.&nbsp;śm., Mariannę,
+    Wincentego Michtów, Annę Skubidę, Barbarę Konopkę</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;lutego, Piątek</p>
+<ul>
+    <li>6.30 int. dziękczynno-błagalna o&nbsp;Miłosierdzie Boże,
+    potrzebne łaski w&nbsp;rodzinie i&nbsp;we&nbsp;wszystkich
+    rodzinach polskich za&nbsp;wstawiennictwem św.&nbsp;Józefa
+    Opiekuna rodzin</li>
+    <li>6.30 + Tadeusza Szwagierczaka</li>
+    <li>18.00 + Mariannę Jakułę</li>
+    <li>18.00 + Stanisława, Henryka</li>
+    <li>18.00 + Władysławę Sowę</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;lutego, Sobota</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej w&nbsp;małżeństwie Asi
+    i&nbsp;Daniela</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>6.30 w&nbsp;int. Panu Bogu wiadomej</li>
+    <li>18.00 int. dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
+    Mariana z&nbsp;racji 70&nbsp;urodzin</li>
+    <li>18.00 + Irenę Stopczyńską</li>
+    <li>18.00 + Józefę Bednarczyk w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;lutego,
+    <span style="color: grey">
+        I Niedziela Wielkiego Postu
+    </span>
+</p>
+<ul>
+    <li>7.30 + Włodzimierza Kurasia; Henryka, Henrykę Kulińskich</li>
+    <li>7.30 + dr.&nbsp;Grigora Szaginian</li>
+    <li>9.30 + Antoniego, Helenę Wrzosków; Andrzeja Sado</li>
+    <li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
+    <li>11.15 + Janinę, Teresę, Józefa, Kazimierza, Michała, Ignacego
+    Tutaków</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>18.00 + Helenę, Henryka, Janusza Gierczaków; Helenę,
+    Franciszka, Stanisława Bińczaków</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>14.&nbsp;lutego 2021&nbsp;r.</h3>
+        <h3>VI Niedziela Zwykła, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafianom - Paniom:
+        Marii Żyła, Agnieszce Kawęckiej i&nbsp;Panom: Kazimierzowi Włochowi
+        i&nbsp;Krzysztofowi Łukaszkowi. <em>Bóg zapłać</em> za&nbsp;złożoną
+        ofiarę w&nbsp;wysokości 200&nbsp;zł, na&nbsp;rzecz parafii.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 55, od&nbsp;mieszkania nr&nbsp;1
+        do&nbsp;10.</p>
+        <p>2. Dziś po&nbsp;Mszach&nbsp;Św. zbiórka do&nbsp;puszek
+        na&nbsp;Fundusz Pomocy Chorym Kapłanom Diecezji Sandomierskiej.</p>
+        <p>3. W&nbsp;dniach od&nbsp;14 do&nbsp;20 lutego br. w &nbsp;Kościele
+        w&nbsp;Polsce Tydzień modlitw o&nbsp;trzeźwość Polaków, przeżywany
+        pod hasłem „Trzeźwością pokonać kryzys”. W&nbsp;zeszłym roku, Polacy
+        wydali 40&nbsp;mld&nbsp;zł na&nbsp;alkohol, można
+        za&nbsp;to&nbsp;kupić ponad 100&nbsp;tys. mieszkań średniej wartości.
+        Spożycie alkoholu w&nbsp;Polsce kształtuje się obecnie
+        na&nbsp;poziomie 10&nbsp;l na&nbsp;mieszkańca, nie liczony jest tzw.
+        „nielegalny alkohol”. Rocznie z&nbsp;powodu choroby alkoholowej
+        umiera 20&nbsp;tys. ludzi. Tam, gdzie brakuje trzeźwości, tam
+        pojawiają się w&nbsp;nadmiarze problemy, mnożą się dramaty całych
+        rodzin, wspólnot, ale także i&nbsp;całych środowisk. Trzeźwość jest
+        tamą, która chroni życie indywidualne, rodzinne, ale także społeczne
+        przed wielką powodzią cierpienia. Módlmy się i&nbsp;troszczmy
+        o&nbsp;trzeźwość.</p>
+        <p>4. Okażmy troskę o&nbsp;przydrożne krzyże, kapliczki, które
+        są&nbsp;na&nbsp;terenie naszej parafii. Wszystkim, którzy
+        to&nbsp;czynią niech Dobry Bóg im&nbsp;błogosławi i&nbsp;ich
+        najbliższym.</p>
+        <p>5. W&nbsp;tym tygodniu rozpoczynamy czas Wielkiego Postu,
+        najbliższa środa to&nbsp;Środa Popielcowa. Msze&nbsp;św.
+        z&nbsp;posypaniem głów popiołem o&nbsp;godz.&nbsp;6.30, 9.00
+        i&nbsp;18.00. Przypominamy, że&nbsp;w&nbsp;tym dniu obowiązuje post
+        ścisły ilościowy i&nbsp;jakościowy. <strong>Taca ze&nbsp;Środy
+        Popielcowej przeznaczona jest na&nbsp;Caritas.</strong> W&nbsp;naszej
+        Parafii rekolekcje wielkopostne rozpoczną się późniejszym terminie,
+        tj.&nbsp;w&nbsp;piątek w&nbsp;Uroczystość św.&nbsp;Józefa
+        19&nbsp;marca, przed V&nbsp;niedzielą Wielkiego Postu.</p>
+        <p>6. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.30 - zapraszamy do&nbsp;udziału.</p>
+        <p>7. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        Święta.</p>
+        <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety na&nbsp;stoliku pod chórem.</p>
+        <p>9. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy
+        błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 14.&nbsp;lutego 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

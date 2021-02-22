@@ -1,101 +1,100 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            15.02 – 21.02 2021&nbsp;r.
+            22.02 – 28.02 2021&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">15&nbsp;lutego, Poniedziałek</p>
+<p class="intentions_date">22&nbsp;lutego, Poniedziałek –
+Święto katedry św.&nbsp;Piotra Apostoła</p>
 <ul>
-    <li>6.30 o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej, łaskę
-    uzdrowienia z&nbsp;nieuleczalnej choroby i&nbsp;siły w&nbsp;walce
-    z&nbsp;chorobą, wszelkie łaski dla Anny</li>
-    <li>6.30 + Irenę Stopczyńską</li>
-    <li>6.30 + Helenę Czerepak</li>
-    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
-    Ducha Świętego, opiekę Matki Bożej dla pewnej osoby i&nbsp;jej
-    rodziny</li>
-    <li>18.00 + Tadeusza Szwagierczaka</li>
+    <li>6.30 int. dziękczynna o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę Matki Bożej</li>
+    <li>6.30 + Mariannę Jakułę</li>
+    <li>6.30 + Tadeusza Warota</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    mądrość w&nbsp;podejmowaniu decyzji dla Bartłomieja z&nbsp;racji
+    20&nbsp;r. urodzin</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę
+    Matki Bożej dla Witolda z&nbsp;racji urodzin</li>
+    <li>18.00 + Genowefę, Tadeusza Szymańskich; Annę Moszczyńską;
+    zm.&nbsp;z&nbsp;rodz. Szymańskich i&nbsp;Łukaszków</li>
 </ul>
 
-<p class="intentions_date">16&nbsp;lutego, Wtorek</p>
+<p class="intentions_date">23&nbsp;lutego, Wtorek</p>
 <ul>
-    <li>6.30 we&nbsp;wszystkich intencjach wspólnoty
-    św.&nbsp;s.&nbsp;Faustyny</li>
-    <li>6.30 w&nbsp;int. rodziny z&nbsp;ul.&nbsp;Ożarowskiej
+    <li>6.30 int. dziękczynno-błagalna z&nbsp;racji urodzin Zuzi –
+    o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
+    Świętego, opiekę Matki Bożej dla niej oraz rodziców Justyny
+    i&nbsp;Łukasza</li>
+    <li>6.30 + Antoniego, Mariannę, Ignacego, Anielę Czajków</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>18.00 w&nbsp;int. naszej Ojczyzny o&nbsp;mądrość dla
+    rządzących, potrzebne łaski dla Polaków, wrażliwość sumień,
+    przymnożenie wiary</li>
+    <li>18.00 + Helenę Czerepak</li>
+    <li>18.00 + zmarłych z&nbsp;rodziny taty</li>
+</ul>
+
+<p class="intentions_date">24&nbsp;lutego, Środa</p>
+<ul>
+    <li>6.30 w&nbsp;int. koleżanek i&nbsp;kolegów syna ze&nbsp;Szkoły
+    Podstawowej nr&nbsp;4 ich rodziców i&nbsp;nauczycieli –
     o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
     Świętego, opiekę Matki Bożej</li>
-    <li>6.30 + Helenę Czerepak</li>
-    <li>18.00 + Mariannę Jakułę</li>
-    <li>18.00 + Zofię Jurkowską</li>
+    <li>6.30 + Helenę, Piotra, Bolesława, Kazimierza
+    Grządkowskich</li>
+    <li>18.00 + Bogusławę w&nbsp;3&nbsp;r.&nbsp;śm.; Józefa
+    w&nbsp;2&nbsp;r.&nbsp;śm. Cukrowskich</li>
+    <li>18.00 + Helenę Czerepak</li>
 </ul>
 
-<p class="intentions_date">17&nbsp;lutego, Środa –
-Środa Popielcowa</p>
+<p class="intentions_date">25&nbsp;lutego, Czwartek</p>
 <ul>
-    <li>6.30 + Irenę Stopczyńską</li>
-    <li>6.30 + Helenę Czerepak</li>
-    <li>9.00 + Zofię Jurkowską</li>
-    <li>18.00 int. dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    potrzebne łaski, opiekę Matki Bożej dla Madzi</li>
-    <li>18.00 + Tadeusza Szwagierczaka</li>
-    <li>18.00 + Kazimierza Tenderendę</li>
+    <li>6.30 + Tadeusza Szwagierczaka</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>18.00 + Helenę Czerepak</li>
+    <li>18.00 + Jacka Lipca w&nbsp;1&nbsp;r.&nbsp;śm.</li>
 </ul>
 
-<p class="intentions_date">18&nbsp;lutego, Czwartek</p>
+<p class="intentions_date">26&nbsp;lutego, Piątek</p>
 <ul>
     <li>6.30 + Mariannę Jakułę</li>
-    <li>6.30 + Władysławę Sowę</li>
-    <li>6.30 w&nbsp;intencji Panu Bogu wiadomej</li>
-    <li>18.00 + Danutę Zioło w&nbsp;4&nbsp;r.&nbsp;śm.; Władysławę,
-    Ignacego Ajdukiewiczów</li>
-    <li>18.00 + Tadeusza w&nbsp;3&nbsp;r.&nbsp;śm.; Andrzeja Mazurów,
-    Stanisławę Łukasiewicz</li>
-    <li>18.00 + Piotra w&nbsp;5&nbsp;r.&nbsp;śm., Mariannę,
-    Wincentego Michtów, Annę Skubidę, Barbarę Konopkę</li>
+    <li>6.30 + Władysława, Wiktora, Zdzisława Chmielewskich; Martę,
+    Andrzeja, Zofię, Juliana Rękasów</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>18.00 w&nbsp;int. rodziny Panu Bogu wiadomej –
+    o&nbsp;pojednanie, przymnożenie wiary, nadziei i&nbsp;miłości</li>
+    <li>18.00 + Helenę Czerepak</li>
 </ul>
 
-<p class="intentions_date">19&nbsp;lutego, Piątek</p>
+<p class="intentions_date">27&nbsp;lutego, Sobota</p>
 <ul>
-    <li>6.30 int. dziękczynno-błagalna o&nbsp;Miłosierdzie Boże,
-    potrzebne łaski w&nbsp;rodzinie i&nbsp;we&nbsp;wszystkich
-    rodzinach polskich za&nbsp;wstawiennictwem św.&nbsp;Józefa
-    Opiekuna rodzin</li>
-    <li>6.30 + Tadeusza Szwagierczaka</li>
-    <li>18.00 + Mariannę Jakułę</li>
-    <li>18.00 + Stanisława, Henryka</li>
-    <li>18.00 + Władysławę Sowę</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>6.30 + Mariana Patynę w&nbsp;2&nbsp;r.&nbsp;śm. oraz zmarłych
+    z&nbsp;rodz. Patynów</li>
+    <li>18.00 + Władysława Marca w&nbsp;5&nbsp;r.&nbsp;śm.;
+    Katarzynę, Wincentego Królów</li>
+    <li>18.00 + Helenę Czerepak</li>
+    <li>18.00 + Zdzisława Olejniczaka w&nbsp;1&nbsp;r.&nbsp;śm.</li>
 </ul>
 
-<p class="intentions_date">20&nbsp;lutego, Sobota</p>
-<ul>
-    <li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
-    Ducha Świętego, opiekę Matki Bożej w&nbsp;małżeństwie Asi
-    i&nbsp;Daniela</li>
-    <li>6.30 + Helenę Czerepak</li>
-    <li>6.30 w&nbsp;int. Panu Bogu wiadomej</li>
-    <li>18.00 int. dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
-    Mariana z&nbsp;racji 70&nbsp;urodzin</li>
-    <li>18.00 + Irenę Stopczyńską</li>
-    <li>18.00 + Józefę Bednarczyk w&nbsp;1&nbsp;r.&nbsp;śm.</li>
-</ul>
-
-<p class="intentions_date">21&nbsp;lutego,
+<p class="intentions_date">28&nbsp;lutego,
     <span style="color: grey">
-        I Niedziela Wielkiego Postu
+        II Niedziela Wielkiego Postu
     </span>
 </p>
 <ul>
-    <li>7.30 + Włodzimierza Kurasia; Henryka, Henrykę Kulińskich</li>
-    <li>7.30 + dr.&nbsp;Grigora Szaginian</li>
-    <li>9.30 + Antoniego, Helenę Wrzosków; Andrzeja Sado</li>
-    <li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
-    <li>11.15 + Janinę, Teresę, Józefa, Kazimierza, Michała, Ignacego
-    Tutaków</li>
-    <li>12.30 w&nbsp;intencji parafian</li>
-    <li>18.00 + Helenę, Henryka, Janusza Gierczaków; Helenę,
-    Franciszka, Stanisława Bińczaków</li>
+    <li>7.30 + Bogusławę, Józefa Cukrowskich</li>
+    <li>7.30 + Stefanię, Franciszka Kowalskich, Marie Woś, Wiesławę
+    Wałcerz</li>
+    <li>9.30 + Zenona Mądrego, zm.&nbsp;rodziców, Teresę, Eugeniusza
+    Paciochów</li>
+    <li>11.15 + Izabelę Malinowską</li>
+    <li>12.30 int. dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej,
+    wstawiennictwo św.&nbsp;Patrona dla Wojciecha Fularskiego</li>
+    <li>18.00 w&nbsp;intencji parafian</li>
 </ul>
     </div>
 </div>

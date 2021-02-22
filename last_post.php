@@ -1,57 +1,40 @@
 <div class="card">
     <div class="card-header">
-        <h3>14.&nbsp;lutego 2021&nbsp;r.</h3>
-        <h3>VI Niedziela Zwykła, Rok B</h3>
+        <h3>21.&nbsp;lutego 2021&nbsp;r.</h3>
+        <h3>I Niedziela Wielkiego Postu, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafianom - Paniom:
-        Marii Żyła, Agnieszce Kawęckiej i&nbsp;Panom: Kazimierzowi Włochowi
-        i&nbsp;Krzysztofowi Łukaszkowi. <em>Bóg zapłać</em> za&nbsp;złożoną
-        ofiarę w&nbsp;wysokości 200&nbsp;zł, na&nbsp;rzecz parafii.
+        <p>1. W&nbsp;minionym tygodniu nikt z&nbsp;poproszonych parafian
+        w&nbsp;zeszłą niedzielę, nie pomógł w&nbsp;sprzątaniu kościoła.
         <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
         parafialnej prosimy</strong> parafian mieszkających przy
-        ul.&nbsp;Mickiewicza, blok 55, od&nbsp;mieszkania nr&nbsp;1
-        do&nbsp;10.</p>
-        <p>2. Dziś po&nbsp;Mszach&nbsp;Św. zbiórka do&nbsp;puszek
-        na&nbsp;Fundusz Pomocy Chorym Kapłanom Diecezji Sandomierskiej.</p>
-        <p>3. W&nbsp;dniach od&nbsp;14 do&nbsp;20 lutego br. w &nbsp;Kościele
-        w&nbsp;Polsce Tydzień modlitw o&nbsp;trzeźwość Polaków, przeżywany
-        pod hasłem „Trzeźwością pokonać kryzys”. W&nbsp;zeszłym roku, Polacy
-        wydali 40&nbsp;mld&nbsp;zł na&nbsp;alkohol, można
-        za&nbsp;to&nbsp;kupić ponad 100&nbsp;tys. mieszkań średniej wartości.
-        Spożycie alkoholu w&nbsp;Polsce kształtuje się obecnie
-        na&nbsp;poziomie 10&nbsp;l na&nbsp;mieszkańca, nie liczony jest tzw.
-        „nielegalny alkohol”. Rocznie z&nbsp;powodu choroby alkoholowej
-        umiera 20&nbsp;tys. ludzi. Tam, gdzie brakuje trzeźwości, tam
-        pojawiają się w&nbsp;nadmiarze problemy, mnożą się dramaty całych
-        rodzin, wspólnot, ale także i&nbsp;całych środowisk. Trzeźwość jest
-        tamą, która chroni życie indywidualne, rodzinne, ale także społeczne
-        przed wielką powodzią cierpienia. Módlmy się i&nbsp;troszczmy
-        o&nbsp;trzeźwość.</p>
-        <p>4. Okażmy troskę o&nbsp;przydrożne krzyże, kapliczki, które
-        są&nbsp;na&nbsp;terenie naszej parafii. Wszystkim, którzy
-        to&nbsp;czynią niech Dobry Bóg im&nbsp;błogosławi i&nbsp;ich
-        najbliższym.</p>
-        <p>5. W&nbsp;tym tygodniu rozpoczynamy czas Wielkiego Postu,
-        najbliższa środa to&nbsp;Środa Popielcowa. Msze&nbsp;św.
-        z&nbsp;posypaniem głów popiołem o&nbsp;godz.&nbsp;6.30, 9.00
-        i&nbsp;18.00. Przypominamy, że&nbsp;w&nbsp;tym dniu obowiązuje post
-        ścisły ilościowy i&nbsp;jakościowy. <strong>Taca ze&nbsp;Środy
-        Popielcowej przeznaczona jest na&nbsp;Caritas.</strong> W&nbsp;naszej
-        Parafii rekolekcje wielkopostne rozpoczną się późniejszym terminie,
-        tj.&nbsp;w&nbsp;piątek w&nbsp;Uroczystość św.&nbsp;Józefa
-        19&nbsp;marca, przed V&nbsp;niedzielą Wielkiego Postu.</p>
-        <p>6. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        ul.&nbsp;Mickiewicza, blok 55, od&nbsp;mieszkania nr&nbsp;11
+        do&nbsp;19.</p>
+        <p>2. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;Fundusz Pomocy
+        Chorym Kapłanom Diecezji Sandomierskiej zostało zebrane 1452&nbsp;zł.
+        <em>Bóg zapłać</em> ofiarodawcom.</p>
+        <p>3. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
         o&nbsp;godz.&nbsp;17.30 - zapraszamy do&nbsp;udziału.</p>
-        <p>7. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
-        Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        <p>4. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
         Święta.</p>
-        <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        <p>5. W&nbsp;czasie epidemii, kurs przedmałżeński w&nbsp;naszej
+        Diecezji Sandomierskiej, jest organizowany przez Duszpasterstwo
+        Rodzin w&nbsp;formie online – rozpoczyna się 27&nbsp;lutego br.
+        w&nbsp;najbliższą sobotę.</p>
+        <p>6. W&nbsp;ramach jałmużny wielkopostnej, w&nbsp;przyszłą niedzielę
+        zbiórka do&nbsp;puszek na&nbsp;rzecz dzieła pomocy misjonarzom
+        „Ad Gentes”.</p>
+        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
         Gazety na&nbsp;stoliku pod chórem.</p>
-        <p>9. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy
-        błogosławionej niedzieli.</p>
+        <p>8. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+        na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym tygodniu
+        obchodzą swoje imieniny, urodziny, inne rocznice, składamy najlepsze
+        życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 14.&nbsp;lutego 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 21.&nbsp;lutego 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
