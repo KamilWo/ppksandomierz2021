@@ -1,40 +1,61 @@
 <div class="card">
     <div class="card-header">
-        <h3>21.&nbsp;lutego 2021&nbsp;r.</h3>
-        <h3>I Niedziela Wielkiego Postu, Rok B</h3>
+        <h3>28.&nbsp;lutego 2021&nbsp;r.</h3>
+        <h3>II Niedziela Wielkiego Postu, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. W&nbsp;minionym tygodniu nikt z&nbsp;poproszonych parafian
-        w&nbsp;zeszłą niedzielę, nie pomógł w&nbsp;sprzątaniu kościoła.
+        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafianom: Janinie
+        Prychocen, Dominice Trojanowskiej, Teresie Mazur, Annie
+        i&nbsp;Stanisławowi Dzieciuchom. <em>Bóg zapłać</em>. Zamówiona
+        Msza&nbsp;św. w&nbsp;ich intencji i&nbsp;ich rodzin, będzie
+        sprawowana dn.&nbsp;11.03.2021&nbsp;r. godz.&nbsp;6.30.
         <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
         parafialnej prosimy</strong> parafian mieszkających przy
-        ul.&nbsp;Mickiewicza, blok 55, od&nbsp;mieszkania nr&nbsp;11
-        do&nbsp;19.</p>
-        <p>2. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;Fundusz Pomocy
-        Chorym Kapłanom Diecezji Sandomierskiej zostało zebrane 1452&nbsp;zł.
-        <em>Bóg zapłać</em> ofiarodawcom.</p>
-        <p>3. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        ul.&nbsp;Mickiewicza, blok&nbsp;55, od&nbsp;mieszkania nr&nbsp;20
+        do&nbsp;30.</p>
+        <p>2. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
         o&nbsp;godz.&nbsp;17.30 - zapraszamy do&nbsp;udziału.</p>
-        <p>4. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
-        Żali” z nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        <p>3. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
         Święta.</p>
-        <p>5. W&nbsp;czasie epidemii, kurs przedmałżeński w&nbsp;naszej
-        Diecezji Sandomierskiej, jest organizowany przez Duszpasterstwo
-        Rodzin w&nbsp;formie online – rozpoczyna się 27&nbsp;lutego br.
-        w&nbsp;najbliższą sobotę.</p>
-        <p>6. W&nbsp;ramach jałmużny wielkopostnej, w&nbsp;przyszłą niedzielę
-        zbiórka do&nbsp;puszek na&nbsp;rzecz dzieła pomocy misjonarzom
-        „Ad Gentes”.</p>
-        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        <p>4. W&nbsp;ramach jałmużny wielkopostnej, dziś
+        po&nbsp;Mszach&nbsp;św. zbiórka do&nbsp;puszek na&nbsp;rzecz dzieła
+        pomocy misjonarzom „Ad Gentes”.</p>
+        <p>5. Przygotowując się do&nbsp;godnego przyjęcia Sakramentu
+        Bierzmowania – młodzież z&nbsp;naszej parafii, z&nbsp;klasy szóstej
+        ma&nbsp;spotkanie w&nbsp;parafialnym kościele w&nbsp;najbliższy
+        wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim spowiedź św.
+        W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
+        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
+        <p>6. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota miesiąca.
+        W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.30</p>
+        <p>7. Zwracamy się zaproszeniem i&nbsp;prośbą do&nbsp;młodzieży
+        z&nbsp;klasy ósmej szkoły podstawowej i&nbsp;z&nbsp;szkół średnich,
+        do&nbsp;zaangażowania się w&nbsp;działalność parafialnej scholii,
+        zespołu muzycznego. Kierujemy to&nbsp;zaproszenie do&nbsp;dziewcząt
+        i&nbsp;chłopców. Uwzględniając uwarunkowania pandemiczne, chodzi nam
+        jedynie o&nbsp;wstępną deklarację. Chęć śpiewania w&nbsp;scholi, czy
+        w&nbsp;zespole muzycznym, zgłaszamy do&nbsp;któregoś z&nbsp;księży
+        pracujących w&nbsp;naszej parafii.</p>
+        <p>8. W&nbsp;najbliższy piątek wypada rocznica sakry Biskupa Seniora
+        Edwarda Frankowskiego. W&nbsp;tym dniu, w&nbsp;modlitwie polecajmy
+        Bogu Czcigodnego Jubilata.</p>
+        <p>9. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>10. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
         Gazety na&nbsp;stoliku pod chórem.</p>
-        <p>8. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+        <p>11. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
         na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym tygodniu
-        obchodzą swoje imieniny, urodziny, inne rocznice, składamy najlepsze
+        obchodzą swoje imieniny, urodziny, inne rocznice,  składamy najlepsze
         życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
         uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
         niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 21.&nbsp;lutego 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 28.&nbsp;lutego 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>

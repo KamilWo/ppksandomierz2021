@@ -13,7 +13,93 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 21.&nbsp;lutego 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 28.&nbsp;lutego 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>21.&nbsp;lutego 2021&nbsp;r.</h3>
+        <h3>I Niedziela Wielkiego Postu, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;minionym tygodniu nikt z&nbsp;poproszonych parafian
+        w&nbsp;zeszłą niedzielę, nie pomógł w&nbsp;sprzątaniu kościoła.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 55, od&nbsp;mieszkania nr&nbsp;11
+        do&nbsp;19.</p>
+        <p>2. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;Fundusz Pomocy
+        Chorym Kapłanom Diecezji Sandomierskiej zostało zebrane 1452&nbsp;zł.
+        <em>Bóg zapłać</em> ofiarodawcom.</p>
+        <p>3. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.30 - zapraszamy do&nbsp;udziału.</p>
+        <p>4. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        Święta.</p>
+        <p>5. W&nbsp;czasie epidemii, kurs przedmałżeński w&nbsp;naszej
+        Diecezji Sandomierskiej, jest organizowany przez Duszpasterstwo
+        Rodzin w&nbsp;formie online – rozpoczyna się 27&nbsp;lutego br.
+        w&nbsp;najbliższą sobotę.</p>
+        <p>6. W&nbsp;ramach jałmużny wielkopostnej, w&nbsp;przyszłą niedzielę
+        zbiórka do&nbsp;puszek na&nbsp;rzecz dzieła pomocy misjonarzom
+        „Ad Gentes”.</p>
+        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety na&nbsp;stoliku pod chórem.</p>
+        <p>8. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+        na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym tygodniu
+        obchodzą swoje imieniny, urodziny, inne rocznice, składamy najlepsze
+        życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 21.&nbsp;lutego 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
+<div class="card">
+    <div class="card-header">
+        <h3>21.&nbsp;lutego 2021&nbsp;r.</h3>
+        <h3>I Niedziela Wielkiego Postu, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;minionym tygodniu nikt z&nbsp;poproszonych parafian
+        w&nbsp;zeszłą niedzielę, nie pomógł w&nbsp;sprzątaniu kościoła.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok 55, od&nbsp;mieszkania nr&nbsp;11
+        do&nbsp;19.</p>
+        <p>2. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;Fundusz Pomocy
+        Chorym Kapłanom Diecezji Sandomierskiej zostało zebrane 1452&nbsp;zł.
+        <em>Bóg zapłać</em> ofiarodawcom.</p>
+        <p>3. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.30 - zapraszamy do&nbsp;udziału.</p>
+        <p>4. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        Święta.</p>
+        <p>5. W&nbsp;czasie epidemii, kurs przedmałżeński w&nbsp;naszej
+        Diecezji Sandomierskiej, jest organizowany przez Duszpasterstwo
+        Rodzin w&nbsp;formie online – rozpoczyna się 27&nbsp;lutego br.
+        w&nbsp;najbliższą sobotę.</p>
+        <p>6. W&nbsp;ramach jałmużny wielkopostnej, w&nbsp;przyszłą niedzielę
+        zbiórka do&nbsp;puszek na&nbsp;rzecz dzieła pomocy misjonarzom
+        „Ad Gentes”.</p>
+        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety na&nbsp;stoliku pod chórem.</p>
+        <p>8. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+        na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym tygodniu
+        obchodzą swoje imieniny, urodziny, inne rocznice, składamy najlepsze
+        życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 21.&nbsp;lutego 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
