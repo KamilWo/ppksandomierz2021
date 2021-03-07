@@ -13,49 +13,266 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 28.&nbsp;lutego 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 07.&nbsp;marca 2021 r.</h2>
 <div class="card">
     <div class="card-header">
-        <h3>21.&nbsp;lutego 2021&nbsp;r.</h3>
-        <h3>I Niedziela Wielkiego Postu, Rok B</h3>
+        <h3>INTENCJE MSZALNE<br />
+            01.03 – 07.03 2021&nbsp;r.
+        </h3>
     </div>
     <div class="col">
-        <p>1. W&nbsp;minionym tygodniu nikt z&nbsp;poproszonych parafian
-        w&nbsp;zeszłą niedzielę, nie pomógł w&nbsp;sprzątaniu kościoła.
+<p class="intentions_date">01&nbsp;marca, Poniedziałek</p>
+<ul>
+    <li>6.30 + Tadeusza Szwagierczaka</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana,
+    Krystynę, Mariana</li>
+    <li>18.00 + Mariannę Jakułę</li>
+</ul>
+
+<p class="intentions_date">02&nbsp;marca, Wtorek</p>
+<ul>
+    <li>6.30 + Tadeusza Szwagierczaka</li>
+    <li>6.30 + Mariana w&nbsp;r.&nbsp;śm., Stanisławę Mądrych</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, łaskę zdrowia, opiekę
+    Matki Bożej dla Michała i&nbsp;Mateusza</li>
+    <li>18.00 + Helenę w&nbsp;1&nbsp;r.&nbsp;śm., Mariana
+    Przyłuckich</li>
+    <li>18.00 + Władysławę Sowę</li>
+</ul>
+
+<p class="intentions_date">03&nbsp;marca, Środa</p>
+<ul>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>6.30 + Romana, Helenę, Hannę Orlików</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, zdrowie,
+    siły, wstawiennictwo św.&nbsp;Patronów dla Ireny, Krystyny
+    i&nbsp;Józefy</li>
+    <li>18.00 o&nbsp;ducha pokuty i&nbsp;pojednania dla naszej
+    wspólnoty parafialnej</li>
+</ul>
+
+<p class="intentions_date">04&nbsp;marca, Czwartek –
+św. Kazimierza</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, łaskę zdrowia, dary Ducha
+    Świętego, opiekę Matki Bożej dla Ani w&nbsp;dniu urodzin</li>
+    <li>6.30 + Kazimierę Czajkę; Kazimierza Gacha;
+    zm.&nbsp;z&nbsp;rodz. Gachów i&nbsp;Czajków</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>18.00 + Kazimierza Zioło; Dionizję Grzegorską</li>
+    <li>18.00 + Kazimierza Kaczmarskiego; Małgorzatę Walczyna</li>
+    <li>18.00 + Kazimierza, Mariannę Kołodziejów; Zofię, Wincentego
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Bryłów</li>
+</ul>
+
+<p class="intentions_date">05&nbsp;marca, Piątek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej dla dzieci
+    i&nbsp;chrześniaków</li>
+    <li>6.30 + Krystynę Stan</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>18.00 w&nbsp;int. kapłanów o&nbsp;świętość ich życia oraz
+    o&nbsp;nowe, święte powołania kapłańskie i&nbsp;zakonne</li>
+    <li>18.00 + Klarę Stefańską</li>
+</ul>
+
+<p class="intentions_date">06&nbsp;marca, Sobota</p>
+<ul>
+    <li>6.30 o&nbsp;łaskę dobrej śmierci</li>
+    <li>6.30 + Zofię Jurkowską</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>18.00 int. wynagradzająca za&nbsp;grzechy i&nbsp;bluźnierstwa
+    - od&nbsp;Legionu Maryi</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej dla Aleksandry z&nbsp;racji
+    zbliżającego się egzaminu maturalnego</li>
+</ul>
+
+<p class="intentions_date">07&nbsp;marca,
+    <span style="color: grey">
+        III Niedziela Wielkiego Postu
+    </span>
+</p>
+<ul>
+    <li>7.30 w&nbsp;intencji parafian</li>
+    <li>7.30 + Jana Kaletę</li>
+    <li>9.30 + Kazimierę, Wacława Wojna; zm.&nbsp;z&nbsp;rodz. Wojnów
+    i&nbsp;Mielczaków</li>
+    <li>11.15 w&nbsp;int. Kół Żywego Różańca</li>
+    <li>11.15 + Juliusza, Otylię Nagórnych, zm.&nbsp;z&nbsp;rodz.
+    Grzesiaków i&nbsp;Nagórnych</li>
+    <li>12.30 + Stefanię, Józefa Janus; Zofię Lachtarę; Krystynę
+    Polit</li>
+    <li>18.00 + Helenę, Józefa Wąsików</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>28.&nbsp;lutego 2021&nbsp;r.</h3>
+        <h3>II Niedziela Wielkiego Postu, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafianom: Janinie
+        Prychocen, Dominice Trojanowskiej, Teresie Mazur, Annie
+        i&nbsp;Stanisławowi Dzieciuchom. <em>Bóg zapłać</em>. Zamówiona
+        Msza&nbsp;św. w&nbsp;ich intencji i&nbsp;ich rodzin, będzie
+        sprawowana dn.&nbsp;11.03.2021&nbsp;r. godz.&nbsp;6.30.
         <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
         parafialnej prosimy</strong> parafian mieszkających przy
-        ul.&nbsp;Mickiewicza, blok 55, od&nbsp;mieszkania nr&nbsp;11
-        do&nbsp;19.</p>
-        <p>2. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;Fundusz Pomocy
-        Chorym Kapłanom Diecezji Sandomierskiej zostało zebrane 1452&nbsp;zł.
-        <em>Bóg zapłać</em> ofiarodawcom.</p>
-        <p>3. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        ul.&nbsp;Mickiewicza, blok&nbsp;55, od&nbsp;mieszkania nr&nbsp;20
+        do&nbsp;30.</p>
+        <p>2. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
         o&nbsp;godz.&nbsp;17.30 - zapraszamy do&nbsp;udziału.</p>
-        <p>4. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
-        Żali” z nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        <p>3. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
         Święta.</p>
-        <p>5. W&nbsp;czasie epidemii, kurs przedmałżeński w&nbsp;naszej
-        Diecezji Sandomierskiej, jest organizowany przez Duszpasterstwo
-        Rodzin w&nbsp;formie online – rozpoczyna się 27&nbsp;lutego br.
-        w&nbsp;najbliższą sobotę.</p>
-        <p>6. W&nbsp;ramach jałmużny wielkopostnej, w&nbsp;przyszłą niedzielę
-        zbiórka do&nbsp;puszek na&nbsp;rzecz dzieła pomocy misjonarzom
-        „Ad Gentes”.</p>
-        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        <p>4. W&nbsp;ramach jałmużny wielkopostnej, dziś
+        po&nbsp;Mszach&nbsp;św. zbiórka do&nbsp;puszek na&nbsp;rzecz dzieła
+        pomocy misjonarzom „Ad Gentes”.</p>
+        <p>5. Przygotowując się do&nbsp;godnego przyjęcia Sakramentu
+        Bierzmowania – młodzież z&nbsp;naszej parafii, z&nbsp;klasy szóstej
+        ma&nbsp;spotkanie w&nbsp;parafialnym kościele w&nbsp;najbliższy
+        wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim spowiedź św.
+        W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
+        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
+        <p>6. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota miesiąca.
+        W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.30</p>
+        <p>7. Zwracamy się zaproszeniem i&nbsp;prośbą do&nbsp;młodzieży
+        z&nbsp;klasy ósmej szkoły podstawowej i&nbsp;z&nbsp;szkół średnich,
+        do&nbsp;zaangażowania się w&nbsp;działalność parafialnej scholii,
+        zespołu muzycznego. Kierujemy to&nbsp;zaproszenie do&nbsp;dziewcząt
+        i&nbsp;chłopców. Uwzględniając uwarunkowania pandemiczne, chodzi nam
+        jedynie o&nbsp;wstępną deklarację. Chęć śpiewania w&nbsp;scholi, czy
+        w&nbsp;zespole muzycznym, zgłaszamy do&nbsp;któregoś z&nbsp;księży
+        pracujących w&nbsp;naszej parafii.</p>
+        <p>8. W&nbsp;najbliższy piątek wypada rocznica sakry Biskupa Seniora
+        Edwarda Frankowskiego. W&nbsp;tym dniu, w&nbsp;modlitwie polecajmy
+        Bogu Czcigodnego Jubilata.</p>
+        <p>9. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>10. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
         Gazety na&nbsp;stoliku pod chórem.</p>
-        <p>8. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+        <p>11. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
         na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym tygodniu
-        obchodzą swoje imieniny, urodziny, inne rocznice, składamy najlepsze
+        obchodzą swoje imieniny, urodziny, inne rocznice,  składamy najlepsze
         życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
         uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
         niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 21.&nbsp;lutego 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 28.&nbsp;lutego 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
 </div>
 <br />
+
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            22.02 – 28.02 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">22&nbsp;lutego, Poniedziałek –
+Święto katedry św.&nbsp;Piotra Apostoła</p>
+<ul>
+    <li>6.30 int. dziękczynna o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę Matki Bożej</li>
+    <li>6.30 + Mariannę Jakułę</li>
+    <li>6.30 + Tadeusza Warota</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    mądrość w&nbsp;podejmowaniu decyzji dla Bartłomieja z&nbsp;racji
+    20&nbsp;r. urodzin</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę
+    Matki Bożej dla Witolda z&nbsp;racji urodzin</li>
+    <li>18.00 + Genowefę, Tadeusza Szymańskich; Annę Moszczyńską;
+    zm.&nbsp;z&nbsp;rodz. Szymańskich i&nbsp;Łukaszków</li>
+</ul>
+<p class="intentions_date">23&nbsp;lutego, Wtorek</p>
+<ul>
+    <li>6.30 int. dziękczynno-błagalna z&nbsp;racji urodzin Zuzi –
+    o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
+    Świętego, opiekę Matki Bożej dla niej oraz rodziców Justyny
+    i&nbsp;Łukasza</li>
+    <li>6.30 + Antoniego, Mariannę, Ignacego, Anielę Czajków</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>18.00 w&nbsp;int. naszej Ojczyzny o&nbsp;mądrość dla
+    rządzących, potrzebne łaski dla Polaków, wrażliwość sumień,
+    przymnożenie wiary</li>
+    <li>18.00 + Helenę Czerepak</li>
+    <li>18.00 + zmarłych z&nbsp;rodziny taty</li>
+</ul>
+<p class="intentions_date">24&nbsp;lutego, Środa</p>
+<ul>
+    <li>6.30 w&nbsp;int. koleżanek i&nbsp;kolegów syna ze&nbsp;Szkoły
+    Podstawowej nr&nbsp;4 ich rodziców i&nbsp;nauczycieli –
+    o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary Ducha
+    Świętego, opiekę Matki Bożej</li>
+    <li>6.30 + Helenę, Piotra, Bolesława, Kazimierza
+    Grządkowskich</li>
+    <li>18.00 + Bogusławę w&nbsp;3&nbsp;r.&nbsp;śm.; Józefa
+    w&nbsp;2&nbsp;r.&nbsp;śm. Cukrowskich</li>
+    <li>18.00 + Helenę Czerepak</li>
+</ul>
+<p class="intentions_date">25&nbsp;lutego, Czwartek</p>
+<ul>
+    <li>6.30 + Tadeusza Szwagierczaka</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>18.00 + Helenę Czerepak</li>
+    <li>18.00 + Jacka Lipca w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+</ul>
+<p class="intentions_date">26&nbsp;lutego, Piątek</p>
+<ul>
+    <li>6.30 + Mariannę Jakułę</li>
+    <li>6.30 + Władysława, Wiktora, Zdzisława Chmielewskich; Martę,
+    Andrzeja, Zofię, Juliana Rękasów</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>18.00 w&nbsp;int. rodziny Panu Bogu wiadomej –
+    o&nbsp;pojednanie, przymnożenie wiary, nadziei i&nbsp;miłości</li>
+    <li>18.00 + Helenę Czerepak</li>
+</ul>
+<p class="intentions_date">27&nbsp;lutego, Sobota</p>
+<ul>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>6.30 + Mariana Patynę w&nbsp;2&nbsp;r.&nbsp;śm. oraz zmarłych
+    z&nbsp;rodz. Patynów</li>
+    <li>18.00 + Władysława Marca w&nbsp;5&nbsp;r.&nbsp;śm.;
+    Katarzynę, Wincentego Królów</li>
+    <li>18.00 + Helenę Czerepak</li>
+    <li>18.00 + Zdzisława Olejniczaka w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+</ul>
+<p class="intentions_date">28&nbsp;lutego,
+    <span style="color: grey">
+        II Niedziela Wielkiego Postu
+    </span>
+</p>
+<ul>
+    <li>7.30 + Bogusławę, Józefa Cukrowskich</li>
+    <li>7.30 + Stefanię, Franciszka Kowalskich, Marie Woś, Wiesławę
+    Wałcerz</li>
+    <li>9.30 + Zenona Mądrego, zm.&nbsp;rodziców, Teresę, Eugeniusza
+    Paciochów</li>
+    <li>11.15 + Izabelę Malinowską</li>
+    <li>12.30 int. dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej,
+    wstawiennictwo św.&nbsp;Patrona dla Wojciecha Fularskiego</li>
+    <li>18.00 w&nbsp;intencji parafian</li>
+</ul>
+    </div>
+</div>
+<br/>
 
 <div class="card">
     <div class="card-header">
