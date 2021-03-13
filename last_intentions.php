@@ -1,92 +1,97 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            08.03 – 14.03 2021&nbsp;r.
+            15.03 – 21.03 2021&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">08&nbsp;marca, Poniedziałek</p>
+<p class="intentions_date">15&nbsp;marca, Poniedziałek</p>
 <ul>
-    <li>6.30 + Mariannę Jakułę</li>
-    <li>6.30 + Helenę Czerepak</li>
-    <li>6.30 + Idę Głaz greg.&nbsp;1</li>
-    <li>18.00 + Feliksa, Mariannę Płazów w&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Helenę w&nbsp;7&nbsp;r.&nbsp;śm., Józefa Wąsików</li>
-    <li>18.00 + Klarę, Jana Chrząstowskich; Jana Makowskiego</li>
-</ul>
-
-<p class="intentions_date">09&nbsp;marca, Wtorek</p>
-<ul>
-    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, łaskę
-    zdrowia, dary Ducha Świętego, opiekę Matki Bożej dla rodziny
-    Anny, Wiktorii, Kamila</li>
-    <li>6.30 + Tadeusza Szwagierczaka</li>
-    <li>6.30 + Tadeusza Warota</li>
-    <li>18.00 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
-    o&nbsp;łaskę przemiany, Bożą opatrzność</li>
-    <li>18.00 + Barbarę Rutkowską w&nbsp;2&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Idę Głaz greg.&nbsp;2</li>
-</ul>
-
-<p class="intentions_date">10&nbsp;marca, Środa</p>
-<ul>
+    <li>6.30 + Idę Głaz greg.&nbsp;8</li>
     <li>6.30 + Kazimierza Makowskiego</li>
-    <li>6.30 + Kazimierza, Helenę, Stanisławę, Józefa, Jana,
-    zm.&nbsp;z&nbsp;rodz oraz dusze w&nbsp;czyśćcu cierpiące</li>
-    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    <li>6.30 + Elżbietę Chmiel</li>
+    <li>18.00 + Tadeusza Szwagierczaka</li>
+    <li>18.00 + Reginę Jakubczyk w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">16&nbsp;marca, Wtorek</p>
+<ul>
+    <li>6.30 + Idę Głaz greg.&nbsp;9</li>
+    <li>6.30 + Elżbietę Chmiel</li>
+    <li>18.00 + Marię Włoch</li>
+    <li>18.00 + Zofię Jurkowską</li>
+    <li>18.00 + Kazimierza, Krzysztofa, Zdzisława Kwiatkowskich,
+    Kazimierza i&nbsp;zm.&nbsp;z&nbsp;rodz. Kaczmarskich</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;marca, Środa</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
     potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
-    Tomasza z&nbsp;racji urodzin</li>
-    <li>18.00 o&nbsp;nawrócenie męża Piotra i&nbsp;ojca</li>
-    <li>18.00 + Idę Głaz greg.&nbsp;3</li>
+    Bogusława z&nbsp;racji imienin</li>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>18.00 w int. wynagradzającej Panu Bogu za&nbsp;grzechy
+    aborcji i&nbsp;eutanazji</li>
+    <li>18.00 + Kazimierza Makowskiego</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;10</li>
 </ul>
 
-<p class="intentions_date">11&nbsp;marca, Czwartek</p>
+<p class="intentions_date">18&nbsp;marca, Czwartek</p>
 <ul>
-    <li>6.30 w&nbsp;int. osób z&nbsp;ul.&nbsp;Mickiewicza 55/11-19
-    sprzątających kościół parafialny oraz ich rodzin o&nbsp;Boże
-    błogosławieństwo, łaskę zdrowia, dary Ducha Świętego, opiekę
-    Matki Bożej</li>
-    <li>6.30 + Elżbietę Chmiel</li>
-    <li>6.30 + Idę Głaz greg.&nbsp;4</li>
-    <li>18.00 + Helenę Bodułę w&nbsp;16&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Feliksa Osmalę w&nbsp;17&nbsp;r.&nbsp;śm.; Józefa,
-    Teresę Zimnickich</li>
-</ul>
-
-<p class="intentions_date">12&nbsp;marca, Piątek</p>
-<ul>
-    <li>6.30 + Idę Głaz greg.&nbsp;5</li>
+    <li>6.30 + Idę Głaz greg.&nbsp;11</li>
     <li>6.30 + Kazimierza Makowskiego</li>
-    <li>18.00 w&nbsp;int. naszej wspólnoty parafialnej o&nbsp;ducha
-    pokuty i&nbsp;pojednania</li>
-    <li>18.00 + zm.&nbsp;z&nbsp;rodz. Erkolani</li>
-    <li>18.00 + Stanisława Pacholczyka</li>
+    <li>18.00 o&nbsp;światło Ducha Świętego, potrzebne łaski
+    w&nbsp;rozwiązaniu trudnej sprawy</li>
+    <li>18.00 + Władysława, Władysławę Mrówka
+    i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
+    <li>18.00 + Jacka Wódz w&nbsp;2&nbsp;r.&nbsp;śm.</li>
 </ul>
 
-<p class="intentions_date">13&nbsp;marca, Sobota</p>
+<p class="intentions_date">19&nbsp;marca, Piątek –
+Uroczystość św.&nbsp;Józefa, Oblubieńca Najświętszej Maryi Panny</p>
 <ul>
-    <li>6.30 + Idę Głaz greg.&nbsp;6</li>
+    <li>6.30 + Idę Głaz greg.&nbsp;12</li>
     <li>6.30 + Elżbietę Chmiel</li>
-    <li>6.30 + Helenę Czerepak</li>
-    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, zdrowie,
-    dary Ducha Świętego, opiekę Matki Bożej dla rodz. Pacholczyków</li>
-    <li>18.00 + Krystynę, Genowefę, Władysława, Józefa Walasek</li>
+    <li>9.00 int. dziękczynna za&nbsp;rozwój Radia Maryja
+    i&nbsp;Telewizji Trwam oraz dzieł z&nbsp;tym związanych</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże Miłosierdzie,
+    potrzebne łaski, opiekę Matki Bożej w&nbsp;rodzinie
+    i&nbsp;wszystkich polskich rodzinach za&nbsp;wstawiennictwem
+    św.&nbsp;Józefa Opiekuna rodzin</li>
+    <li>18.00 + zm.&nbsp;z&nbsp;rodz. Kapisów</li>
+    <li>18.00 + Henryka w&nbsp;19&nbsp;r.&nbsp;śm.; Jadwigę
+    w&nbsp;13&nbsp;r.&nbsp;śm. Marciniaków</li>
 </ul>
 
-<p class="intentions_date">14&nbsp;marca,
+<p class="intentions_date">20&nbsp;marca, Sobota</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla Asi
+    i&nbsp;Daniela</li>
+    <li>6.30 + Jana w&nbsp;6&nbsp;r.&nbsp;śm. oraz jego rodziców</li>
+    <li>9.00 + Idę Głaz greg.&nbsp;13</li>
+    <li>18.00 + Stanisława, Joannę Donda; Jana Trojanowskiego</li>
+    <li>18.00 + Helenę w&nbsp;40&nbsp;r.&nbsp;śm., Władysława
+    Czerepaków; Zdzisława Staniszewskiego</li>
+    <li>18.00 + Helenę, Antoniego, Stanisława, Jana Kucharczaków;
+    Grzegorza Snocha</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;marca,
     <span style="color: grey">
-        IV Niedziela Wielkiego Postu
+        V&nbsp;Niedziela Wielkiego Postu
     </span>
 </p>
 <ul>
-    <li>7.30 + Andrzeja w&nbsp;10&nbsp;r.&nbsp;śm., Józefę, Idziego
-    Dudków</li>
-    <li>7.30 + Idę Głaz greg.&nbsp;7</li>
-    <li>9.30 w&nbsp;intencji parafian</li>
-    <li>11.15 + Leonarda Konopkę w&nbsp;14&nbsp;r.&nbsp;śm.</li>
-    <li>12.30 + Kazimierza, Bronisławę Dudów; Ryszarda Czechowskiego;
-    zm.&nbsp;z&nbsp;rodz. Szcześniaków i&nbsp;Dudów</li>
-    <li>18.00 + Zofię Strawczyńską</li>
+    <li>7.30 + Barbarę Pyszczyńską w&nbsp;7&nbsp;r.&nbsp;śm.</li>
+    <li>7.30 w intencji parafian</li>
+    <li>9.30 + Józefa Zubę</li>
+    <li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
+    <li>11.15 + Idę Głaz greg.&nbsp;14</li>
+    <li>12.30 + Mariana Blaszkę</li>
+    <li>18.00 + dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej,
+    wstawiennictwo św.&nbsp;Patrona dla Wojciecha Fularskiego</li>
 </ul>
     </div>
 </div>

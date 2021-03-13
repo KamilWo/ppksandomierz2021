@@ -13,7 +13,149 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 07.&nbsp;marca 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 14.&nbsp;marca 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            08.03 – 14.03 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">08&nbsp;marca, Poniedziałek</p>
+<ul>
+    <li>6.30 + Mariannę Jakułę</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>6.30 + Idę Głaz greg.&nbsp;1</li>
+    <li>18.00 + Feliksa, Mariannę Płazów w&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Helenę w&nbsp;7&nbsp;r.&nbsp;śm., Józefa Wąsików</li>
+    <li>18.00 + Klarę, Jana Chrząstowskich; Jana Makowskiego</li>
+</ul>
+
+<p class="intentions_date">09&nbsp;marca, Wtorek</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo, łaskę
+    zdrowia, dary Ducha Świętego, opiekę Matki Bożej dla rodziny
+    Anny, Wiktorii, Kamila</li>
+    <li>6.30 + Tadeusza Szwagierczaka</li>
+    <li>6.30 + Tadeusza Warota</li>
+    <li>18.00 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
+    o&nbsp;łaskę przemiany, Bożą opatrzność</li>
+    <li>18.00 + Barbarę Rutkowską w&nbsp;2&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;2</li>
+</ul>
+
+<p class="intentions_date">10&nbsp;marca, Środa</p>
+<ul>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>6.30 + Kazimierza, Helenę, Stanisławę, Józefa, Jana,
+    zm.&nbsp;z&nbsp;rodz oraz dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
+    Tomasza z&nbsp;racji urodzin</li>
+    <li>18.00 o&nbsp;nawrócenie męża Piotra i&nbsp;ojca</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;3</li>
+</ul>
+
+<p class="intentions_date">11&nbsp;marca, Czwartek</p>
+<ul>
+    <li>6.30 w&nbsp;int. osób z&nbsp;ul.&nbsp;Mickiewicza 55/11-19
+    sprzątających kościół parafialny oraz ich rodzin o&nbsp;Boże
+    błogosławieństwo, łaskę zdrowia, dary Ducha Świętego, opiekę
+    Matki Bożej</li>
+    <li>6.30 + Elżbietę Chmiel</li>
+    <li>6.30 + Idę Głaz greg.&nbsp;4</li>
+    <li>18.00 + Helenę Bodułę w&nbsp;16&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Feliksa Osmalę w&nbsp;17&nbsp;r.&nbsp;śm.; Józefa,
+    Teresę Zimnickich</li>
+</ul>
+
+<p class="intentions_date">12&nbsp;marca, Piątek</p>
+<ul>
+    <li>6.30 + Idę Głaz greg.&nbsp;5</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>18.00 w&nbsp;int. naszej wspólnoty parafialnej o&nbsp;ducha
+    pokuty i&nbsp;pojednania</li>
+    <li>18.00 + zm.&nbsp;z&nbsp;rodz. Erkolani</li>
+    <li>18.00 + Stanisława Pacholczyka</li>
+</ul>
+
+<p class="intentions_date">13&nbsp;marca, Sobota</p>
+<ul>
+    <li>6.30 + Idę Głaz greg.&nbsp;6</li>
+    <li>6.30 + Elżbietę Chmiel</li>
+    <li>6.30 + Helenę Czerepak</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, zdrowie,
+    dary Ducha Świętego, opiekę Matki Bożej dla rodz. Pacholczyków</li>
+    <li>18.00 + Krystynę, Genowefę, Władysława, Józefa Walasek</li>
+</ul>
+
+<p class="intentions_date">14&nbsp;marca,
+    <span style="color: grey">
+        IV Niedziela Wielkiego Postu
+    </span>
+</p>
+<ul>
+    <li>7.30 + Andrzeja w&nbsp;10&nbsp;r.&nbsp;śm., Józefę, Idziego
+    Dudków</li>
+    <li>7.30 + Idę Głaz greg.&nbsp;7</li>
+    <li>9.30 w&nbsp;intencji parafian</li>
+    <li>11.15 + Leonarda Konopkę w&nbsp;14&nbsp;r.&nbsp;śm.</li>
+    <li>12.30 + Kazimierza, Bronisławę Dudów; Ryszarda Czechowskiego;
+    zm.&nbsp;z&nbsp;rodz. Szcześniaków i&nbsp;Dudów</li>
+    <li>18.00 + Zofię Strawczyńską</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>07.&nbsp;marca 2021&nbsp;r.</h3>
+        <h3>III Niedziela Wielkiego Postu, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy za&nbsp;sprzątanie kościoła parafianom: Krystynie
+        Szczygieł, Danucie i&nbsp;Jackowi Judom, Stefanowi Studnickiemu,
+        Pawłowi Studnickiemu. <em>Bóg zapłać</em>. Zamówiona Msza&nbsp;św.
+        w&nbsp;ich intencji i&nbsp;ich rodzin oraz mieszkańców trzeciej
+        klatki blok&nbsp;55 ul.&nbsp;Mickiewicza, będzie sprawowana
+        dn.&nbsp;13.03.2021&nbsp;r. godz.&nbsp;6.30.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok&nbsp;57, od&nbsp;mieszkania
+        nr.&nbsp;1 do&nbsp;10.</p>
+        <p>2. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.30 - zapraszamy do&nbsp;udziału.</p>
+        <p>3. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        Święta.</p>
+        <p>4. W&nbsp;zeszłą niedzielę po&nbsp;Mszach&nbsp;św. do&nbsp;puszek
+        na&nbsp;rzecz dzieła pomocy misjonarzom „Ad Gentes”, zostało zebrane
+        2693&nbsp;zł. <em>Bóg zapłać</em> ofiarodawcom. Pieniądze zostały
+        przekazane na&nbsp;wcześniej wspomniany cel.</p>
+        <p>5. Jutro, przypominamy „Dzień modlitw w&nbsp;intencji kobiet”.</p>
+        <p>6. Początek nowenny przed uroczystością św.&nbsp;Józefa
+        10&nbsp;marca&nbsp;br., tj.&nbsp;w&nbsp;środę, po&nbsp;Mszy&nbsp;św.
+        wieczorem.</p>
+        <p>7. Ósma Rocznica Wyboru Ojca Świętego Franciszka
+        13&nbsp;marca&nbsp;br., tj.&nbsp;w&nbsp;najbliższą sobotę. Dziś
+        Papież pielgrzymuje w&nbsp;Iraku. Jutro wraca do&nbsp;Rzymu. Prośmy
+        Boga, aby wizyta Papieża w&nbsp;tym kraju przyniosła owoce:
+        Miłosierdzia i&nbsp;Pokoju dla wszystkich mieszkańców tego kraju.</p>
+        <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety na&nbsp;stoliku pod chórem.</p>
+        <p>9. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 07.&nbsp;marca 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
