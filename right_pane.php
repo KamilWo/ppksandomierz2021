@@ -1,41 +1,14 @@
 <!-- prawy panel -->
 <div class="col-md-4 rightPanel">
     <h3>
-        Św.&nbsp;Mikołaj w&nbsp;Podwyższeniu
+        Dekret<br />
+        o&nbsp;głównych celebracjach z&nbsp;okazji „Roku św.&nbsp;Józefa”,
+        ustanowieniu jubileuszowych kościołów stacyjnych
+        i&nbsp;możliwościach uzyskania odpustu zupełnego
     </h3>
     <p>
-        <img src="static/download/Swiety_Mikolaj_z_Miry.webp" alt="Święty Mikołaj z Miry"/>
-    </p>
-    <p>
-        Zapraszamy wszystkie dzieci z&nbsp;naszej parafii, które nie
-        ukończyły 11&nbsp;lat życia, do&nbsp;uczczenia osoby
-        św.&nbsp;Mikołaja biskupa. <strong>Celem tej inicjatywy jest ukazanie prawdy
-        o&nbsp;wielkim świętym Kościoła, który uczy nas czym jest miłość,
-        dobro i&nbsp;miłosierdzie.</strong>
-    </p>
-    <p>
-        <strong>Forma prezentacji</strong>: film, max 3&nbsp;min. (piosenka, wiersz,
-        krótkie opowiadanie).
-    </p>
-    <p>
-        <strong>Wiek uczestników</strong>: dzieci do&nbsp;11&nbsp;roku życia włącznie.
-    </p>
-    <p>
-        <strong>Termin nadsyłania prac</strong>: 30&nbsp;listopada 2020&nbsp;r.
-    </p>
-    <p>
-        <strong>Adres przesyłania prac</strong>: <a href="mailto:ppksandomierz@onet.pl">
-        ppksandomierz@onet.pl</a> – w&nbsp;tytule widomości prosimy wpisać:
-    </p>
-    <p>
-        <strong># Mikołajki w&nbsp;Podwyższeniu</strong>.
-    </p>
-    <p>
-        W&nbsp;treści wiadomości prosimy podać imię, nazwisko i&nbsp;adres
-        celem weryfikacji – wydarzenie dotyczy tylko naszych parafian.
-    </p>
-    <p>
-        Dla wszystkich uczestników mikołajkowy prezent.
+        <a href="static/download/2021_Dekret_Koscioly_Stacyjne.pdf"
+           title="Dekret o głównych celebracjach Roku św. Józefa">Tekst dekretu</a>
     </p>
     <h3>
         Dekret<br />
@@ -46,7 +19,8 @@
         Nitkiewicz wydał <strong>ważny dekret</strong>
         w&nbsp;związku z&nbsp;nową falą pandemii koronawirusa.<br />
         Jest on&nbsp;dostępny pod adresem internetowym Diecezji Sandomierskiej:
-        <a href="https://diecezjasandomierska.pl/zasady-obowiazujace-w-zwiazku-z-nowa-fala-pandemii-koronawirusa/"   title="Dekret w związku z nową falą pandemii">link do dekretu</a>
+        <a href="https://diecezjasandomierska.pl/zasady-obowiazujace-w-zwiazku-z-nowa-fala-pandemii-koronawirusa/"
+           title="Dekret w związku z nową falą pandemii">link do dekretu</a>
     </p>
     <h3>
         Galeria I&nbsp;Komunii Świętej 2020
