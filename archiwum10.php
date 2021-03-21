@@ -13,7 +13,180 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 14.&nbsp;marca 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 21.&nbsp;marca 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            15.03 – 21.03 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">15&nbsp;marca, Poniedziałek</p>
+<ul>
+    <li>6.30 + Idę Głaz greg.&nbsp;8</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>6.30 + Elżbietę Chmiel</li>
+    <li>18.00 + Tadeusza Szwagierczaka</li>
+    <li>18.00 + Reginę Jakubczyk w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">16&nbsp;marca, Wtorek</p>
+<ul>
+    <li>6.30 + Idę Głaz greg.&nbsp;9</li>
+    <li>6.30 + Elżbietę Chmiel</li>
+    <li>18.00 + Marię Włoch</li>
+    <li>18.00 + Zofię Jurkowską</li>
+    <li>18.00 + Kazimierza, Krzysztofa, Zdzisława Kwiatkowskich,
+    Kazimierza i&nbsp;zm.&nbsp;z&nbsp;rodz. Kaczmarskich</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;marca, Środa</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
+    Bogusława z&nbsp;racji imienin</li>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>18.00 w int. wynagradzającej Panu Bogu za&nbsp;grzechy
+    aborcji i&nbsp;eutanazji</li>
+    <li>18.00 + Kazimierza Makowskiego</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;10</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;marca, Czwartek</p>
+<ul>
+    <li>6.30 + Idę Głaz greg.&nbsp;11</li>
+    <li>6.30 + Kazimierza Makowskiego</li>
+    <li>18.00 o&nbsp;światło Ducha Świętego, potrzebne łaski
+    w&nbsp;rozwiązaniu trudnej sprawy</li>
+    <li>18.00 + Władysława, Władysławę Mrówka
+    i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
+    <li>18.00 + Jacka Wódz w&nbsp;2&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;marca, Piątek –
+Uroczystość św.&nbsp;Józefa, Oblubieńca Najświętszej Maryi Panny</p>
+<ul>
+    <li>6.30 + Idę Głaz greg.&nbsp;12</li>
+    <li>6.30 + Elżbietę Chmiel</li>
+    <li>9.00 int. dziękczynna za&nbsp;rozwój Radia Maryja
+    i&nbsp;Telewizji Trwam oraz dzieł z&nbsp;tym związanych</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże Miłosierdzie,
+    potrzebne łaski, opiekę Matki Bożej w&nbsp;rodzinie
+    i&nbsp;wszystkich polskich rodzinach za&nbsp;wstawiennictwem
+    św.&nbsp;Józefa Opiekuna rodzin</li>
+    <li>18.00 + zm.&nbsp;z&nbsp;rodz. Kapisów</li>
+    <li>18.00 + Henryka w&nbsp;19&nbsp;r.&nbsp;śm.; Jadwigę
+    w&nbsp;13&nbsp;r.&nbsp;śm. Marciniaków</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;marca, Sobota</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla Asi
+    i&nbsp;Daniela</li>
+    <li>6.30 + Jana w&nbsp;6&nbsp;r.&nbsp;śm. oraz jego rodziców</li>
+    <li>9.00 + Idę Głaz greg.&nbsp;13</li>
+    <li>18.00 + Stanisława, Joannę Donda; Jana Trojanowskiego</li>
+    <li>18.00 + Helenę w&nbsp;40&nbsp;r.&nbsp;śm., Władysława
+    Czerepaków; Zdzisława Staniszewskiego</li>
+    <li>18.00 + Helenę, Antoniego, Stanisława, Jana Kucharczaków;
+    Grzegorza Snocha</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;marca,
+    <span style="color: grey">
+        V&nbsp;Niedziela Wielkiego Postu
+    </span>
+</p>
+<ul>
+    <li>7.30 + Barbarę Pyszczyńską w&nbsp;7&nbsp;r.&nbsp;śm.</li>
+    <li>7.30 w intencji parafian</li>
+    <li>9.30 + Józefa Zubę</li>
+    <li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
+    <li>11.15 + Idę Głaz greg.&nbsp;14</li>
+    <li>12.30 + Mariana Blaszkę</li>
+    <li>18.00 + dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej,
+    wstawiennictwo św.&nbsp;Patrona dla Wojciecha Fularskiego</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>14.&nbsp;marca 2021&nbsp;r.</h3>
+        <h3>IV Niedziela Wielkiego Postu, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy parafianom z&nbsp;ul.&nbsp;Mickiewicza 57
+        klatka&nbsp;I za&nbsp;ofiarę na&nbsp;rzecz parafii w&nbsp;wysokości
+        170&nbsp;zł. <em>Bóg zapłać</em>. <strong>W&nbsp;najbliższą sobotę,
+        do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
+        mieszkających przy ul.&nbsp;Mickiewicza, blok&nbsp;57,
+        od&nbsp;mieszkania nr.&nbsp;11 do&nbsp;20.</p>
+        <p>2. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.30, w&nbsp;każdą niedzielę Wielkiego Postu
+        nabożeństwo „Gorzkich Żali” z&nbsp;nauką pasyjną
+        o&nbsp;godz.&nbsp;17.30, następnie Msza Święta.</p>
+        <p>3. Dekret o&nbsp;głównych celebracjach z&nbsp;okazji „Roku
+        św.&nbsp;Józefa”.
+        <a href="static/download/2021_Dekret_Koscioly_Stacyjne.pdf"
+           title="Dekret o głównych celebracjach Roku św. Józefa">Tekst dekretu</a>
+        </p>
+        <p>4. W&nbsp;naszej parafii od&nbsp;1&nbsp;marca&nbsp;br. posługuje
+        jako organista Pan Michał Rodzajewski pochodzący z&nbsp;Mielca.
+        Życzymy Naszemu Panu organiście Bożego Błogosławieństwa
+        i&nbsp;satysfakcji z&nbsp;wykonywanej pracy. Szczęść Boże.</p>
+        <p>5. W&nbsp;czwartek, tj.&nbsp;18&nbsp;marca&nbsp;br., Legion Maryi
+        będzie się modlił w&nbsp;ramach Nowenny Pompejańskiej o&nbsp;„Odnowę
+        życia religijnego w&nbsp;naszej Ojczyźnie”, tym samym
+        i&nbsp;w&nbsp;naszej parafii. Zapraszamy do&nbsp;wspólnej modlitwy
+        różańcowej w&nbsp;godz. od&nbsp;16.00 do&nbsp;18.00, przy wystawionym
+        Najświętszym Sakramencie.</p>
+        <p>6. Trzymiesięczny chłopiec z&nbsp;naszej parafii, o&nbsp;imieniu
+        Bartuś, choruje na&nbsp;rdzeniowy zanik mięśni. To&nbsp;choroba,
+        która odbiera dziecku możliwość poruszania się, jej postepowanie może
+        też zabrać Bartusiowi oddech. Po&nbsp;Mszach&nbsp;św. w&nbsp;przyszłą
+        niedzielę w&nbsp;naszym kościele organizujemy zbiórkę do&nbsp;puszek,
+        aby pomóc, choć w&nbsp;małej części pokryć koszty terapii genowej,
+        której koszt wynosi 9,5&nbsp;mln&nbsp;zł. Więcej informacji
+        na&nbsp;plakacie w&nbsp;gablocie parafialnej przy wejściu
+        do&nbsp;kościoła.</p>
+        <p>7. Rekolekcje wielkopostne w&nbsp;naszej parafii rozpoczną się
+        w&nbsp;najbliższy piątek, w&nbsp;Uroczystość św.&nbsp;Józefa Opiekuna
+        Kościoła&nbsp;św. W&nbsp;piątek i&nbsp;sobotę Msze&nbsp;św.
+        z&nbsp;nauką rekolekcyjną: rano o&nbsp;9.00 i&nbsp;wieczorem
+        o&nbsp;18.00. W&nbsp;niedzielę nauki rekolekcyjne na&nbsp;wszystkich
+        Mszach&nbsp;św. z&nbsp;kazaniem pasyjnym w&nbsp;czasie nabożeństwa
+        Gorzkich Żali.</p>
+        <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem. Jest specjalny numer
+        „Gościa Niedzielnego” poświęcony osobie św.&nbsp;Józefa Opiekuna
+        z&nbsp;racji „Roku św.&nbsp;Józefa” ustanowionego przez Ojca&nbsp;św.
+        Franciszka. Do&nbsp;nabycia są&nbsp;także „baranki wielkanocne”.</p>
+        <p>9. Sandomierscy policjanci w&nbsp;ramach działań prewencyjnych
+        rozpowszechniają apel skierowany w&nbsp;szczególności do&nbsp;osób
+        starszych. Na&nbsp;stoliku pod chórem, znajdują się broszurki,
+        w&nbsp;których policjanci przypominają metody, jakimi posługują się
+        przestępcy, a&nbsp;jednocześnie przestrzegają i&nbsp;wskazują
+        co&nbsp;robić, by&nbsp;nie stać się ofiarą przestępców.</p>
+        <p>10. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego: Róża Różańcowa
+        – zelator – Maria Kaczmarska – 200&nbsp;zł, Róża Różańcowa – zelator
+        – Ewa Łukawska – 150&nbsp;zł, Róża Różańcowa – zelator – Maria
+        Kwiatkowska – 100&nbsp;zł.</p>
+        <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 14.&nbsp;marca 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

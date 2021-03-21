@@ -1,71 +1,67 @@
 <div class="card">
     <div class="card-header">
-        <h3>14.&nbsp;marca 2021&nbsp;r.</h3>
-        <h3>IV Niedziela Wielkiego Postu, Rok B</h3>
+        <h3>21.&nbsp;marca 2021&nbsp;r.</h3>
+        <h3>V Niedziela Wielkiego Postu, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafianom z&nbsp;ul.&nbsp;Mickiewicza 57
-        klatka&nbsp;I za&nbsp;ofiarę na&nbsp;rzecz parafii w&nbsp;wysokości
-        170&nbsp;zł. <em>Bóg zapłać</em>. <strong>W&nbsp;najbliższą sobotę,
-        do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
-        mieszkających przy ul.&nbsp;Mickiewicza, blok&nbsp;57,
-        od&nbsp;mieszkania nr.&nbsp;11 do&nbsp;20.</p>
-        <p>2. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        <p>1. Dziękujemy parafianom z&nbsp;ul.&nbsp;Mickiewicza&nbsp;57
+        klatka&nbsp;II za&nbsp;sprzątanie kościoła i&nbsp;ofiarę
+        na&nbsp;rzecz parafii w&nbsp;wysokości 170&nbsp;zł.
+        <em>Bóg zapłać</em>.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok&nbsp;57, od&nbsp;mieszkania nr.&nbsp;21
+        do&nbsp;30.</p>
+        <p>2. Zapraszamy do&nbsp;udziału w&nbsp;wielkopostnych nabożeństwach
+        - Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
         o&nbsp;godz.&nbsp;17.30, w&nbsp;każdą niedzielę Wielkiego Postu
         nabożeństwo „Gorzkich Żali” z&nbsp;nauką pasyjną
-        o&nbsp;godz.&nbsp;17.30, następnie Msza Święta.</p>
-        <p>3. Dekret o&nbsp;głównych celebracjach z&nbsp;okazji „Roku
-        św.&nbsp;Józefa”.
-        <a href="static/download/2021_Dekret_Koscioly_Stacyjne.pdf"
-           title="Dekret o głównych celebracjach Roku św. Józefa">Tekst dekretu</a>
-        </p>
-        <p>4. W&nbsp;naszej parafii od&nbsp;1&nbsp;marca&nbsp;br. posługuje
-        jako organista Pan Michał Rodzajewski pochodzący z&nbsp;Mielca.
-        Życzymy Naszemu Panu organiście Bożego Błogosławieństwa
-        i&nbsp;satysfakcji z&nbsp;wykonywanej pracy. Szczęść Boże.</p>
-        <p>5. W&nbsp;czwartek, tj.&nbsp;18&nbsp;marca&nbsp;br., Legion Maryi
-        będzie się modlił w&nbsp;ramach Nowenny Pompejańskiej o&nbsp;„Odnowę
-        życia religijnego w&nbsp;naszej Ojczyźnie”, tym samym
-        i&nbsp;w&nbsp;naszej parafii. Zapraszamy do&nbsp;wspólnej modlitwy
-        różańcowej w&nbsp;godz. od&nbsp;16.00 do&nbsp;18.00, przy wystawionym
-        Najświętszym Sakramencie.</p>
-        <p>6. Trzymiesięczny chłopiec z&nbsp;naszej parafii, o&nbsp;imieniu
-        Bartuś, choruje na&nbsp;rdzeniowy zanik mięśni. To&nbsp;choroba,
-        która odbiera dziecku możliwość poruszania się, jej postepowanie może
-        też zabrać Bartusiowi oddech. Po&nbsp;Mszach&nbsp;św. w&nbsp;przyszłą
-        niedzielę w&nbsp;naszym kościele organizujemy zbiórkę do&nbsp;puszek,
-        aby pomóc, choć w&nbsp;małej części pokryć koszty terapii genowej,
-        której koszt wynosi 9,5&nbsp;mln&nbsp;zł. Więcej informacji
-        na&nbsp;plakacie w&nbsp;gablocie parafialnej przy wejściu
-        do&nbsp;kościoła.</p>
-        <p>7. Rekolekcje wielkopostne w&nbsp;naszej parafii rozpoczną się
-        w&nbsp;najbliższy piątek, w&nbsp;Uroczystość św.&nbsp;Józefa Opiekuna
-        Kościoła&nbsp;św. W&nbsp;piątek i&nbsp;sobotę Msze&nbsp;św.
-        z&nbsp;nauką rekolekcyjną: rano o&nbsp;9.00 i&nbsp;wieczorem
-        o&nbsp;18.00. W&nbsp;niedzielę nauki rekolekcyjne na&nbsp;wszystkich
-        Mszach&nbsp;św. z&nbsp;kazaniem pasyjnym w&nbsp;czasie nabożeństwa
-        Gorzkich Żali.</p>
-        <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
-        Gazety są&nbsp;na&nbsp;stoliku pod chórem. Jest specjalny numer
-        „Gościa Niedzielnego” poświęcony osobie św.&nbsp;Józefa Opiekuna
-        z&nbsp;racji „Roku św.&nbsp;Józefa” ustanowionego przez Ojca&nbsp;św.
-        Franciszka. Do&nbsp;nabycia są&nbsp;także „baranki wielkanocne”.</p>
-        <p>9. Sandomierscy policjanci w&nbsp;ramach działań prewencyjnych
-        rozpowszechniają apel skierowany w&nbsp;szczególności do&nbsp;osób
-        starszych. Na&nbsp;stoliku pod chórem, znajdują się broszurki,
-        w&nbsp;których policjanci przypominają metody, jakimi posługują się
-        przestępcy, a&nbsp;jednocześnie przestrzegają i&nbsp;wskazują
-        co&nbsp;robić, by&nbsp;nie stać się ofiarą przestępców.</p>
-        <p>10. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego: Róża Różańcowa
-        – zelator – Maria Kaczmarska – 200&nbsp;zł, Róża Różańcowa – zelator
-        – Ewa Łukawska – 150&nbsp;zł, Róża Różańcowa – zelator – Maria
-        Kwiatkowska – 100&nbsp;zł.</p>
+        o&nbsp;godz.&nbsp;17.30.</p>
+        <p>3. Dziś po&nbsp;Mszach&nbsp;św. w&nbsp;naszym kościele jest
+        zbiórka do&nbsp;puszek, aby pomóc trzymiesięcznemu, choremu dziecku
+        - Bartusiowi i&nbsp;choć w&nbsp;małej części pokryć koszty terapii
+        genowej, której koszt wynosi 9,5&nbsp;mln&nbsp;zł. Prosimy
+        o&nbsp;modlitwę w&nbsp;jego intencji i&nbsp;za&nbsp;jego rodziców.
+        <em>Bóg zapłać</em> wszystkim ofiarodawcom.</p>
+        <p>4. Najbliższa niedziela to&nbsp;już Niedziela Palmowa. Poświecenie
+        palm na&nbsp;każdej Mszy Świętej.</p>
+        <p>5. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem. Do&nbsp;nabycia
+        są&nbsp;także „baranki wielkanocne”.</p>
+        <p>6. Od&nbsp;najbliższego poniedziałku do&nbsp;Wielkiego Czwartku,
+        każdego dnia godzinę przed Mszą&nbsp;św. wieczorem,
+        w&nbsp;konfesjonale będzie kapłan i&nbsp;można będzie skorzystać
+        ze&nbsp;spowiedzi św., tzw.&nbsp;wielkanocnej.</p>
+        <p>7. W&nbsp;Wielką Środę, tj.&nbsp;31&nbsp;marca&nbsp;br.,
+        od&nbsp;godz.&nbsp;15.00 kapłani odwiedzą chorych z&nbsp;posługą
+        sakramentalną. Prosimy, aby zgłosić w&nbsp;zakrystii tych chorych,
+        którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach św.</p>
+        <p>8. Poświęcenie książeczek do&nbsp;nabożeństwa dla dzieci
+        przygotowujących się do&nbsp;przyjęcia Pierwszej Komunii Świętej
+        w&nbsp;naszej parafii, odbędzie się po&nbsp;Świętach Wielkanocnych.
+        O&nbsp;dokładnej dacie poinformujemy w&nbsp;odpowiednim czasie.
+        Książeczki zostały zakupione.</p>
+        <p>9. Przyjęcie deklaracji o&nbsp;Duchowej Adopcji Dziecka Poczętego,
+        będzie miało miejsce na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;8.00
+        w&nbsp;Uroczystość Zwiastowania Pańskiego,
+        tj.&nbsp;25&nbsp;marca&nbsp;br., w&nbsp;najbliższy czwartek. <em>Duchowa
+        Adopcja Dziecka Poczętego, to&nbsp;zobowiązanie do&nbsp;codziennego
+        odmawiania jednej dziesiątki różańca&nbsp;św. oraz specjalnej
+        krótkiej modlitwy przez dziewięć miesięcy w&nbsp;intencji poczętego
+        dziecka, by przyjęte z&nbsp;miłością mogło urodzić się
+        w&nbsp;kochającej rodzinie</em>. W&nbsp;Uroczystość Zwiastowania Pańskiego
+        Mszę&nbsp;św. o&nbsp;godz.&nbsp;18.00, będzie celebrował
+        ks.&nbsp;Biskup Ordynariusz Krzysztof Nitkiewicz.</p>
+        <p>10. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego od&nbsp;Róży
+        Różańcowej, której zelatorką jest Barbara Kużdub - 100&nbsp;zł
+        i&nbsp;anonimowy ofiarodawca – 50&nbsp;zł, Róża Różańcowa – zelatorka
+        – Grażyna Andura – 200&nbsp;zł. <em>Bóg zapłać</em>.</p>
         <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, inne rocznice, składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
         we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 07.&nbsp;marca 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 21.&nbsp;marca 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
