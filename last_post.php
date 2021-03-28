@@ -1,67 +1,59 @@
 <div class="card">
     <div class="card-header">
-        <h3>21.&nbsp;marca 2021&nbsp;r.</h3>
-        <h3>V Niedziela Wielkiego Postu, Rok B</h3>
+        <h3>28.&nbsp;marca 2021&nbsp;r.</h3>
+        <h3>Niedziela Palmowa, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafianom z&nbsp;ul.&nbsp;Mickiewicza&nbsp;57
-        klatka&nbsp;II za&nbsp;sprzątanie kościoła i&nbsp;ofiarę
-        na&nbsp;rzecz parafii w&nbsp;wysokości 170&nbsp;zł.
-        <em>Bóg zapłać</em>.
-        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
-        parafialnej prosimy</strong> parafian mieszkających przy
-        ul.&nbsp;Mickiewicza, blok&nbsp;57, od&nbsp;mieszkania nr.&nbsp;21
-        do&nbsp;30.</p>
-        <p>2. Zapraszamy do&nbsp;udziału w&nbsp;wielkopostnych nabożeństwach
-        - Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
-        o&nbsp;godz.&nbsp;17.30, w&nbsp;każdą niedzielę Wielkiego Postu
-        nabożeństwo „Gorzkich Żali” z&nbsp;nauką pasyjną
-        o&nbsp;godz.&nbsp;17.30.</p>
-        <p>3. Dziś po&nbsp;Mszach&nbsp;św. w&nbsp;naszym kościele jest
-        zbiórka do&nbsp;puszek, aby pomóc trzymiesięcznemu, choremu dziecku
-        - Bartusiowi i&nbsp;choć w&nbsp;małej części pokryć koszty terapii
-        genowej, której koszt wynosi 9,5&nbsp;mln&nbsp;zł. Prosimy
-        o&nbsp;modlitwę w&nbsp;jego intencji i&nbsp;za&nbsp;jego rodziców.
+        <p>1. Dziękujemy parafianom z&nbsp;ul.&nbsp;Mickiewicza 57 klatka III
+        za&nbsp;sprzątanie kościoła i&nbsp;ofiarę na&nbsp;rzecz parafii
+        w&nbsp;wysokości 160&nbsp;zł. <em>Bóg zapłać</em>.
+        <strong>W&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00,
+        do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
+        mieszkających przy ul.&nbsp;Mickiewicza, blok&nbsp;59,
+        klatka&nbsp;1.</p>
+        <p>2. W&nbsp;zeszłą Niedzielę po&nbsp;Mszach&nbsp;św. w&nbsp;naszym
+        kościele odbyła się zbiórka do&nbsp;puszek, aby pomóc
+        trzymiesięcznemu, choremu dziecku. Zebrano 7612&nbsp;zł. –
         <em>Bóg zapłać</em> wszystkim ofiarodawcom.</p>
-        <p>4. Najbliższa niedziela to&nbsp;już Niedziela Palmowa. Poświecenie
-        palm na&nbsp;każdej Mszy Świętej.</p>
-        <p>5. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
-        Gazety są&nbsp;na&nbsp;stoliku pod chórem. Do&nbsp;nabycia
-        są&nbsp;także „baranki wielkanocne”.</p>
-        <p>6. Od&nbsp;najbliższego poniedziałku do&nbsp;Wielkiego Czwartku,
-        każdego dnia godzinę przed Mszą&nbsp;św. wieczorem,
-        w&nbsp;konfesjonale będzie kapłan i&nbsp;można będzie skorzystać
-        ze&nbsp;spowiedzi św., tzw.&nbsp;wielkanocnej.</p>
-        <p>7. W&nbsp;Wielką Środę, tj.&nbsp;31&nbsp;marca&nbsp;br.,
+        <p>3. Do&nbsp;Wielkiego Czwartku, każdego dnia godzinę przed
+        Mszą&nbsp;św. wieczorem, w&nbsp;konfesjonale będzie kapłan
+        i&nbsp;można będzie skorzystać ze&nbsp;spowiedzi&nbsp;św.,
+        tzw.&nbsp;wielkanocnej.</p>
+        <p>4. W&nbsp;Wielką Środę, tj.&nbsp;31 marca br.,
         od&nbsp;godz.&nbsp;15.00 kapłani odwiedzą chorych z&nbsp;posługą
         sakramentalną. Prosimy, aby zgłosić w&nbsp;zakrystii tych chorych,
-        którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach św.</p>
-        <p>8. Poświęcenie książeczek do&nbsp;nabożeństwa dla dzieci
-        przygotowujących się do&nbsp;przyjęcia Pierwszej Komunii Świętej
-        w&nbsp;naszej parafii, odbędzie się po&nbsp;Świętach Wielkanocnych.
-        O&nbsp;dokładnej dacie poinformujemy w&nbsp;odpowiednim czasie.
-        Książeczki zostały zakupione.</p>
-        <p>9. Przyjęcie deklaracji o&nbsp;Duchowej Adopcji Dziecka Poczętego,
-        będzie miało miejsce na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;8.00
-        w&nbsp;Uroczystość Zwiastowania Pańskiego,
-        tj.&nbsp;25&nbsp;marca&nbsp;br., w&nbsp;najbliższy czwartek. <em>Duchowa
-        Adopcja Dziecka Poczętego, to&nbsp;zobowiązanie do&nbsp;codziennego
-        odmawiania jednej dziesiątki różańca&nbsp;św. oraz specjalnej
-        krótkiej modlitwy przez dziewięć miesięcy w&nbsp;intencji poczętego
-        dziecka, by przyjęte z&nbsp;miłością mogło urodzić się
-        w&nbsp;kochającej rodzinie</em>. W&nbsp;Uroczystość Zwiastowania Pańskiego
-        Mszę&nbsp;św. o&nbsp;godz.&nbsp;18.00, będzie celebrował
-        ks.&nbsp;Biskup Ordynariusz Krzysztof Nitkiewicz.</p>
-        <p>10. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego od&nbsp;Róży
-        Różańcowej, której zelatorką jest Barbara Kużdub - 100&nbsp;zł
-        i&nbsp;anonimowy ofiarodawca – 50&nbsp;zł, Róża Różańcowa – zelatorka
-        – Grażyna Andura – 200&nbsp;zł. <em>Bóg zapłać</em>.</p>
-        <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
-        urodziny, inne rocznice, składamy najlepsze życzenia
-        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
-        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach&nbsp;św.</p>
+        <p>5. W&nbsp;Wielki Czwartek w&nbsp;naszym kościele Msza&nbsp;Św.
+        Wieczerzy Pańskiej o&nbsp;godzinie 18.00. Na&nbsp;zakończenie
+        przeniesiemy Najświętszy Sakrament do&nbsp;przygotowanego ołtarza
+        adoracji – Ciemnicy. Adoracja do&nbsp;godziny 22.00.</p>
+        <p>6. W&nbsp;Wielki Piątek adoracja przy Ciemnicy od&nbsp;godziny
+        8.00. Katolików obowiązuje post ścisły i&nbsp;wstrzemięźliwość
+        od&nbsp;pokarmów mięsnych. O&nbsp;godzinie 17.30 Droga Krzyżowa,
+        a&nbsp;po&nbsp;niej o&nbsp;godzinie 18.00 rozpocznie się Liturgia
+        Wielkiego Piątku. Na&nbsp;zakończenie, po&nbsp;przeniesieniu
+        Najświętszego Sakramentu do&nbsp;przygotowanego Grobu Pańskiego
+        adoracja do&nbsp;godziny 23.00.</p>
+        <p>7. W&nbsp;Wielką Sobotę adorujemy Pana Jezusa w&nbsp;Najświętszym
+        Sakramencie, w&nbsp;Grobie Pańskim od&nbsp;godz.&nbsp;8.00.
+        Poświęcenie pokarmów od&nbsp;9.00 do&nbsp;13.00 na&nbsp;zewnątrz
+        przed kościołem parafialnym (co&nbsp;15&nbsp;minut). O&nbsp;godzinie
+        19.00 rozpocznie się Liturgia Wielkiej Soboty od&nbsp;poświęcenia
+        ognia. Przynosimy świece chrzcielne.</p>
+        <p>8. Rezurekcja w&nbsp;Niedzielę Zmartwychwstania o&nbsp;godzinie
+        6.00. Następna Msza Święta będzie sprawowana o&nbsp;godzinie 9.30
+        i&nbsp;dalej porządek, jak w&nbsp;każdą Niedzielę.</p>
+        <p>9. W&nbsp;kościele przestrzegamy obostrzeń epidemicznych.</p>
+        <p>10. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem. Do&nbsp;nabycia
+        są&nbsp;także „baranki wielkanocne”.</p>
+        <p>11. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego w&nbsp;wysokości
+        200&nbsp;zł złożyli anonimowi ofiarodawcy. <em>Bóg zapłać</em>.</p>
+        <p>12. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
+        składane ofiary na&nbsp;potrzeby parafii, przejawy szacunku
+        i&nbsp;sympatii. Wszystkim życzymy błogosławionej Niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 21.&nbsp;marca 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 28.&nbsp;marca 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>

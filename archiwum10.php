@@ -13,7 +13,164 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 21.&nbsp;marca 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 28.&nbsp;marca 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            22.03 – 28.03 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">22&nbsp;marca, Poniedziałek</p>
+<ul>
+    <li>6.30 + Jadwigę w&nbsp;r.&nbsp;śm.; Szczepana Kasprzyckich</li>
+    <li>6.30 + Mariana w&nbsp;7&nbsp;r.&nbsp;śm.; Stanisława, Reginę
+    Marczyków</li>
+    <li>6.30 + Idę Głaz greg.&nbsp;15</li>
+    <li>18.00 + Stefanię, Wojciecha i&nbsp;zm. z&nbsp;rodziny
+    Błasiaków</li>
+    <li>18.00 + Kazimierza Makowskiego</li>
+</ul>
+
+<p class="intentions_date">23&nbsp;marca, Wtorek</p>
+<ul>
+    <li>6.30 + Elżbietę Chmiel</li>
+    <li>6.30 + Jana Jedlińskiego</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;16</li>
+    <li>18.00 + Teresę-Wandę Łukaszek w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Matyldę w&nbsp;2&nbsp;r.&nbsp;śm.; Jana, Jana
+    Malinowskich</li>
+</ul>
+
+<p class="intentions_date">24&nbsp;marca, Środa</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
+    przyjaciół wspierających w&nbsp;chorobie</li>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;17</li>
+    <li>18.00 + Stanisławę, Władysława</li>
+    <li>18.00 + Mariannę Stefaniak</li>
+</ul>
+
+<p class="intentions_date">25&nbsp;marca, Czwartek –
+Uroczystość Zwiastowania Pańskiego</p>
+<ul>
+    <li>6.30 + Zofię Jurkowską</li>
+    <li>6.30 + Jana Jedlińskiego</li>
+    <li>18.00 w&nbsp;intencji parafian</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;18</li>
+    <li>18.00 + Janinę, Eugeniusza Zybałów w&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">26&nbsp;marca, Piątek</p>
+<ul>
+    <li>6.30 + Ryszarda Kuminka w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>6.30 + Agnieszkę Jakus</li>
+    <li>18.00 + Jana Radzimowskiego</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;19</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;marca, Sobota</p>
+<ul>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>6.30 + Alicję Orzechowską</li>
+    <li>6.30 + Krzysztofa Miturę w&nbsp;30 dzień po&nbsp;śm.</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;20</li>
+    <li>18.00 + Kazimierza Makowskiego</li>
+    <li>18.00 + Stanisławę Gowin</li>
+</ul>
+
+<p class="intentions_date">28&nbsp;marca, Niedziela –
+    <span style="color: grey">
+        Niedziela Palmowa, czyli Męki Pańskiej
+    </span>
+</p>
+<ul>
+    <li>7.30 + Zofię Jurkowską</li>
+    <li>7.30 + Idę Głaz greg.&nbsp;21</li>
+    <li>9.30 + Józefę, Jana Ochmeraków</li>
+    <li>11.15 + Stanisława, Janinę Zimnickich</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>18.00 int. o&nbsp;Boże błogosławieństwo, potrzebne łaski,
+    dary Ducha Świętego, opiekę Matki Bożej, pomyślne zdanie
+    egzaminów i&nbsp;pracy magisterskiej dla Katarzyny</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>21.&nbsp;marca 2021&nbsp;r.</h3>
+        <h3>V Niedziela Wielkiego Postu, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy parafianom z&nbsp;ul.&nbsp;Mickiewicza&nbsp;57
+        klatka&nbsp;II za&nbsp;sprzątanie kościoła i&nbsp;ofiarę
+        na&nbsp;rzecz parafii w&nbsp;wysokości 170&nbsp;zł.
+        <em>Bóg zapłać</em>.
+        <strong>W&nbsp;najbliższą sobotę, do&nbsp;sprzątania świątyni
+        parafialnej prosimy</strong> parafian mieszkających przy
+        ul.&nbsp;Mickiewicza, blok&nbsp;57, od&nbsp;mieszkania nr.&nbsp;21
+        do&nbsp;30.</p>
+        <p>2. Zapraszamy do&nbsp;udziału w&nbsp;wielkopostnych nabożeństwach
+        - Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.30, w&nbsp;każdą niedzielę Wielkiego Postu
+        nabożeństwo „Gorzkich Żali” z&nbsp;nauką pasyjną
+        o&nbsp;godz.&nbsp;17.30.</p>
+        <p>3. Dziś po&nbsp;Mszach&nbsp;św. w&nbsp;naszym kościele jest
+        zbiórka do&nbsp;puszek, aby pomóc trzymiesięcznemu, choremu dziecku
+        - Bartusiowi i&nbsp;choć w&nbsp;małej części pokryć koszty terapii
+        genowej, której koszt wynosi 9,5&nbsp;mln&nbsp;zł. Prosimy
+        o&nbsp;modlitwę w&nbsp;jego intencji i&nbsp;za&nbsp;jego rodziców.
+        <em>Bóg zapłać</em> wszystkim ofiarodawcom.</p>
+        <p>4. Najbliższa niedziela to&nbsp;już Niedziela Palmowa. Poświecenie
+        palm na&nbsp;każdej Mszy Świętej.</p>
+        <p>5. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem. Do&nbsp;nabycia
+        są&nbsp;także „baranki wielkanocne”.</p>
+        <p>6. Od&nbsp;najbliższego poniedziałku do&nbsp;Wielkiego Czwartku,
+        każdego dnia godzinę przed Mszą&nbsp;św. wieczorem,
+        w&nbsp;konfesjonale będzie kapłan i&nbsp;można będzie skorzystać
+        ze&nbsp;spowiedzi św., tzw.&nbsp;wielkanocnej.</p>
+        <p>7. W&nbsp;Wielką Środę, tj.&nbsp;31&nbsp;marca&nbsp;br.,
+        od&nbsp;godz.&nbsp;15.00 kapłani odwiedzą chorych z&nbsp;posługą
+        sakramentalną. Prosimy, aby zgłosić w&nbsp;zakrystii tych chorych,
+        którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach św.</p>
+        <p>8. Poświęcenie książeczek do&nbsp;nabożeństwa dla dzieci
+        przygotowujących się do&nbsp;przyjęcia Pierwszej Komunii Świętej
+        w&nbsp;naszej parafii, odbędzie się po&nbsp;Świętach Wielkanocnych.
+        O&nbsp;dokładnej dacie poinformujemy w&nbsp;odpowiednim czasie.
+        Książeczki zostały zakupione.</p>
+        <p>9. Przyjęcie deklaracji o&nbsp;Duchowej Adopcji Dziecka Poczętego,
+        będzie miało miejsce na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;8.00
+        w&nbsp;Uroczystość Zwiastowania Pańskiego,
+        tj.&nbsp;25&nbsp;marca&nbsp;br., w&nbsp;najbliższy czwartek. <em>Duchowa
+        Adopcja Dziecka Poczętego, to&nbsp;zobowiązanie do&nbsp;codziennego
+        odmawiania jednej dziesiątki różańca&nbsp;św. oraz specjalnej
+        krótkiej modlitwy przez dziewięć miesięcy w&nbsp;intencji poczętego
+        dziecka, by przyjęte z&nbsp;miłością mogło urodzić się
+        w&nbsp;kochającej rodzinie</em>. W&nbsp;Uroczystość Zwiastowania Pańskiego
+        Mszę&nbsp;św. o&nbsp;godz.&nbsp;18.00, będzie celebrował
+        ks.&nbsp;Biskup Ordynariusz Krzysztof Nitkiewicz.</p>
+        <p>10. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego od&nbsp;Róży
+        Różańcowej, której zelatorką jest Barbara Kużdub - 100&nbsp;zł
+        i&nbsp;anonimowy ofiarodawca – 50&nbsp;zł, Róża Różańcowa – zelatorka
+        – Grażyna Andura – 200&nbsp;zł. <em>Bóg zapłać</em>.</p>
+        <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 21.&nbsp;marca 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
