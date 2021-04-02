@@ -1,3 +1,6 @@
+<?php
+include_once('/include/start.php');
+?>
 <!DOCTYPE html>
 <html lang="pl-PL">
 <?php
@@ -102,7 +105,7 @@ include 'head.php';
             <li>godz.&nbsp;14.00: 1&nbsp;ksiądz ul.&nbsp;Morelowa
             i&nbsp;Wiśniowa</li>
         </ul>
-        
+
         <p class="text-underline">2. Piątek 28&nbsp;grudnia</p>
         <ul>
             <li>godz.&nbsp;9.00: 2&nbsp;księży - Chwałki Górne
@@ -118,7 +121,7 @@ include 'head.php';
             <li>godz.&nbsp;14.00: 1&nbsp;ksiądz domy prywatne przy
             ul.&nbsp;Mickiewicza</li>
         </ul>
-        
+
         <p class="text-underline">3. Sobota 29&nbsp;grudnia</p>
         <ul>
             <li>godz.&nbsp;9.00: Milczany wieś 3&nbsp;księży (jeden
@@ -134,7 +137,7 @@ include 'head.php';
                 godz.&nbsp;15.30: ul.&nbsp;Maciejowskiego 4 (dwóch księży)den ksiądz Kobierniki zaczynając
             od&nbsp;strony ul.&nbsp;Mickiewicza (nr&nbsp;90)</li>
         </ul>
-        
+
         <p class="text-underline">4. Poniedziałek 31&nbsp;grudnia</p>
         <ul>
             <li>godz.&nbsp;9.00: Kobierniki i&nbsp;Milczany po&nbsp;szosie

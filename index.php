@@ -1,3 +1,6 @@
+<?php
+include_once('/include/start.php');
+?>
 <!DOCTYPE html>
 <html lang="pl-PL">
 <?php
@@ -53,7 +56,7 @@ include 'facebook.php';
                 <!-- koniec treści głównej -->
             </div>
             <?php
-            include 'counter.php';
+            include '/include/counter.php';
             ?>
         </div>
     </main>

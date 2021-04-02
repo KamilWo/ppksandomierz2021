@@ -1,3 +1,6 @@
+<?php
+include_once('/include/start.php');
+?>
 <!DOCTYPE html>
 <html lang="pl-PL">
 <?php

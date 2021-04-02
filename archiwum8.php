@@ -1,3 +1,6 @@
+<?php
+include_once('/include/start.php');
+?>
 <!DOCTYPE html>
 <html lang="pl-PL">
 <?php
@@ -665,7 +668,7 @@ include 'head.php';
         uczestniczyć z&nbsp;nami w&nbsp;kościele we&nbsp;Mszy&nbsp;św.,
         składamy najlepsze życzenia i&nbsp;zapewniamy o&nbsp;naszej
         modlitwie w&nbsp;waszych intencjach.</p>
-        
+
         <p>
             <span style="float: left;">Sandomierz, 3.&nbsp;listopada
                 2019&nbsp;r.</span>
@@ -734,7 +737,7 @@ include 'head.php';
         osobiście nie mogą uczestniczyć z&nbsp;nami w&nbsp;kościele
         we&nbsp;Mszy&nbsp;św., składamy najlepsze życzenia i&nbsp;zapewniamy
         o&nbsp;naszej modlitwie w&nbsp;waszych intencjach.</p>
-        
+
         <p>
             <span style="float: left;">Sandomierz, 27.&nbsp;października
                 2019&nbsp;r.</span>

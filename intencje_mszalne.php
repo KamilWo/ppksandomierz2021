@@ -1,3 +1,6 @@
+<?php
+include_once('/include/start.php');
+?>
 <!DOCTYPE html>
 <html lang="pl-PL">
 <?php
@@ -24,7 +27,7 @@ include 'head.php';
                         ?>
                         <h4 class="mt-2">Poprzednie intencje przeniesiono do <a href="archiwum.php">archiwum</a>.</h4>
                         <?php
-                        include 'counter.php';
+                        include '/include/counter.php';
                         ?>
                     </div>
                 </div>
