@@ -19,10 +19,10 @@
           crossorigin="anonymous"/>
     <link rel='stylesheet'
           type='text/css'
-          href="static/src/css/font_awesome_all.min.css?v=20191118" />
+          href="/static/src/css/font_awesome_all.min.css?v=20191118" />
     <link rel='stylesheet'
           type='text/css'
-          href='static/src/css/styles.css?v=20191117' />
+          href='/static/src/css/styles.css?v=20191117' />
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
             integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"

@@ -74,47 +74,47 @@
     <div id="navbarSupportedContent" class="collapse navbar-collapse">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a href="index.php" class="nav-link<?php if ($active == 'index') {echo ' active';} ?>"
+                <a href="/index.php" class="nav-link<?php if ($active == 'index') {echo ' active';} ?>"
                     accesskey="1" title="Strona główna">
                     <i class="fa fa-home"></i> Strona Główna</a>
             </li>
             <li class="nav-item">
-                <a href="parafia.php" class="nav-link<?php if ($active == 'parafia') {echo ' active';} ?>"
+                <a href="/parafia.php" class="nav-link<?php if ($active == 'parafia') {echo ' active';} ?>"
                     accesskey="2" title="Strona o Parafii">
                     <i class="fa fa-church"></i> O&nbsp;Parafii</a>
             </li>
             <li class="nav-item">
-                <a href="aktualnosci.php" class="nav-link<?php if ($active == 'aktualnosci') {echo ' active';} ?>"
+                <a href="/aktualnosci.php" class="nav-link<?php if ($active == 'aktualnosci') {echo ' active';} ?>"
                     accesskey="3" title="Aktualności">
                     <i class="fa fa-newspaper"></i> Aktualności</a>
             </li>
             <li class="nav-item">
-                <a href="intencje_mszalne.php" class="nav-link<?php if ($active == 'intencje_mszalne') {echo ' active';} ?>"
+                <a href="/intencje_mszalne.php" class="nav-link<?php if ($active == 'intencje_mszalne') {echo ' active';} ?>"
                     accesskey="4" title="Intencje mszalne">
                     <i class="fa fa-newspaper"></i> Intencje mszalne</a>
             </li>
             <li class="nav-item">
-                <a href="liturgia.php" class="nav-link<?php if ($active == 'liturgia') {echo ' active';} ?>"
+                <a href="/liturgia.php" class="nav-link<?php if ($active == 'liturgia') {echo ' active';} ?>"
                     accesskey="5" title="Msze święte">
                     <i class="fa fa-book-reader"></i> Liturgia</a>
             </li>
             <li class="nav-item">
-                <a href="galeria.php" class="nav-link<?php if ($active == 'galeria') {echo ' active';} ?>"
+                <a href="/galeria.php" class="nav-link<?php if ($active == 'galeria') {echo ' active';} ?>"
                     accesskey="6" title="Galeria zdjęć">
                     <i class="fa fa-images"></i> Galeria</a>
             </li>
             <li class="nav-item">
-                <a href="grupy.php" class="nav-link<?php if ($active == 'grupy') {echo ' active';} ?>"
+                <a href="/grupy.php" class="nav-link<?php if ($active == 'grupy') {echo ' active';} ?>"
                     accesskey="7" title="Grupy parafialne">
                     <i class="fa fa-users"></i> Grupy parafialne</a>
             </li>
             <li class="nav-item">
-                <a href="kontakt.php" class="nav-link<?php if ($active == 'kontakt') {echo ' active';} ?>"
+                <a href="/kontakt.php" class="nav-link<?php if ($active == 'kontakt') {echo ' active';} ?>"
                     accesskey="8" title="Strona kontaktowa">
                     <i class="fa fa-address-book"></i> Kontakt</a>
             </li>
             <li class="nav-item">
-                <a href="archiwum.php" class="nav-link<?php if ($active == 'archiwum') {echo ' active';} ?>"
+                <a href="/archiwum.php" class="nav-link<?php if ($active == 'archiwum') {echo ' active';} ?>"
                     accesskey="9" title="Archiwalne wpisy">
                     <i class="fa fa-archive"></i> Archiwum</a>
             </li>
