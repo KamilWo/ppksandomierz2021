@@ -16,7 +16,170 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 28.&nbsp;marca 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 5.&nbsp;kwietnia 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            29.03 – 05.04 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">29&nbsp;marca, Poniedziałek</p>
+<ul>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>6.30 + Jana Jedlińskiego</li>
+    <li>18.00 w&nbsp;int. Marianny i&nbsp;Marka o&nbsp;dar wiary,
+    nadziei i&nbsp;miłości</li>
+    <li>18.00 + Kazimierza Makowskiego</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;22</li>
+</ul>
+
+<p class="intentions_date">30&nbsp;marca, Wtorek</p>
+<ul>
+    <li>6.30 + Władysławę, Stefana, Romualda</li>
+    <li>6.30 + Alicję Orzechowską</li>
+    <li>6.30 + Aleksandrę, Józefa Kawiorskich</li>
+    <li>18.00 + Andrzeja w&nbsp;11&nbsp;r.&nbsp;śm., Janusza,
+    Mariannę Szulców; Stanisława, Zofię Drapczyńskich; Dorotę
+    Lachtarę</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;23</li>
+    <li>18.00 + Annę Przybyłek w&nbsp;8&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">31&nbsp;marca, Środa</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;szczęśliwy przebieg operacji
+    dla Marcina, o&nbsp;Boże błogosławieństwo, potrzebne łaski,
+    opiekę Matki Bożej dla mamy i&nbsp;syna</li>
+    <li>6.30 + Idę Głaz greg.&nbsp;24</li>
+    <li>6.30 + Mieczysławę w&nbsp;23&nbsp;r.&nbsp;śm., Stanisława
+    Pietrzyków</li>
+    <li>18.00 + Danutę, Ryszarda Świerkulów</li>
+    <li>18.00 + Bogusława Żyłę w&nbsp;5&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Jerzego Strugałę w&nbsp;4&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<h3 style="text-decoration: underline;">ŚWIĘTE TRIDUUM PASCHALNE</h3>
+
+<p class="intentions_date">01&nbsp;kwietnia, Wielki Czwartek –
+Msza święta Wieczerzy Pańskiej</p>
+<ul>
+    <li>18.00 w&nbsp;intencji Kapłanów, którzy posługują
+    i&nbsp;posługiwali w&nbsp;naszej Parafii, i&nbsp;w&nbsp;Kościele
+    Powszechnym</li>
+    <li>18.00 o&nbsp;łaskę zdrowia dla Kapłanów seniorów, Boże
+    błogosławieństwo dla Kapłanów z&nbsp;modlitewnej adopcji,
+    wszelkie potrzebne łaski dla Kapłanów z&nbsp;parafii
+    i&nbsp;całego duchowieństwa</li>
+    <li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana,
+    Krystynę, Mariana</li>
+    <li>18.00 + Idę Głaz greg.&nbsp;25</li>
+</ul>
+
+<p class="intentions_date">02&nbsp;kwietnia, Wielki Piątek Męki Pańskiej</p>
+<ul>
+    <li>17.30 Droga Krzyżowa</li>
+    <li>18.00 Liturgia Męki Pańskiej</li>
+</ul>
+
+<p class="intentions_date">03&nbsp;kwietnia, Wielka Sobota –
+Wigilia Paschalna</p>
+<ul>
+    <li>19.00 int. dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
+    wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
+    i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
+    <li>19.00 int. dziękczynno-błagalna o&nbsp;Boże błogosławieństwo
+    dla całej rodziny</li>
+    <li>19.00 + Idę Głaz greg.&nbsp;26</li>
+    <li>19.00 + Jana Jedlińskiego</li>
+</ul>
+
+<p class="intentions_date">04&nbsp;kwietnia –
+    <span style="color: grey">
+        Niedziela Zmartwychwstania Pańskiego
+    </span>
+</p>
+<ul>
+    <li>6.00 REZUREKCJA – w&nbsp;intencji parafian</li>
+    <li>9.30 int. dziękczynno-błagalna o&nbsp;Boże Miłosierdzie, dar
+    wiary, nadziei i&nbsp;miłości, łaskę pokory, nawrócenia
+    i&nbsp;uzdrowienia w&nbsp;rodzinie</li>
+    <li>9.30 + Wincentego Kołodzieja; Marię Włoch; Juliannę,
+    Walentego Bulirów; Stanisława, Stanisławę Wosiów; Irenę, Tadeusza
+    Kołaczów</li>
+    <li>11.15 + Huberta Kołacza, zm.&nbsp;rodziców Jana, Władysławę
+    Błachowiczów</li>
+    <li>11.15 + Idę Głaz greg.&nbsp;27</li>
+    <li>12.30 + Stanisława, Leokadię, Romana, Marię Majcherów;
+    Krzysztofa, Stefanię, Józefa Łukawskich</li>
+    <li>18.00 + Tadeusza Łukawskich</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>28.&nbsp;marca 2021&nbsp;r.</h3>
+        <h3>Niedziela Palmowa, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy parafianom z&nbsp;ul.&nbsp;Mickiewicza 57 klatka III
+        za&nbsp;sprzątanie kościoła i&nbsp;ofiarę na&nbsp;rzecz parafii
+        w&nbsp;wysokości 160&nbsp;zł. <em>Bóg zapłać</em>.
+        <strong>W&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00,
+        do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
+        mieszkających przy ul.&nbsp;Mickiewicza, blok&nbsp;59,
+        klatka&nbsp;1.</p>
+        <p>2. W&nbsp;zeszłą Niedzielę po&nbsp;Mszach&nbsp;św. w&nbsp;naszym
+        kościele odbyła się zbiórka do&nbsp;puszek, aby pomóc
+        trzymiesięcznemu, choremu dziecku. Zebrano 7612&nbsp;zł. –
+        <em>Bóg zapłać</em> wszystkim ofiarodawcom.</p>
+        <p>3. Do&nbsp;Wielkiego Czwartku, każdego dnia godzinę przed
+        Mszą&nbsp;św. wieczorem, w&nbsp;konfesjonale będzie kapłan
+        i&nbsp;można będzie skorzystać ze&nbsp;spowiedzi&nbsp;św.,
+        tzw.&nbsp;wielkanocnej.</p>
+        <p>4. W&nbsp;Wielką Środę, tj.&nbsp;31 marca br.,
+        od&nbsp;godz.&nbsp;15.00 kapłani odwiedzą chorych z&nbsp;posługą
+        sakramentalną. Prosimy, aby zgłosić w&nbsp;zakrystii tych chorych,
+        którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach&nbsp;św.</p>
+        <p>5. W&nbsp;Wielki Czwartek w&nbsp;naszym kościele Msza&nbsp;Św.
+        Wieczerzy Pańskiej o&nbsp;godzinie 18.00. Na&nbsp;zakończenie
+        przeniesiemy Najświętszy Sakrament do&nbsp;przygotowanego ołtarza
+        adoracji – Ciemnicy. Adoracja do&nbsp;godziny 22.00.</p>
+        <p>6. W&nbsp;Wielki Piątek adoracja przy Ciemnicy od&nbsp;godziny
+        8.00. Katolików obowiązuje post ścisły i&nbsp;wstrzemięźliwość
+        od&nbsp;pokarmów mięsnych. O&nbsp;godzinie 17.30 Droga Krzyżowa,
+        a&nbsp;po&nbsp;niej o&nbsp;godzinie 18.00 rozpocznie się Liturgia
+        Wielkiego Piątku. Na&nbsp;zakończenie, po&nbsp;przeniesieniu
+        Najświętszego Sakramentu do&nbsp;przygotowanego Grobu Pańskiego
+        adoracja do&nbsp;godziny 23.00.</p>
+        <p>7. W&nbsp;Wielką Sobotę adorujemy Pana Jezusa w&nbsp;Najświętszym
+        Sakramencie, w&nbsp;Grobie Pańskim od&nbsp;godz.&nbsp;8.00.
+        Poświęcenie pokarmów od&nbsp;9.00 do&nbsp;13.00 na&nbsp;zewnątrz
+        przed kościołem parafialnym (co&nbsp;15&nbsp;minut). O&nbsp;godzinie
+        19.00 rozpocznie się Liturgia Wielkiej Soboty od&nbsp;poświęcenia
+        ognia. Przynosimy świece chrzcielne.</p>
+        <p>8. Rezurekcja w&nbsp;Niedzielę Zmartwychwstania o&nbsp;godzinie
+        6.00. Następna Msza Święta będzie sprawowana o&nbsp;godzinie 9.30
+        i&nbsp;dalej porządek, jak w&nbsp;każdą Niedzielę.</p>
+        <p>9. W&nbsp;kościele przestrzegamy obostrzeń epidemicznych.</p>
+        <p>10. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem. Do&nbsp;nabycia
+        są&nbsp;także „baranki wielkanocne”.</p>
+        <p>11. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego w&nbsp;wysokości
+        200&nbsp;zł złożyli anonimowi ofiarodawcy. <em>Bóg zapłać</em>.</p>
+        <p>12. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
+        składane ofiary na&nbsp;potrzeby parafii, przejawy szacunku
+        i&nbsp;sympatii. Wszystkim życzymy błogosławionej Niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 28.&nbsp;marca 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

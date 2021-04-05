@@ -1,59 +1,40 @@
 <div class="card">
     <div class="card-header">
-        <h3>28.&nbsp;marca 2021&nbsp;r.</h3>
-        <h3>Niedziela Palmowa, Rok B</h3>
+        <h3>5.&nbsp;kwietnia 2021&nbsp;r.</h3>
+        <h3>Poniedziałek Wielkanocny, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafianom z&nbsp;ul.&nbsp;Mickiewicza 57 klatka III
-        za&nbsp;sprzątanie kościoła i&nbsp;ofiarę na&nbsp;rzecz parafii
-        w&nbsp;wysokości 160&nbsp;zł. <em>Bóg zapłać</em>.
+        <p>1. <em>Bóg zapłać</em> za&nbsp;sprzątanie świątyni.
         <strong>W&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00,
         do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
         mieszkających przy ul.&nbsp;Mickiewicza, blok&nbsp;59,
-        klatka&nbsp;1.</p>
-        <p>2. W&nbsp;zeszłą Niedzielę po&nbsp;Mszach&nbsp;św. w&nbsp;naszym
-        kościele odbyła się zbiórka do&nbsp;puszek, aby pomóc
-        trzymiesięcznemu, choremu dziecku. Zebrano 7612&nbsp;zł. –
-        <em>Bóg zapłać</em> wszystkim ofiarodawcom.</p>
-        <p>3. Do&nbsp;Wielkiego Czwartku, każdego dnia godzinę przed
-        Mszą&nbsp;św. wieczorem, w&nbsp;konfesjonale będzie kapłan
-        i&nbsp;można będzie skorzystać ze&nbsp;spowiedzi&nbsp;św.,
-        tzw.&nbsp;wielkanocnej.</p>
-        <p>4. W&nbsp;Wielką Środę, tj.&nbsp;31 marca br.,
-        od&nbsp;godz.&nbsp;15.00 kapłani odwiedzą chorych z&nbsp;posługą
-        sakramentalną. Prosimy, aby zgłosić w&nbsp;zakrystii tych chorych,
-        którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach&nbsp;św.</p>
-        <p>5. W&nbsp;Wielki Czwartek w&nbsp;naszym kościele Msza&nbsp;Św.
-        Wieczerzy Pańskiej o&nbsp;godzinie 18.00. Na&nbsp;zakończenie
-        przeniesiemy Najświętszy Sakrament do&nbsp;przygotowanego ołtarza
-        adoracji – Ciemnicy. Adoracja do&nbsp;godziny 22.00.</p>
-        <p>6. W&nbsp;Wielki Piątek adoracja przy Ciemnicy od&nbsp;godziny
-        8.00. Katolików obowiązuje post ścisły i&nbsp;wstrzemięźliwość
-        od&nbsp;pokarmów mięsnych. O&nbsp;godzinie 17.30 Droga Krzyżowa,
-        a&nbsp;po&nbsp;niej o&nbsp;godzinie 18.00 rozpocznie się Liturgia
-        Wielkiego Piątku. Na&nbsp;zakończenie, po&nbsp;przeniesieniu
-        Najświętszego Sakramentu do&nbsp;przygotowanego Grobu Pańskiego
-        adoracja do&nbsp;godziny 23.00.</p>
-        <p>7. W&nbsp;Wielką Sobotę adorujemy Pana Jezusa w&nbsp;Najświętszym
-        Sakramencie, w&nbsp;Grobie Pańskim od&nbsp;godz.&nbsp;8.00.
-        Poświęcenie pokarmów od&nbsp;9.00 do&nbsp;13.00 na&nbsp;zewnątrz
-        przed kościołem parafialnym (co&nbsp;15&nbsp;minut). O&nbsp;godzinie
-        19.00 rozpocznie się Liturgia Wielkiej Soboty od&nbsp;poświęcenia
-        ognia. Przynosimy świece chrzcielne.</p>
-        <p>8. Rezurekcja w&nbsp;Niedzielę Zmartwychwstania o&nbsp;godzinie
-        6.00. Następna Msza Święta będzie sprawowana o&nbsp;godzinie 9.30
-        i&nbsp;dalej porządek, jak w&nbsp;każdą Niedzielę.</p>
-        <p>9. W&nbsp;kościele przestrzegamy obostrzeń epidemicznych.</p>
-        <p>10. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
-        Gazety są&nbsp;na&nbsp;stoliku pod chórem. Do&nbsp;nabycia
-        są&nbsp;także „baranki wielkanocne”.</p>
-        <p>11. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego w&nbsp;wysokości
-        200&nbsp;zł złożyli anonimowi ofiarodawcy. <em>Bóg zapłać</em>.</p>
-        <p>12. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
-        składane ofiary na&nbsp;potrzeby parafii, przejawy szacunku
-        i&nbsp;sympatii. Wszystkim życzymy błogosławionej Niedzieli.</p>
+        klatka&nbsp;2.</p>
+        <p>2. II&nbsp;Niedziela Wielkanocna, to&nbsp;Niedziela Bożego
+        Miłosierdzia.</p>
+        <p>3. W&nbsp;najbliższy piątek nie obowiązuje wstrzemięźliwość
+        od&nbsp;pokarmów mięsnych z&nbsp;racji Oktawy Wielkanocnej.
+        Te&nbsp;osiem pierwszych dni Okresu Wielkanocnego stanowi oktawę,
+        obchodzi się je&nbsp;jako uroczystości Pańskie.</p>
+        <p>4. Dzisiejsza taca przeznaczona jest na&nbsp;Katolicki Uniwersytet
+        Lubelski.</p>
+        <p>5. Dziękujemy za&nbsp;ofiary na&nbsp;kwiaty do&nbsp;Grobu
+        Pańskiego. Wdzięczni jesteśmy: Paniom Dorocie Sarzyńskiej
+        i&nbsp;Jolancie Maciejewskiej, Panu Andrzejowi Anwajlerowi, klerykowi
+        Radosławowi Szczurowi za&nbsp;przygotowanie wielkanocnej dekoracji
+        w&nbsp;naszym kościele. Wielkie <em>Bóg zapłać</em>. Księżom
+        wikariuszom Piotrowi, Krzysztofowi, ks.&nbsp;dr&nbsp;Adamowi,
+        studentowi kl.&nbsp;Radkowi, Panu Organiście, Panu Jerzemu Łatce,
+        ministrantom za&nbsp;przygotowanie liturgii i&nbsp;udział
+        w&nbsp;niej. Wszystkim, którzy w&nbsp;jakikolwiek sposób przyczynili
+        się swoim zaangażowaniem, abyśmy jako parafia przeżywali
+        te&nbsp;Uroczystości radośnie i&nbsp;pobożnie. Podziękowanie
+        za&nbsp;pomoc w&nbsp;remontach wewnątrz budynku parafialnego wyrażamy
+        wobec: Panów Leszka Czajki, Jacka Soli i&nbsp;Pawła Miszczaka.</p>
+        <p>6. Wszystkim życzymy radosnego Poniedziałku Wielkanocnego
+        i&nbsp;całej Oktawy Wielkanocnej. Chrystus zmartwychwstał –
+        prawdziwie zmartwychwstał. Alleluja.</p>
         <p>
-            <span style="float: left;">Sandomierz, 28.&nbsp;marca 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 5.&nbsp;kwietnia 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
