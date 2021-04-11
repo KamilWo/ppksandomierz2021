@@ -1,40 +1,32 @@
 <div class="card">
     <div class="card-header">
-        <h3>5.&nbsp;kwietnia 2021&nbsp;r.</h3>
-        <h3>Poniedziałek Wielkanocny, Rok B</h3>
+        <h3>11.&nbsp;kwietnia 2021&nbsp;r.</h3>
+        <h3>II Niedziela Wielkanocna – Niedziela Miłosierdzia Bożego, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. <em>Bóg zapłać</em> za&nbsp;sprzątanie świątyni.
-        <strong>W&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00,
-        do&nbsp;sprzątania świątyni parafialnej prosimy</strong> parafian
-        mieszkających przy ul.&nbsp;Mickiewicza, blok&nbsp;59,
-        klatka&nbsp;2.</p>
-        <p>2. II&nbsp;Niedziela Wielkanocna, to&nbsp;Niedziela Bożego
-        Miłosierdzia.</p>
-        <p>3. W&nbsp;najbliższy piątek nie obowiązuje wstrzemięźliwość
-        od&nbsp;pokarmów mięsnych z&nbsp;racji Oktawy Wielkanocnej.
-        Te&nbsp;osiem pierwszych dni Okresu Wielkanocnego stanowi oktawę,
-        obchodzi się je&nbsp;jako uroczystości Pańskie.</p>
-        <p>4. Dzisiejsza taca przeznaczona jest na&nbsp;Katolicki Uniwersytet
-        Lubelski.</p>
-        <p>5. Dziękujemy za&nbsp;ofiary na&nbsp;kwiaty do&nbsp;Grobu
-        Pańskiego. Wdzięczni jesteśmy: Paniom Dorocie Sarzyńskiej
-        i&nbsp;Jolancie Maciejewskiej, Panu Andrzejowi Anwajlerowi, klerykowi
-        Radosławowi Szczurowi za&nbsp;przygotowanie wielkanocnej dekoracji
-        w&nbsp;naszym kościele. Wielkie <em>Bóg zapłać</em>. Księżom
-        wikariuszom Piotrowi, Krzysztofowi, ks.&nbsp;dr&nbsp;Adamowi,
-        studentowi kl.&nbsp;Radkowi, Panu Organiście, Panu Jerzemu Łatce,
-        ministrantom za&nbsp;przygotowanie liturgii i&nbsp;udział
-        w&nbsp;niej. Wszystkim, którzy w&nbsp;jakikolwiek sposób przyczynili
-        się swoim zaangażowaniem, abyśmy jako parafia przeżywali
-        te&nbsp;Uroczystości radośnie i&nbsp;pobożnie. Podziękowanie
-        za&nbsp;pomoc w&nbsp;remontach wewnątrz budynku parafialnego wyrażamy
-        wobec: Panów Leszka Czajki, Jacka Soli i&nbsp;Pawła Miszczaka.</p>
-        <p>6. Wszystkim życzymy radosnego Poniedziałku Wielkanocnego
-        i&nbsp;całej Oktawy Wielkanocnej. Chrystus zmartwychwstał –
-        prawdziwie zmartwychwstał. Alleluja.</p>
+        <p>1. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła i&nbsp;złożoną
+        ofiarę w&nbsp;wysokości 50&nbsp;zł. <strong>Do&nbsp;sprzątania
+        świątyni zapraszamy</strong> mieszkańców ul.&nbsp;Mickiewicza 59 –
+        III&nbsp;klatka w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00.</p>
+        <p>2. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+        na&nbsp;Caritas.</p>
+        <p>3. <em>Bóg zapłać</em> Rodzicom dzieci pierwszokomunijnych
+        za&nbsp;posprzątanie terenu wokół świątyni przed świętami.</p>
+        <p>4. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+        <p>5. W&nbsp;dniach 14-16&nbsp;kwietnia 2021 roku odbędą się Dni
+        Otwarte na&nbsp;nowych kierunkach studiów KUL w&nbsp;Stalowej Woli.
+        Transmisja online za&nbsp;pośrednictwem kanałów internetowych oraz
+        mediów społecznościowych. Nowo otwarte kierunki to:&nbsp;położnictwo,
+        dietetyka oraz w&nbsp;przyszłości nauki o&nbsp;rodzinie,
+        administracja, bezpieczeństwo narodowe. Uczelnia zaprasza wszystkich
+        maturzystów oraz osoby zainteresowane do&nbsp;wzięcia udziału.</p>
+        <p>6. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 5.&nbsp;kwietnia 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 11.&nbsp;kwietnia 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
