@@ -1,32 +1,48 @@
 <div class="card">
     <div class="card-header">
-        <h3>11.&nbsp;kwietnia 2021&nbsp;r.</h3>
-        <h3>II Niedziela Wielkanocna – Niedziela Miłosierdzia Bożego, Rok B</h3>
+        <h3>18.&nbsp;kwietnia 2021&nbsp;r.</h3>
+        <h3>III Niedziela Wielkanocna, Rok B</h3>
     </div>
     <div class="col">
         <p>1. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła i&nbsp;złożoną
-        ofiarę w&nbsp;wysokości 50&nbsp;zł. <strong>Do&nbsp;sprzątania
-        świątyni zapraszamy</strong> mieszkańców ul.&nbsp;Mickiewicza 59 –
-        III&nbsp;klatka w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00.</p>
-        <p>2. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+        ofiarę w&nbsp;wysokości 70&nbsp;zł. Również <em>Bóg zapłać</em>
+        osobom z&nbsp;pierwszej klatki za&nbsp;złożoną ofiarę
+        w&nbsp;wysokości 150&nbsp;zł. <strong>Do&nbsp;sprzątania świątyni
+        zapraszamy</strong> mieszkańców ul.&nbsp;Cieśli 1 – I&nbsp;klatka
+        <strong>w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00.</strong></p>
+        <p>2. Dziś w&nbsp;Kościele w&nbsp;Polsce rozpoczynamy XIII Tydzień
+        Biblijny. W&nbsp;tym szczególnym czasie sięgajmy swoich rodzinach
+        po&nbsp;Pismo&nbsp;Św. i&nbsp;rozważajmy słowo kierowane do&nbsp;nas
+        przez Pana Boga.</p>
+        <p>3. Dziś po&nbsp;Mszach świętych zbiórka do&nbsp;puszek
         na&nbsp;Caritas.</p>
-        <p>3. <em>Bóg zapłać</em> Rodzicom dzieci pierwszokomunijnych
-        za&nbsp;posprzątanie terenu wokół świątyni przed świętami.</p>
-        <p>4. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        <p>4. 20&nbsp;kwietnia we&nbsp;wtorek o&nbsp;godz.&nbsp;17.00
+        spotkanie kandydatów, którzy w&nbsp;tym roku przystępują
+        do&nbsp;sakramentu bierzmowania.</p>
+        <p>5. W&nbsp;tym tygodniu 23&nbsp;kwietnia – piątek – Uroczystość
+        św.&nbsp;Wojciecha – patrona Polski. Będziemy się modlić
+        w&nbsp;intencji naszej Ojczyzny. Nie obowiązuje wstrzemięźliwość
+        od&nbsp;pokarmów mięsnych.</p>
+        <p>6. 23&nbsp;kwietnia w&nbsp;piątek o&nbsp;godz.&nbsp;18.00
+        poświęcenie książeczek dzieci pierwszokomunijnych. Serdecznie
+        zapraszamy dzieci.</p>
+        <p>7. Drugie i&nbsp;trzecie przykazanie kościelne uczy
+        i&nbsp;nakazuje: <em>Przynajmniej raz w&nbsp;roku przystąpić
+        do&nbsp;sakramentu pokuty. Przynajmniej raz w&nbsp;roku,
+        w&nbsp;okresie wielkanocnym, przyjąć Komunię świętą.</em> Dlatego
+        zadbajmy o&nbsp;nasze życie duchowe w&nbsp;jedności z&nbsp;Panem
+        Bogiem. <strong>SPOWIEDŹ ŚWIĘTA CODZIENNIE PRZED MSZĄ ŚWIĘTĄ PORANNĄ
+        ORAZ WIECZORNĄ OD&nbsp;GODZ.&nbsp;17.30 – 17.50.</strong></p>
+        <p>8. <em>Bóg zapłać</em> Pani Jolancie Maciejewskiej oraz klerykowi
+        Radosławowi za&nbsp;rozebranie dekoracji wielkanocnej.</p>
+        <p>9. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
         Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>5. W&nbsp;dniach 14-16&nbsp;kwietnia 2021 roku odbędą się Dni
-        Otwarte na&nbsp;nowych kierunkach studiów KUL w&nbsp;Stalowej Woli.
-        Transmisja online za&nbsp;pośrednictwem kanałów internetowych oraz
-        mediów społecznościowych. Nowo otwarte kierunki to:&nbsp;położnictwo,
-        dietetyka oraz w&nbsp;przyszłości nauki o&nbsp;rodzinie,
-        administracja, bezpieczeństwo narodowe. Uczelnia zaprasza wszystkich
-        maturzystów oraz osoby zainteresowane do&nbsp;wzięcia udziału.</p>
-        <p>6. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        <p>10. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, inne rocznice, składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
         we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 11.&nbsp;kwietnia 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 18.&nbsp;kwietnia 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
