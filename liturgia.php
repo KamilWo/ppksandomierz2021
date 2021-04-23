@@ -23,9 +23,7 @@ include 'head.php';
                         Msze święte w&nbsp;niedziele i&nbsp;święta:
                     </div>
                     <div class="col">
-                        <p>7.30&nbsp;&nbsp;&nbsp;9.30&nbsp;&nbsp;&nbsp;11.15&nbsp;&nbsp;&nbsp;12.30&nbsp;&nbsp;
-                            <br/>18.00&nbsp;&nbsp;lub&nbsp;&nbsp;19.30
-                            (zależnie od&nbsp;kalendarzowej zmiany czasu)</p>
+                        <p>07:30&nbsp;&nbsp;&nbsp;09:30&nbsp;&nbsp;&nbsp;11:15&nbsp;&nbsp;&nbsp;12:30&nbsp;&nbsp;&nbsp;18:00</p>
                     </div>
                 </div>
                 <hr/>
@@ -34,7 +32,7 @@ include 'head.php';
                         Msze święte w dni powszednie:
                     </div>
                     <div class="col">
-                        <p> 6.30&nbsp;&nbsp;&nbsp;18.00</p>
+                        <p>06:30&nbsp;&nbsp;&nbsp;18:00</p>
                     </div>
                 </div>
                 <hr/>
@@ -44,7 +42,7 @@ include 'head.php';
                     </div>
                     <div class="col">
                         <p>
-                            17.30 Nieszpory, nabożeństwa majowe i&nbsp;październikowe
+                            17:30 Nieszpory, nabożeństwa majowe i&nbsp;październikowe
                         </p>
                     </div>
                 </div>
@@ -54,11 +52,11 @@ include 'head.php';
                         Nabożeństwa w&nbsp;dni powszednie:
                     </div>
                     <div class="col">
-                        <p>17.30 (Nabożeństwa majowe, różaniec)<br/>
+                        <p>17:30 (Nabożeństwa majowe, różaniec)<br/>
                             Po Mszy świętej:<br/>
                             <strong>wtorki</strong> - Koronka do&nbsp;Miłosierdzia Bożego<br/>
                             <strong>środy</strong> - Nowenna do&nbsp;Matki Bożej Nieustającej Pomocy<br />
-                            <strong>czwartki</strong> - Adoracja Najświętszego Sakramentu od&nbsp;godz.&nbsp;17.30</p>
+                            <strong>czwartki</strong> - Adoracja Najświętszego Sakramentu od&nbsp;godz.&nbsp;17:30</p>
                     </div>
                 </div>
                 <br/>
