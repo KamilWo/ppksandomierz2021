@@ -1,48 +1,48 @@
 <div class="card">
     <div class="card-header">
-        <h3>18.&nbsp;kwietnia 2021&nbsp;r.</h3>
-        <h3>III Niedziela Wielkanocna, Rok B</h3>
+        <h3>25.&nbsp;kwietnia 2021&nbsp;r.</h3>
+        <h3>IV Niedziela Wielkanocna, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła i&nbsp;złożoną
-        ofiarę w&nbsp;wysokości 70&nbsp;zł. Również <em>Bóg zapłać</em>
-        osobom z&nbsp;pierwszej klatki za&nbsp;złożoną ofiarę
-        w&nbsp;wysokości 150&nbsp;zł. <strong>Do&nbsp;sprzątania świątyni
-        zapraszamy</strong> mieszkańców ul.&nbsp;Cieśli 1 – I&nbsp;klatka
+        <p>1. <strong>Do&nbsp;sprzątania świątyni zapraszamy</strong>
+        mieszkańców ul.&nbsp;Cieśli&nbsp;1 – II&nbsp;klatka
         <strong>w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00.</strong></p>
-        <p>2. Dziś w&nbsp;Kościele w&nbsp;Polsce rozpoczynamy XIII Tydzień
-        Biblijny. W&nbsp;tym szczególnym czasie sięgajmy swoich rodzinach
-        po&nbsp;Pismo&nbsp;Św. i&nbsp;rozważajmy słowo kierowane do&nbsp;nas
-        przez Pana Boga.</p>
-        <p>3. Dziś po&nbsp;Mszach świętych zbiórka do&nbsp;puszek
-        na&nbsp;Caritas.</p>
-        <p>4. 20&nbsp;kwietnia we&nbsp;wtorek o&nbsp;godz.&nbsp;17.00
-        spotkanie kandydatów, którzy w&nbsp;tym roku przystępują
-        do&nbsp;sakramentu bierzmowania.</p>
-        <p>5. W&nbsp;tym tygodniu 23&nbsp;kwietnia – piątek – Uroczystość
-        św.&nbsp;Wojciecha – patrona Polski. Będziemy się modlić
-        w&nbsp;intencji naszej Ojczyzny. Nie obowiązuje wstrzemięźliwość
-        od&nbsp;pokarmów mięsnych.</p>
-        <p>6. 23&nbsp;kwietnia w&nbsp;piątek o&nbsp;godz.&nbsp;18.00
-        poświęcenie książeczek dzieci pierwszokomunijnych. Serdecznie
-        zapraszamy dzieci.</p>
-        <p>7. Drugie i&nbsp;trzecie przykazanie kościelne uczy
-        i&nbsp;nakazuje: <em>Przynajmniej raz w&nbsp;roku przystąpić
-        do&nbsp;sakramentu pokuty. Przynajmniej raz w&nbsp;roku,
-        w&nbsp;okresie wielkanocnym, przyjąć Komunię świętą.</em> Dlatego
-        zadbajmy o&nbsp;nasze życie duchowe w&nbsp;jedności z&nbsp;Panem
-        Bogiem. <strong>SPOWIEDŹ ŚWIĘTA CODZIENNIE PRZED MSZĄ ŚWIĘTĄ PORANNĄ
-        ORAZ WIECZORNĄ OD&nbsp;GODZ.&nbsp;17.30 – 17.50.</strong></p>
-        <p>8. <em>Bóg zapłać</em> Pani Jolancie Maciejewskiej oraz klerykowi
-        Radosławowi za&nbsp;rozebranie dekoracji wielkanocnej.</p>
-        <p>9. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        <p>2. Dziś w&nbsp;Kościele obchodzimy Niedzielę Dobrego Pasterza
+        i&nbsp;58&nbsp;Światowy Dzień Modlitw o&nbsp;Powołania. Niedziela
+        Dobrego Pasterza rozpoczyna Tydzień Modlitw o&nbsp;Powołania
+        Kapłańskie, Zakonne i&nbsp;Misyjne, który potrwa do&nbsp;1&nbsp;maja.
+        W&nbsp;naszej osobistej modlitwie powierzajmy Bogu te&nbsp;sprawy
+        Kościoła. Papież Franciszek wskazał na&nbsp;św.&nbsp;Józefa jako wzór
+        wierności swemu powołaniu, które dojrzewa poprzez wierność każdego
+        dnia.</p>
+        <p>3. W&nbsp;zeszłą niedzielę po&nbsp;Mszach świętych zebrano
+        1430&nbsp;zł do&nbsp;puszek na&nbsp;Caritas. <em>Bóg zapłać</em>.</p>
+        <p>4. Przypominamy o&nbsp;obowiązku chrześcijanina - <em>Przynajmniej
+        raz w&nbsp;roku przystąpić do&nbsp;sakramentu pokuty. Przynajmniej
+        raz w&nbsp;roku, w&nbsp;okresie wielkanocnym, przyjąć Komunię
+        świętą.</em> Dlatego zadbajmy o&nbsp;nasze życie duchowe
+        w&nbsp;jedności z&nbsp;Panem Bogiem. <strong>SPOWIEDŹ ŚWIĘTA
+        CODZIENNIE PRZED MSZĄ ŚWIĘTĄ PORANNĄ ORAZ WIECZORNĄ
+        OD&nbsp;GODZ.&nbsp;17.30 – 17.50.</strong></p>
+        <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
         Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>10. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        <p>6. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>7. Od&nbsp;najbliższej soboty, przez cały miesiąc,
+        o&nbsp;godz.&nbsp;17.30 nabożeństwo majowe.</p>
+        <p>8. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, inne rocznice, składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
-        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli</p>
+        <p>9. Zmarła nasza parafianka śp.&nbsp;Teodora Bażant,
+        ul.&nbsp;Cieśli 1. Msza&nbsp;św. żałobna jutro godz.&nbsp;11.00
+        w&nbsp;naszym kościele parafialnym. Polećmy zmarłą Miłosierdziu
+        Bożemu. <em>Wieczny odpoczynek...</em></p>
         <p>
-            <span style="float: left;">Sandomierz, 18.&nbsp;kwietnia 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 25.&nbsp;kwietnia 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>

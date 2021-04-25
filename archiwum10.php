@@ -16,7 +16,163 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 18.&nbsp;kwietnia 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 25.&nbsp;kwietnia 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            19.04 – 25.04 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">19&nbsp;kwietnia, Poniedziałek</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Miłosierdzie Boże, potrzebne
+    łaski w&nbsp;rodzinie i&nbsp;wszystkich polskich rodzinach
+    za&nbsp;wstawiennictwem św.&nbsp;Józefa Opiekuna rodzin</li>
+    <li>6.30 w&nbsp;int. Anny o&nbsp;Boże błogosławieństwo
+    i&nbsp;łaskę zdrowia, i&nbsp;szczęśliwy przebieg operacji</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;1</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;14</li>
+    <li>18.00 + Stanisława, Mariannę, Józefa
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Przewlekłych</li>
+    <li>18.00 + Barbarę Marzec</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;kwietnia, Wtorek</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla Asi
+    i&nbsp;Daniela</li>
+    <li>6.30 o&nbsp;łaskę dobrej śmierci</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;2</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla Anny
+    i&nbsp;Sławomira w&nbsp;30&nbsp;r. sakramentu małżeństwa</li>
+    <li>18.00 o&nbsp;łaskę przebaczenia w&nbsp;rodzinie</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;15</li>
+</ul>
+
+<p class="intentions_date">21&nbsp;kwietnia, Środa</p>
+<ul>
+    <li>6.30 + Elżbietę Chmiel</li>
+    <li>6.30 + Jana Jedlińskiego</li>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;16</li>
+    <li>18.00 + Henryka Leśniaka greg.&nbsp;3</li>
+    <li>18.00 + Danielę Ura</li>
+</ul>
+
+<p class="intentions_date">22&nbsp;kwietnia, Czwartek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej dla brata Mariusza</li>
+    <li>6.30 + Juliannę, Walentego Bulirów; Wincentego Kołodzieja;
+    Marię Włoch; Stanisława, Stanisławę Wosiów; Irenę, Tadeusza
+    Kołaczów</li>
+    <li>6.30 + Stefana, Janinę, Zdzisława, Bogusława Makarewiczów;
+    Wacławę Jabłońską</li>
+    <li>18.00 w&nbsp;int. Panu Bogu wiadomej, o&nbsp;łaskę wiary dla
+    syna</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;17</li>
+    <li>18.00 + Henryka Leśniaka greg.&nbsp;4</li>
+</ul>
+
+<p class="intentions_date">23&nbsp;kwietnia, Piątek –
+Uroczystość św. Wojciecha, Głównego Patrona Polski</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna w&nbsp;rocznicę ślubu</li>
+    <li>6.30 + Zofię Wiatrowską greg.&nbsp;18</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;5</li>
+    <li>18.00 + Henryka Kędziorę w&nbsp;4&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Mieczysława Dyl w&nbsp;11&nbsp;r.&nbsp;śm.; Marię,
+    Andrzeja</li>
+    <li>18.00 + Otolię Lipiec, zm.&nbsp;z&nbsp;rodz. Lipców</li>
+</ul>
+
+<p class="intentions_date">24&nbsp;kwietnia, Sobota</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej dla Filipa z&nbsp;racji
+    egzaminu maturalnego</li>
+    <li>6.30 + Zofię Wiatrowską greg.&nbsp;19</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;6</li>
+    <li>18.00 + Jana Radzimowskiego</li>
+    <li>18.00 + Zbigniewa Patynę</li>
+    <li>18.00 + Edmunda Niewiadomskiego w&nbsp;5&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">25&nbsp;kwietnia, Niedziela –
+    <span style="color: grey">
+        IV Niedziela Wielkanocna
+    </span>
+</p>
+<ul>
+    <li>7.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla Danuty z&nbsp;racji
+    urodzin</li>
+    <li>7.30 + Henryka Leśniaka greg.7</li>
+    <li>9.30 o&nbsp;Boże błogosławieństwo, potrzebne łaski
+    na&nbsp;dalsze lata, dary Ducha Świętego, opiekę Matki Bożej dla
+    Wojciecha Fularskiego</li>
+    <li>11.15 w&nbsp;intencji parafian</li>
+    <li>12.30 + Ryszarda Heciaka w&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;20</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>18.&nbsp;kwietnia 2021&nbsp;r.</h3>
+        <h3>III Niedziela Wielkanocna, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. <em>Bóg zapłać</em> za&nbsp;sprzątanie kościoła i&nbsp;złożoną
+        ofiarę w&nbsp;wysokości 70&nbsp;zł. Również <em>Bóg zapłać</em>
+        osobom z&nbsp;pierwszej klatki za&nbsp;złożoną ofiarę
+        w&nbsp;wysokości 150&nbsp;zł. <strong>Do&nbsp;sprzątania świątyni
+        zapraszamy</strong> mieszkańców ul.&nbsp;Cieśli 1 – I&nbsp;klatka
+        <strong>w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00.</strong></p>
+        <p>2. Dziś w&nbsp;Kościele w&nbsp;Polsce rozpoczynamy XIII Tydzień
+        Biblijny. W&nbsp;tym szczególnym czasie sięgajmy swoich rodzinach
+        po&nbsp;Pismo&nbsp;Św. i&nbsp;rozważajmy słowo kierowane do&nbsp;nas
+        przez Pana Boga.</p>
+        <p>3. Dziś po&nbsp;Mszach świętych zbiórka do&nbsp;puszek
+        na&nbsp;Caritas.</p>
+        <p>4. 20&nbsp;kwietnia we&nbsp;wtorek o&nbsp;godz.&nbsp;17.00
+        spotkanie kandydatów, którzy w&nbsp;tym roku przystępują
+        do&nbsp;sakramentu bierzmowania.</p>
+        <p>5. W&nbsp;tym tygodniu 23&nbsp;kwietnia – piątek – Uroczystość
+        św.&nbsp;Wojciecha – patrona Polski. Będziemy się modlić
+        w&nbsp;intencji naszej Ojczyzny. Nie obowiązuje wstrzemięźliwość
+        od&nbsp;pokarmów mięsnych.</p>
+        <p>6. 23&nbsp;kwietnia w&nbsp;piątek o&nbsp;godz.&nbsp;18.00
+        poświęcenie książeczek dzieci pierwszokomunijnych. Serdecznie
+        zapraszamy dzieci.</p>
+        <p>7. Drugie i&nbsp;trzecie przykazanie kościelne uczy
+        i&nbsp;nakazuje: <em>Przynajmniej raz w&nbsp;roku przystąpić
+        do&nbsp;sakramentu pokuty. Przynajmniej raz w&nbsp;roku,
+        w&nbsp;okresie wielkanocnym, przyjąć Komunię świętą.</em> Dlatego
+        zadbajmy o&nbsp;nasze życie duchowe w&nbsp;jedności z&nbsp;Panem
+        Bogiem. <strong>SPOWIEDŹ ŚWIĘTA CODZIENNIE PRZED MSZĄ ŚWIĘTĄ PORANNĄ
+        ORAZ WIECZORNĄ OD&nbsp;GODZ.&nbsp;17.30 – 17.50.</strong></p>
+        <p>8. <em>Bóg zapłać</em> Pani Jolancie Maciejewskiej oraz klerykowi
+        Radosławowi za&nbsp;rozebranie dekoracji wielkanocnej.</p>
+        <p>9. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+        <p>10. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 18.&nbsp;kwietnia 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
