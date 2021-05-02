@@ -16,7 +16,152 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 25.&nbsp;kwietnia 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 2.&nbsp;maja 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            26.04 – 02.05 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">26&nbsp;kwietnia, Poniedziałek</p>
+<ul>
+    <li>6.30 + Antoninę, Władysława, Mariana, Zygmunta
+    Materkowskich</li>
+    <li>6.30 + Stanisławę Pieczyrak</li>
+    <li>6.30 + Agnieszkę Jakus</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;21</li>
+    <li>18.00 + Henryka Leśniaka greg.&nbsp;8</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;kwietnia, Wtorek</p>
+<ul>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;9</li>
+    <li>6.30 + Jana Jedlińskiego</li>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>18.00 + Stanisława w&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;22</li>
+</ul>
+
+<p class="intentions_date">28&nbsp;kwietnia, Środa</p>
+<ul>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;10</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, potrzebne łaski i&nbsp;pomyślne zdanie
+    egzaminów, i&nbsp;pracy magisterskiej dla Katarzyny</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;23</li>
+    <li>18.00 + Agnieszkę Jakus</li>
+</ul>
+
+<p class="intentions_date">29&nbsp;kwietnia, Czwartek –
+święto św.&nbsp;Katarzyny ze&nbsp;Sieny</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, potrzebne łaski dla Michała z&nbsp;racji
+    egzaminu</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;11</li>
+    <li>6.30 + Alicję Orzechowską</li>
+    <li>18.00 + Krystynę, Henryka Rewerów</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;24</li>
+</ul>
+
+<p class="intentions_date">30&nbsp;kwietnia, Piątek</p>
+<ul>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;12</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;25</li>
+    <li>18.00 + Kazimierza Makowskiego</li>
+    <li>18.00 + Lucjana Sałka</li>
+</ul>
+
+<p class="intentions_date">01&nbsp;maja, Sobota –
+św.&nbsp;Józefa, rzemieślnika; Święto Pracy</p>
+<ul>
+    <li>6.30 + Zofię Wiatrowską greg.&nbsp;26</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;13</li>
+    <li>18.00 w&nbsp;int. wynagradzającej za&nbsp;grzechy
+    i&nbsp;bluźnierstwa od&nbsp;Legionu Maryi</li>
+    <li>18.00 + Stanisławę, Stanisława, Jana, Witolda, Mariana,
+    Krystynę, Mariana</li>
+    <li>18.00 + Mariannę, Wincentego Kućmów</li>
+</ul>
+
+<p class="intentions_date">02&nbsp;maja, Niedziela –
+    <span style="color: grey">
+        V&nbsp;Niedziela Wielkanocna
+    </span>
+</p>
+<ul>
+    <li>7.30 + Reginę, Zygmunta, Rafała Stolów; Anielę, Wincentego
+    Bilskich</li>
+    <li>7.30 + Henryka Leśniaka greg.&nbsp;17</li>
+    <li>9.30 + Zofię Krasudę w&nbsp;16&nbsp;r.&nbsp;śm.</li>
+    <li>11.15 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, potrzebne łaski i&nbsp;pomyślne zdanie
+    egzaminów, i&nbsp;pracy magisterskiej oraz mądrość
+    w&nbsp;podejmowaniu życiowych decyzji dla Katarzyny</li>
+    <li>11.15 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla wszystkich Kół Żywego
+    Różańca – od&nbsp;KŻR p.&nbsp;Kaczmarskiej</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;27</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>25.&nbsp;kwietnia 2021&nbsp;r.</h3>
+        <h3>IV Niedziela Wielkanocna, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. <strong>Do&nbsp;sprzątania świątyni zapraszamy</strong>
+        mieszkańców ul.&nbsp;Cieśli&nbsp;1 – II&nbsp;klatka
+        <strong>w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00.</strong></p>
+        <p>2. Dziś w&nbsp;Kościele obchodzimy Niedzielę Dobrego Pasterza
+        i&nbsp;58&nbsp;Światowy Dzień Modlitw o&nbsp;Powołania. Niedziela
+        Dobrego Pasterza rozpoczyna Tydzień Modlitw o&nbsp;Powołania
+        Kapłańskie, Zakonne i&nbsp;Misyjne, który potrwa do&nbsp;1&nbsp;maja.
+        W&nbsp;naszej osobistej modlitwie powierzajmy Bogu te&nbsp;sprawy
+        Kościoła. Papież Franciszek wskazał na&nbsp;św.&nbsp;Józefa jako wzór
+        wierności swemu powołaniu, które dojrzewa poprzez wierność każdego
+        dnia.</p>
+        <p>3. W&nbsp;zeszłą niedzielę po&nbsp;Mszach świętych zebrano
+        1430&nbsp;zł do&nbsp;puszek na&nbsp;Caritas. <em>Bóg zapłać</em>.</p>
+        <p>4. Przypominamy o&nbsp;obowiązku chrześcijanina - <em>Przynajmniej
+        raz w&nbsp;roku przystąpić do&nbsp;sakramentu pokuty. Przynajmniej
+        raz w&nbsp;roku, w&nbsp;okresie wielkanocnym, przyjąć Komunię
+        świętą.</em> Dlatego zadbajmy o&nbsp;nasze życie duchowe
+        w&nbsp;jedności z&nbsp;Panem Bogiem. <strong>SPOWIEDŹ ŚWIĘTA
+        CODZIENNIE PRZED MSZĄ ŚWIĘTĄ PORANNĄ ORAZ WIECZORNĄ
+        OD&nbsp;GODZ.&nbsp;17.30 – 17.50.</strong></p>
+        <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+        <p>6. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>7. Od&nbsp;najbliższej soboty, przez cały miesiąc,
+        o&nbsp;godz.&nbsp;17.30 nabożeństwo majowe.</p>
+        <p>8. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli</p>
+        <p>9. Zmarła nasza parafianka śp.&nbsp;Teodora Bażant,
+        ul.&nbsp;Cieśli 1. Msza&nbsp;św. żałobna jutro godz.&nbsp;11.00
+        w&nbsp;naszym kościele parafialnym. Polećmy zmarłą Miłosierdziu
+        Bożemu. <em>Wieczny odpoczynek...</em></p>
+        <p>
+            <span style="float: left;">Sandomierz, 25.&nbsp;kwietnia 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

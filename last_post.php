@@ -1,48 +1,43 @@
 <div class="card">
     <div class="card-header">
-        <h3>25.&nbsp;kwietnia 2021&nbsp;r.</h3>
-        <h3>IV Niedziela Wielkanocna, Rok B</h3>
+        <h3>2.&nbsp;maja 2021&nbsp;r.</h3>
+        <h3>V Niedziela Wielkanocna, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. <strong>Do&nbsp;sprzątania świątyni zapraszamy</strong>
-        mieszkańców ul.&nbsp;Cieśli&nbsp;1 – II&nbsp;klatka
+        <p>1. Dziękujemy parafiankom, Paniom: Barbarze Kicińskiej, Jagodzie
+        Płatos za&nbsp;sprzątanie kościoła. <em>Bóg zapłać</em> Anecie
+        Lasocie, Janowi Janowskiemu, Barbarze Kicińskiej, Jagodzie Płatos
+        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii, w&nbsp;wysokości
+        200&nbsp;zł. Jesteśmy wdzięczni ofiarodawcom za&nbsp;przekazane
+        kwiaty do&nbsp;wystroju kościoła na&nbsp;tę&nbsp;niedzielę
+        i&nbsp;za&nbsp;ich ułożenie. Niech Bóg hojnie błogosławi wszystkim.
+        <strong>Do&nbsp;sprzątania świątyni zapraszamy</strong> mieszkańców
+        ul.&nbsp;Cieśli 1&nbsp;–&nbsp;III&nbsp;klatka,
         <strong>w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00.</strong></p>
-        <p>2. Dziś w&nbsp;Kościele obchodzimy Niedzielę Dobrego Pasterza
-        i&nbsp;58&nbsp;Światowy Dzień Modlitw o&nbsp;Powołania. Niedziela
-        Dobrego Pasterza rozpoczyna Tydzień Modlitw o&nbsp;Powołania
-        Kapłańskie, Zakonne i&nbsp;Misyjne, który potrwa do&nbsp;1&nbsp;maja.
-        W&nbsp;naszej osobistej modlitwie powierzajmy Bogu te&nbsp;sprawy
-        Kościoła. Papież Franciszek wskazał na&nbsp;św.&nbsp;Józefa jako wzór
-        wierności swemu powołaniu, które dojrzewa poprzez wierność każdego
-        dnia.</p>
-        <p>3. W&nbsp;zeszłą niedzielę po&nbsp;Mszach świętych zebrano
-        1430&nbsp;zł do&nbsp;puszek na&nbsp;Caritas. <em>Bóg zapłać</em>.</p>
-        <p>4. Przypominamy o&nbsp;obowiązku chrześcijanina - <em>Przynajmniej
-        raz w&nbsp;roku przystąpić do&nbsp;sakramentu pokuty. Przynajmniej
-        raz w&nbsp;roku, w&nbsp;okresie wielkanocnym, przyjąć Komunię
-        świętą.</em> Dlatego zadbajmy o&nbsp;nasze życie duchowe
-        w&nbsp;jedności z&nbsp;Panem Bogiem. <strong>SPOWIEDŹ ŚWIĘTA
-        CODZIENNIE PRZED MSZĄ ŚWIĘTĄ PORANNĄ ORAZ WIECZORNĄ
-        OD&nbsp;GODZ.&nbsp;17.30 – 17.50.</strong></p>
+        <p>2. Jutro 3&nbsp;maja Uroczystość NMP Królowej Polski – niedzielny
+        porządek Mszy&nbsp;św. w&nbsp;naszym kościele. We&nbsp;wtorek
+        wspomnienie św.&nbsp;Floriana – patrona strażaków, w&nbsp;czwartek
+        św.&nbsp;Apostołów Filipa i&nbsp;Jakuba, w&nbsp;najbliższą sobotę –
+        Uroczystość św.&nbsp;Stanisława biskupa męczennika – Głównego Patrona
+        Polski i&nbsp;Diecezji Sandomierskiej.</p>
+        <p>3. W&nbsp;tym tygodniu Pierwszy Piątek Miesiąca, spowiedź
+        w&nbsp;tym dniu od&nbsp;godz.&nbsp;17.00.</p>
+        <p>4. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej z&nbsp;naszej
+        parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
+        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
+        spowiedź św.&nbsp;W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
+        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
         <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
         Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>6. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
-        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
-        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
-        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
-        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
-        <p>7. Od&nbsp;najbliższej soboty, przez cały miesiąc,
-        o&nbsp;godz.&nbsp;17.30 nabożeństwo majowe.</p>
-        <p>8. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        <p>6. Przez cały miesiąc maj, o&nbsp;godz.&nbsp;17.30 nabożeństwo
+        majowe. Zapraszamy.</p>
+        <p>7. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, inne rocznice, składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
         we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli</p>
-        <p>9. Zmarła nasza parafianka śp.&nbsp;Teodora Bażant,
-        ul.&nbsp;Cieśli 1. Msza&nbsp;św. żałobna jutro godz.&nbsp;11.00
-        w&nbsp;naszym kościele parafialnym. Polećmy zmarłą Miłosierdziu
-        Bożemu. <em>Wieczny odpoczynek...</em></p>
         <p>
-            <span style="float: left;">Sandomierz, 25.&nbsp;kwietnia 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 2.&nbsp;maja 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
