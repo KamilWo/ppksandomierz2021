@@ -1,103 +1,99 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            03.05 – 09.05 2021&nbsp;r.
+            10.05 – 16.05 2021&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">03&nbsp;maja, Poniedziałek –
-Uroczystość Najświętszej Maryi Panny, Królowej Polski</p>
+<p class="intentions_date">10&nbsp;maja, Poniedziałek</p>
 <ul>
-    <li>7.30 + Zofię Wiatrowską greg.&nbsp;28</li>
-    <li>7.30 + Henryka Leśniaka greg.&nbsp;15</li>
-    <li>9.30 + Eleonorę, Jana Typków, zm.&nbsp;z&nbsp;rodz.
-    Żurawskich i&nbsp;Typków</li>
-    <li>11.15 + Jana, Józefę, Tadeusza, Leona, Iwonę</li>
-    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;22</li>
+    <li>6.30 + Weronikę, Salomeę, Rafała Pawelec</li>
+    <li>6.30 + Stanisławę, Mariana Mądrych</li>
+    <li>18.00 o&nbsp;nawrócenie męża Piotra i&nbsp;ojca</li>
+    <li>18.00 + Jana Trojanowskiego w&nbsp;r.&nbsp;śm.
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Trojanowskich</li>
+    <li>18.00 + Sebastiana Stefaniaka w&nbsp;23&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">11&nbsp;maja, Wtorek</p>
+<ul>
+    <li>6.30 + Jana Jedlińskiego</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;23</li>
     <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    potrzebne łaski, opiekę Matki Bożej dla dzieci i&nbsp;wnuczki</li>
+    potrzebne łaski, opiekę Matki Bożej dla Jolanty i&nbsp;Zbigniewa
+    z&nbsp;racji 36&nbsp;r.&nbsp;sakr. małżeństwa</li>
+    <li>18.00 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
+    o&nbsp;łaskę przemiany i&nbsp;wszelkie Boże błogosławieństwo</li>
+    <li>18.00 + Zofię, Jana Rugałów; Balbinę, Stanisława Wieczorków</li>
 </ul>
 
-<p class="intentions_date">04&nbsp;maja, Wtorek –
-św.&nbsp;Floriana</p>
+<p class="intentions_date">12&nbsp;maja, Środa</p>
 <ul>
     <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    potrzebne łaski, opiekę Matki Bożej dla Moniki z&nbsp;racji
-    imienin</li>
-    <li>6.30 + Henryka Leśniaka greg.&nbsp;16</li>
+    potrzebne łaski, opiekę Matki Bożej, wstawiennictwo
+    św.&nbsp;Patronki dla Moniki z&nbsp;racji imienin</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;24</li>
+    <li>6.30 + Alicję Orzechowską</li>
     <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    potrzebne łaski, opiekę Matki Bożej dla Moniki z&nbsp;racji
-    imienin</li>
-    <li>18.00 + Zofię, Stanisława Frańczaków</li>
-    <li>18.00 + Zofię Wiatrowską greg.&nbsp;29</li>
+    potrzebne łaski, opiekę Matki Bożej dla Karoliny i&nbsp;Piotra
+    z&nbsp;racji 8&nbsp;r.&nbsp;sakr. małżeństwa</li>
+    <li>18.00 + Kazimierza Kaczmarskiego
+    w&nbsp;4&nbsp;r.&nbsp;śm.</li>
 </ul>
 
-<p class="intentions_date">05&nbsp;maja, Środa</p>
+<p class="intentions_date">13&nbsp;maja, Czwartek</p>
 <ul>
-    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    potrzebne łaski, opiekę Matki Bożej dla dzieci
-    i&nbsp;chrześniaków</li>
-    <li>6.30 + Krystynę Stan</li>
-    <li>6.30 + Henryka Leśniaka greg.&nbsp;17</li>
-    <li>18.00 + zm.&nbsp;z&nbsp;rodz. Kicińskich i&nbsp;Kubków</li>
-    <li>18.00 + Zofię Wiatrowską greg.&nbsp;30</li>
-    <li>18.00 + Adama Osowskiego</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;25</li>
+    <li>6.30 + Mieczysława Bryłę</li>
+    <li>6.30 + Sławosza Lupę, jego rodziców Mariannę, Józefa;
+    Stanisława, Józefę Kondeuszów</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski dla Martyny z&nbsp;racji
+    13&nbsp;r. urodzin</li>
+    <li>18.00 + Kazimierza Makowskiego</li>
+    <li>18.00 + Agnieszkę Jakus</li>
 </ul>
 
-<p class="intentions_date">06&nbsp;maja, Czwartek –
-święto św.&nbsp;Apostołów Filipa i&nbsp;Jakuba</p>
+<p class="intentions_date">14 maja, Piątek –
+Święto św. Macieja, Apostoła</p>
 <ul>
-    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    opiekę Matki Bożej, potrzebne łaski dla Stanisława
-    i&nbsp;Stanisławy Niezgodów z&nbsp;racji imienin</li>
-    <li>6.30 o&nbsp;łaskę dobrej śmierci</li>
     <li>6.30 + Elżbietę Chmiel</li>
-    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    opiekę Matki Bożej, potrzebne łaski dla Stanisławy z&nbsp;racji
-    75&nbsp;r. urodzin</li>
-    <li>18.00 + Marię, Henryka Wiesława, Tomasza Szyprowskich</li>
-    <li>18.00 + Henryka Leśniaka greg.&nbsp;18</li>
+    <li>6.30 + Alicję Orzechowską</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, opiekę Matki Bożej,
+    potrzebne łaski, pomyślne zdanie egzaminów, mądrości
+    w&nbsp;podejmowaniu decyzji dla Bartłomieja</li>
+    <li>18.00 + Henryka Leśniaka greg.&nbsp;26</li>
+    <li>18.00 + Stanisława Kudelskiego</li>
 </ul>
 
-<p class="intentions_date">07&nbsp;maja, Piątek</p>
+<p class="intentions_date">15&nbsp;maja, Sobota</p>
 <ul>
-    <li>6.30 + Henryka Leśniaka greg.&nbsp;19</li>
-    <li>6.30 + Stanisława Pacholczyka w&nbsp;4&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Stanisława Kondrata</li>
-    <li>18.00 + Jana, Zofię, Marka, Andrzeja Wrzesińskich</li>
-    <li>18.00 + Stanisława Oszczudłowskiego, Zofię Gospodarczyk,
-    Stanisława Dumę i&nbsp;zm.&nbsp;z&nbsp;tych rodzin</li>
+    <li>6.30 + Józefa Szczębarę, zm.&nbsp;z&nbsp;rodz. Szczębarów,
+    Golców, Królów, Ostrowskich oraz dusze w&nbsp;czyśćcu cierpiące</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;27</li>
+    <li>18.00 + Zofię Strzębską</li>
+    <li>18.00 + Tomasza Chlebnego w&nbsp;r.&nbsp;sm.</li>
+    <li>18.00 + Mariannę, Józefa Łatkowskich, zm.&nbsp;z&nbsp;rodz.
+    Łatkowskich, Długowolskich</li>
 </ul>
 
-<p class="intentions_date">08&nbsp;maja, Sobota –
-Uroczystość św. Stanisława, Głównego Patrona Polski</p>
-<ul>
-    <li>6.30 w&nbsp;int. ks.&nbsp;Proboszcza o&nbsp;Boże
-    błogosławieństwo, łaskę zdrowia i&nbsp;wszelkie potrzebne łaski
-    w&nbsp;pracy dla Parafii</li>
-    <li>6.30 + Henryka Leśniaka greg.&nbsp;20</li>
-    <li>18.00 + Stanisława, Leokadię Majcher; Jadwigę, Stanisława
-    Karasińskich; Zofię Woźniak</li>
-    <li>18.00 + Stanisława Kabzę</li>
-    <li>18.00 + Stanisława, Stanisławę</li>
-</ul>
-
-<p class="intentions_date">09&nbsp;maja, Niedziela –
+<p class="intentions_date">16&nbsp;maja, Niedziela –
     <span style="color: grey">
-        VI&nbsp;Niedziela Wielkanocna
+        Uroczystość Wniebowstąpienia Pańskiego
     </span>
 </p>
 <ul>
-    <li>7.30 + Reginę, Henryka Rutkowskich
-    i&nbsp;zm.&nbsp;z&nbsp;rodz. Rutkowskich, i&nbsp;Różalskich</li>
-    <li>7.30 + Mariannę, Stanisława Czajków
-    i&nbsp;zm.&nbsp;z&nbsp;rodz. Czajków, i&nbsp;Gachów</li>
+    <li>7.30 + Zofię Lipiec, Zofię Bryłę, zm.&nbsp;z&nbsp;rodz.
+    Lipców, Bryłów</li>
+    <li>7.30 + Henryka Leśniaka greg.&nbsp;28</li>
     <li>9.30 w&nbsp;intencji parafian</li>
-    <li>9.30 + Stanisława Rusaka</li>
-    <li>11.15 + Eugeniusza w&nbsp;3&nbsp;r.&nbsp;śm., Teresę
-    i&nbsp;zm.&nbsp;z&nbsp;rodz. Paciochów</li>
-    <li>12.30 + Zofię, Stanisława, Wacława, Lucjana Wodzów</li>
-    <li>18.00 + Henryka Leśniaka greg.&nbsp;21</li>
+    <li>11.15 w&nbsp;int. Kręgu Domowego Kościoła</li>
+    <li>11.15 + Zofię, Jana, Edmunda Rosieckich</li>
+    <li>12.30 + Irenę w&nbsp;r.&nbsp;śm., Edwarda Gachów</li>
+    <li>18.00 + dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej, wstawiennictwo
+    św.&nbsp;Patronki dla Wojciecha Fularskiego</li>
 </ul>
     </div>
 </div>

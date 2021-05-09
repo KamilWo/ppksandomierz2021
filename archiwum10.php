@@ -16,7 +16,158 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 2.&nbsp;maja 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 9.&nbsp;maja 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            03.05 – 09.05 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">03&nbsp;maja, Poniedziałek –
+Uroczystość Najświętszej Maryi Panny, Królowej Polski</p>
+<ul>
+    <li>7.30 + Zofię Wiatrowską greg.&nbsp;28</li>
+    <li>7.30 + Henryka Leśniaka greg.&nbsp;15</li>
+    <li>9.30 + Eleonorę, Jana Typków, zm.&nbsp;z&nbsp;rodz.
+    Żurawskich i&nbsp;Typków</li>
+    <li>11.15 + Jana, Józefę, Tadeusza, Leona, Iwonę</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla dzieci i&nbsp;wnuczki</li>
+</ul>
+
+<p class="intentions_date">04&nbsp;maja, Wtorek –
+św.&nbsp;Floriana</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla Moniki z&nbsp;racji
+    imienin</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;16</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla Moniki z&nbsp;racji
+    imienin</li>
+    <li>18.00 + Zofię, Stanisława Frańczaków</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;29</li>
+</ul>
+
+<p class="intentions_date">05&nbsp;maja, Środa</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla dzieci
+    i&nbsp;chrześniaków</li>
+    <li>6.30 + Krystynę Stan</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;17</li>
+    <li>18.00 + zm.&nbsp;z&nbsp;rodz. Kicińskich i&nbsp;Kubków</li>
+    <li>18.00 + Zofię Wiatrowską greg.&nbsp;30</li>
+    <li>18.00 + Adama Osowskiego</li>
+</ul>
+
+<p class="intentions_date">06&nbsp;maja, Czwartek –
+święto św.&nbsp;Apostołów Filipa i&nbsp;Jakuba</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski dla Stanisława
+    i&nbsp;Stanisławy Niezgodów z&nbsp;racji imienin</li>
+    <li>6.30 o&nbsp;łaskę dobrej śmierci</li>
+    <li>6.30 + Elżbietę Chmiel</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski dla Stanisławy z&nbsp;racji
+    75&nbsp;r. urodzin</li>
+    <li>18.00 + Marię, Henryka Wiesława, Tomasza Szyprowskich</li>
+    <li>18.00 + Henryka Leśniaka greg.&nbsp;18</li>
+</ul>
+
+<p class="intentions_date">07&nbsp;maja, Piątek</p>
+<ul>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;19</li>
+    <li>6.30 + Stanisława Pacholczyka w&nbsp;4&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Stanisława Kondrata</li>
+    <li>18.00 + Jana, Zofię, Marka, Andrzeja Wrzesińskich</li>
+    <li>18.00 + Stanisława Oszczudłowskiego, Zofię Gospodarczyk,
+    Stanisława Dumę i&nbsp;zm.&nbsp;z&nbsp;tych rodzin</li>
+</ul>
+
+<p class="intentions_date">08&nbsp;maja, Sobota –
+Uroczystość św. Stanisława, Głównego Patrona Polski</p>
+<ul>
+    <li>6.30 w&nbsp;int. ks.&nbsp;Proboszcza o&nbsp;Boże
+    błogosławieństwo, łaskę zdrowia i&nbsp;wszelkie potrzebne łaski
+    w&nbsp;pracy dla Parafii</li>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;20</li>
+    <li>18.00 + Stanisława, Leokadię Majcher; Jadwigę, Stanisława
+    Karasińskich; Zofię Woźniak</li>
+    <li>18.00 + Stanisława Kabzę</li>
+    <li>18.00 + Stanisława, Stanisławę</li>
+</ul>
+
+<p class="intentions_date">09&nbsp;maja, Niedziela –
+    <span style="color: grey">
+        VI&nbsp;Niedziela Wielkanocna
+    </span>
+</p>
+<ul>
+    <li>7.30 + Reginę, Henryka Rutkowskich
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Rutkowskich, i&nbsp;Różalskich</li>
+    <li>7.30 + Mariannę, Stanisława Czajków
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Czajków, i&nbsp;Gachów</li>
+    <li>9.30 w&nbsp;intencji parafian</li>
+    <li>9.30 + Stanisława Rusaka</li>
+    <li>11.15 + Eugeniusza w&nbsp;3&nbsp;r.&nbsp;śm., Teresę
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Paciochów</li>
+    <li>12.30 + Zofię, Stanisława, Wacława, Lucjana Wodzów</li>
+    <li>18.00 + Henryka Leśniaka greg.&nbsp;21</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>2.&nbsp;maja 2021&nbsp;r.</h3>
+        <h3>V Niedziela Wielkanocna, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy parafiankom, Paniom: Barbarze Kicińskiej, Jagodzie
+        Płatos za&nbsp;sprzątanie kościoła. <em>Bóg zapłać</em> Anecie
+        Lasocie, Janowi Janowskiemu, Barbarze Kicińskiej, Jagodzie Płatos
+        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii, w&nbsp;wysokości
+        200&nbsp;zł. Jesteśmy wdzięczni ofiarodawcom za&nbsp;przekazane
+        kwiaty do&nbsp;wystroju kościoła na&nbsp;tę&nbsp;niedzielę
+        i&nbsp;za&nbsp;ich ułożenie. Niech Bóg hojnie błogosławi wszystkim.
+        <strong>Do&nbsp;sprzątania świątyni zapraszamy</strong> mieszkańców
+        ul.&nbsp;Cieśli 1&nbsp;–&nbsp;III&nbsp;klatka,
+        <strong>w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00.</strong></p>
+        <p>2. Jutro 3&nbsp;maja Uroczystość NMP Królowej Polski – niedzielny
+        porządek Mszy&nbsp;św. w&nbsp;naszym kościele. We&nbsp;wtorek
+        wspomnienie św.&nbsp;Floriana – patrona strażaków, w&nbsp;czwartek
+        św.&nbsp;Apostołów Filipa i&nbsp;Jakuba, w&nbsp;najbliższą sobotę –
+        Uroczystość św.&nbsp;Stanisława biskupa męczennika – Głównego Patrona
+        Polski i&nbsp;Diecezji Sandomierskiej.</p>
+        <p>3. W&nbsp;tym tygodniu Pierwszy Piątek Miesiąca, spowiedź
+        w&nbsp;tym dniu od&nbsp;godz.&nbsp;17.00.</p>
+        <p>4. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej z&nbsp;naszej
+        parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
+        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
+        spowiedź św.&nbsp;W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
+        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
+        <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+        <p>6. Przez cały miesiąc maj, o&nbsp;godz.&nbsp;17.30 nabożeństwo
+        majowe. Zapraszamy.</p>
+        <p>7. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli</p>
+        <p>
+            <span style="float: left;">Sandomierz, 2.&nbsp;maja 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

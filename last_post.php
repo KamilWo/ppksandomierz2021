@@ -1,43 +1,39 @@
 <div class="card">
     <div class="card-header">
-        <h3>2.&nbsp;maja 2021&nbsp;r.</h3>
-        <h3>V Niedziela Wielkanocna, Rok B</h3>
+        <h3>9.&nbsp;maja 2021&nbsp;r.</h3>
+        <h3>VI Niedziela Wielkanocna, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafiankom, Paniom: Barbarze Kicińskiej, Jagodzie
-        Płatos za&nbsp;sprzątanie kościoła. <em>Bóg zapłać</em> Anecie
-        Lasocie, Janowi Janowskiemu, Barbarze Kicińskiej, Jagodzie Płatos
-        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii, w&nbsp;wysokości
-        200&nbsp;zł. Jesteśmy wdzięczni ofiarodawcom za&nbsp;przekazane
-        kwiaty do&nbsp;wystroju kościoła na&nbsp;tę&nbsp;niedzielę
-        i&nbsp;za&nbsp;ich ułożenie. Niech Bóg hojnie błogosławi wszystkim.
-        <strong>Do&nbsp;sprzątania świątyni zapraszamy</strong> mieszkańców
-        ul.&nbsp;Cieśli 1&nbsp;–&nbsp;III&nbsp;klatka,
-        <strong>w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00.</strong></p>
-        <p>2. Jutro 3&nbsp;maja Uroczystość NMP Królowej Polski – niedzielny
-        porządek Mszy&nbsp;św. w&nbsp;naszym kościele. We&nbsp;wtorek
-        wspomnienie św.&nbsp;Floriana – patrona strażaków, w&nbsp;czwartek
-        św.&nbsp;Apostołów Filipa i&nbsp;Jakuba, w&nbsp;najbliższą sobotę –
-        Uroczystość św.&nbsp;Stanisława biskupa męczennika – Głównego Patrona
-        Polski i&nbsp;Diecezji Sandomierskiej.</p>
-        <p>3. W&nbsp;tym tygodniu Pierwszy Piątek Miesiąca, spowiedź
-        w&nbsp;tym dniu od&nbsp;godz.&nbsp;17.00.</p>
-        <p>4. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
-        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej z&nbsp;naszej
-        parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
-        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
-        spowiedź św.&nbsp;W&nbsp;środę klasy siódme o&nbsp;godz.&nbsp;17.00
-        i&nbsp;w&nbsp;czwartek klasy ósme o&nbsp;tej samej godzinie.</p>
+        <p>1. Dziękujemy parafiankom, Paniom: Annie Wasińskiej, Małgorzacie
+        Franusiak, Teresie Kamińskiej, Karolinie Serafin za&nbsp;sprzątanie
+        kościoła. <em>Bóg zapłać</em> za&nbsp;złożoną ofiarę na&nbsp;potrzeby
+        parafii, w&nbsp;wysokości 200&nbsp;zł. <strong>Do&nbsp;sprzątania
+        świątyni zapraszamy</strong> mieszkańców ul.&nbsp;Cieśli 1 –
+        IV&nbsp;klatka <strong>w&nbsp;najbliższą sobotę
+        na&nbsp;godz.&nbsp;7.00.</strong></p>
+        <p>2. Święto Wniebowstąpienia Pańskiego, przypadające
+        w&nbsp;czterdziesty dzień po&nbsp;zmartwychwstaniu Pańskim,
+        przeniesione jest na&nbsp;stałe na&nbsp;VII niedzielę wielkanocną.</p>
+        <p>3. W&nbsp;przyszłą niedziele zbiórka do&nbsp;puszek
+        na&nbsp;Instytut Teologiczny w&nbsp;Sandomierzu.</p>
+        <p>4. W&nbsp;piątek rozpoczęcie nowenny przed Uroczystością Zesłania
+        Ducha Świętego.</p>
         <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
         Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>6. Przez cały miesiąc maj, o&nbsp;godz.&nbsp;17.30 nabożeństwo
+        <p>6. W&nbsp;najbliższą sobotę, tj.&nbsp;15&nbsp;maja br.,
+        po&nbsp;Mszy wieczorowej, spotkanie z&nbsp;rodzicami młodzieży
+        z&nbsp;klas ósmych, przygotowującej się do&nbsp;przyjęcia sakramentu
+        Bierzmowania.</p>
+        <p>7. Przez cały miesiąc maj, o&nbsp;godz.&nbsp;17.30 nabożeństwo
         majowe. Zapraszamy.</p>
-        <p>7. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
-        urodziny, inne rocznice, składamy najlepsze życzenia
-        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
-        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli</p>
+        <p>8. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;ofiary składane na&nbsp;rzecz parafii. Wszystkim, którzy
+        w&nbsp;tym tygodniu obchodzą swoje imieniny, urodziny, inne rocznice,
+        składamy najlepsze życzenia z&nbsp;kapłańskim błogosławieństwem.
+        Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 2.&nbsp;maja 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 9.&nbsp;maja 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
