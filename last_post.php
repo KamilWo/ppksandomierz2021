@@ -1,39 +1,54 @@
 <div class="card">
     <div class="card-header">
-        <h3>9.&nbsp;maja 2021&nbsp;r.</h3>
-        <h3>VI Niedziela Wielkanocna, Rok B</h3>
+        <h3>16.&nbsp;maja 2021&nbsp;r.</h3>
+        <h3>VII Niedziela Wielkanocna – Uroczystość Wniebowstąpienia Pańskiego, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafiankom, Paniom: Annie Wasińskiej, Małgorzacie
-        Franusiak, Teresie Kamińskiej, Karolinie Serafin za&nbsp;sprzątanie
-        kościoła. <em>Bóg zapłać</em> za&nbsp;złożoną ofiarę na&nbsp;potrzeby
-        parafii, w&nbsp;wysokości 200&nbsp;zł. <strong>Do&nbsp;sprzątania
-        świątyni zapraszamy</strong> mieszkańców ul.&nbsp;Cieśli 1 –
-        IV&nbsp;klatka <strong>w&nbsp;najbliższą sobotę
-        na&nbsp;godz.&nbsp;7.00.</strong></p>
-        <p>2. Święto Wniebowstąpienia Pańskiego, przypadające
-        w&nbsp;czterdziesty dzień po&nbsp;zmartwychwstaniu Pańskim,
-        przeniesione jest na&nbsp;stałe na&nbsp;VII niedzielę wielkanocną.</p>
-        <p>3. W&nbsp;przyszłą niedziele zbiórka do&nbsp;puszek
+        <p>1. Dziękujemy parafiankom, Paniom: Grażynie Tworowskiej, Rozalii
+        Lipiec, Małgorzacie Wieczorek za&nbsp;sprzątanie kościoła. <em>Bóg
+        zapłać</em> za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii,
+        w&nbsp;wysokości 200&nbsp;zł. <strong>Do&nbsp;sprzątania świątyni
+        zapraszamy rodziców dzieci pierwszokomunijnych, w&nbsp;najbliższą
+        sobotę na&nbsp;godz.&nbsp;9.00.</strong></p>
+        <p>2. Dziś po&nbsp;Mszach&nbsp;Św. zbiórka do&nbsp;puszek
         na&nbsp;Instytut Teologiczny w&nbsp;Sandomierzu.</p>
-        <p>4. W&nbsp;piątek rozpoczęcie nowenny przed Uroczystością Zesłania
-        Ducha Świętego.</p>
-        <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        <p>3. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
         Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>6. W&nbsp;najbliższą sobotę, tj.&nbsp;15&nbsp;maja br.,
-        po&nbsp;Mszy wieczorowej, spotkanie z&nbsp;rodzicami młodzieży
-        z&nbsp;klas ósmych, przygotowującej się do&nbsp;przyjęcia sakramentu
-        Bierzmowania.</p>
-        <p>7. Przez cały miesiąc maj, o&nbsp;godz.&nbsp;17.30 nabożeństwo
-        majowe. Zapraszamy.</p>
-        <p>8. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
-        za&nbsp;ofiary składane na&nbsp;rzecz parafii. Wszystkim, którzy
-        w&nbsp;tym tygodniu obchodzą swoje imieniny, urodziny, inne rocznice,
-        składamy najlepsze życzenia z&nbsp;kapłańskim błogosławieństwem.
-        Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
-        niedzieli.</p>
+        <p>4. W&nbsp;przyszłą niedzielę Uroczystość Zesłania Ducha&nbsp;Św.
+        – zakończenie okresu wielkanocnego.</p>
+        <p>5. Za&nbsp;tydzień w&nbsp;niedzielę w&nbsp;naszym kościele
+        parafialnym o&nbsp;godz.&nbsp;12.30 - Uroczysta Pierwsza Komunia św.
+        dzieci z&nbsp;naszej parafii, tj.&nbsp;pierwsza grupa. Druga grupa
+        dzieci będzie miała uroczystość 13&nbsp;czerwca&nbsp;br. o&nbsp;tej
+        samej godzinie. Prośba do&nbsp;tych parafian, którzy zazwyczaj
+        uczestniczą w&nbsp;niedzielnej Mszy&nbsp;św. o&nbsp;godzinie 12.30
+        i&nbsp;nie są&nbsp;z&nbsp;rodziny któregoś pierwszokomunijnego
+        dziecka, aby w&nbsp;przyszłą niedzielę przyszli na&nbsp;Mszę&nbsp;św.
+        na&nbsp;inną godzinę. Chcemy w&nbsp;miarę zachować epidemiczne
+        bezpieczeństwo zgromadzonych w&nbsp;kościele na&nbsp;tej
+        uroczystości.</p>
+        <p>6. Nabożeństwo majowe przez cały ten miesiąc
+        o&nbsp;godz.&nbsp;17.30. Zapraszamy wszystkich.</p>
+        <p>7. W&nbsp;Boże Ciało na&nbsp;razie planujemy procesję przy
+        kościele parafialnym. Prosimy <strong>Zespół dekoracyjny
+        o&nbsp;przygotowanie I&nbsp;ołtarza, Koło Gospodyń Wiejskich Milczany
+        – II, Kobierzanki – III-go, Koło Gospodyń Chwałowianki
+        o&nbsp;przygotowanie IV-go ołtarza.</strong> Zainteresowani ołtarzami
+        kontaktują się z&nbsp;Księdzem Krzysztofem. O&nbsp;ewentualnych
+        zmianach w&nbsp;organizacji procesji, będziemy informować.</p>
+        <p>8. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
+        w&nbsp;najbliższy czwartek o&nbsp;godz.&nbsp;16.00 - obecność
+        obowiązkowa.</p>
+        <p>9. Spowiedź św. dla dzieci pierwszokomunijnych i&nbsp;ich rodziców
+        w&nbsp;najbliższy piątek o&nbsp;godz.&nbsp;16.30.</p>
+        <p>10. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;ofiary składane na&nbsp;rzecz parafii, za&nbsp;wszelką pomoc.
+        Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 9.&nbsp;maja 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 16.&nbsp;maja 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
