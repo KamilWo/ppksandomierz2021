@@ -1,54 +1,63 @@
 <div class="card">
     <div class="card-header">
-        <h3>16.&nbsp;maja 2021&nbsp;r.</h3>
-        <h3>VII Niedziela Wielkanocna – Uroczystość Wniebowstąpienia Pańskiego, Rok B</h3>
+        <h3>23.&nbsp;maja 2021&nbsp;r.</h3>
+        <h3>Uroczystość Zesłania Ducha Świętego, Rok B</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafiankom, Paniom: Grażynie Tworowskiej, Rozalii
-        Lipiec, Małgorzacie Wieczorek za&nbsp;sprzątanie kościoła. <em>Bóg
-        zapłać</em> za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii,
-        w&nbsp;wysokości 200&nbsp;zł. <strong>Do&nbsp;sprzątania świątyni
-        zapraszamy rodziców dzieci pierwszokomunijnych, w&nbsp;najbliższą
-        sobotę na&nbsp;godz.&nbsp;9.00.</strong></p>
-        <p>2. Dziś po&nbsp;Mszach&nbsp;Św. zbiórka do&nbsp;puszek
-        na&nbsp;Instytut Teologiczny w&nbsp;Sandomierzu.</p>
-        <p>3. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
-        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>4. W&nbsp;przyszłą niedzielę Uroczystość Zesłania Ducha&nbsp;Św.
-        – zakończenie okresu wielkanocnego.</p>
-        <p>5. Za&nbsp;tydzień w&nbsp;niedzielę w&nbsp;naszym kościele
-        parafialnym o&nbsp;godz.&nbsp;12.30 - Uroczysta Pierwsza Komunia św.
-        dzieci z&nbsp;naszej parafii, tj.&nbsp;pierwsza grupa. Druga grupa
-        dzieci będzie miała uroczystość 13&nbsp;czerwca&nbsp;br. o&nbsp;tej
-        samej godzinie. Prośba do&nbsp;tych parafian, którzy zazwyczaj
-        uczestniczą w&nbsp;niedzielnej Mszy&nbsp;św. o&nbsp;godzinie 12.30
-        i&nbsp;nie są&nbsp;z&nbsp;rodziny któregoś pierwszokomunijnego
-        dziecka, aby w&nbsp;przyszłą niedzielę przyszli na&nbsp;Mszę&nbsp;św.
-        na&nbsp;inną godzinę. Chcemy w&nbsp;miarę zachować epidemiczne
-        bezpieczeństwo zgromadzonych w&nbsp;kościele na&nbsp;tej
-        uroczystości.</p>
-        <p>6. Nabożeństwo majowe przez cały ten miesiąc
-        o&nbsp;godz.&nbsp;17.30. Zapraszamy wszystkich.</p>
-        <p>7. W&nbsp;Boże Ciało na&nbsp;razie planujemy procesję przy
-        kościele parafialnym. Prosimy <strong>Zespół dekoracyjny
-        o&nbsp;przygotowanie I&nbsp;ołtarza, Koło Gospodyń Wiejskich Milczany
-        – II, Kobierzanki – III-go, Koło Gospodyń Chwałowianki
-        o&nbsp;przygotowanie IV-go ołtarza.</strong> Zainteresowani ołtarzami
-        kontaktują się z&nbsp;Księdzem Krzysztofem. O&nbsp;ewentualnych
-        zmianach w&nbsp;organizacji procesji, będziemy informować.</p>
-        <p>8. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
-        w&nbsp;najbliższy czwartek o&nbsp;godz.&nbsp;16.00 - obecność
+        <p>1. Dziękujemy rodzicom tegorocznych dzieci pierwszokomunijnym
+        za&nbsp;posprzątanie kościoła i&nbsp;wokół niego, wykonanie
+        kwiatowej dekoracji na&nbsp;dzisiejsze uroczystości oraz
+        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii w&nbsp;wysokości
+        2000&nbsp;zł. <strong>Zapraszamy do&nbsp;sprzątania świątyni
+        parafialnej w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>,
+        parafian z&nbsp;ul.&nbsp;Cieśli 3 klatka nr&nbsp;I.</p>
+        <p>2. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;Instytut
+        Teologiczny w&nbsp;Sandomierzu zebrane zostało 963&nbsp;zł.
+        <em>Bóg zapłać</em>.</p>
+        <p>3. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej -
+        „Niedziela”, „Gość Niedzielny”, dla dzieci nowy numer „Małego
+        Gościa”.</p>
+        <p>4. Jutro Święto Matki Kościoła – Msze&nbsp;św. w&nbsp;tym dniu
+        o&nbsp;6.30 i&nbsp;o&nbsp;18.00, a&nbsp;w&nbsp;najbliższą środę –
+        Dzień Matki. To&nbsp;święto jest okazją do&nbsp;okazania miłości
+        i&nbsp;wdzięczności naszym kochanym mamom.</p>
+        <p>5. Prosimy o&nbsp;zgłoszenie się dziesięciu osób z&nbsp;parafii:
+        chętnych, aby wziąć udział w&nbsp;majówce na&nbsp;statku płynącym
+        po&nbsp;Wiśle 28&nbsp;maja br. o&nbsp;godz.&nbsp;18.00. Bilety
+        gratisowe będą do&nbsp;odebrania w&nbsp;zakrystii. Nabożeństwo
+        poprowadzi ks.&nbsp;bp.&nbsp;Ordynariusz.</p>
+        <p>6. Jutro w&nbsp;naszym kościele zakończenie tzw. „Sztafety
+        modlitewnej w&nbsp;intencji powołań kapłańskich”. Przez kolejne dni
+        począwszy od&nbsp;Niedzieli Dobrego Pasterza w&nbsp;wyznaczonych
+        parafiach Diecezji Sandomierskiej, miała miejsce modlitwa o&nbsp;nowe
+        powołania do&nbsp;służby Bożej. Naszą modlitwę parafialną
+        rozpoczniemy adoracją  Najśw. Sakramentu o&nbsp;godz.&nbsp;17.00,
+        o&nbsp;17.30 nabożeństwo majowe, po&nbsp;nim Msza&nbsp;św. Zapraszamy
+        parafian do&nbsp;wzięcia udziału w&nbsp;modlitwie. Prosimy także
+        ludzi młodych, kandydatów do&nbsp;bierzmowania, szczególnie
+        z&nbsp;klas ósmych, służbę liturgiczną, młodzież szkól średnich.
+        Problem z&nbsp;powołaniami jest poważny. Za&nbsp;niedługi czas może
+        zabraknąć księży do&nbsp;podstawowych posług religijnych.</p>
+        <p>7. Dziękujemy parafianinowi z&nbsp;Chwałek za&nbsp;usunięcie mchu
+        z&nbsp;dużej części płotu okalającego posesje parafialnego kościoła
+        i&nbsp;posprzątanie. <em>Bóg zapłać</em>.</p>
+        <p>8. W&nbsp;następną niedzielę – Uroczystość Trójcy Świętej –
+        zakończenie okresu Komunii&nbsp;św. wielkanocnej.</p>
+        <p>9. Dzieci, które dziś po&nbsp;raz pierwszy przyjęły
+        Komunię&nbsp;św. przez kolejne 6&nbsp;dni wieczorem uczestniczą
+        we&nbsp;Mszy&nbsp;św. Będą przeżywać tzw. „Biały Tydzień”,
+        w&nbsp;czasie którego w&nbsp;swoich modlitwach polecać będą Panu Bogu
+        swoje rodziny i&nbsp;inne intencje.</p>
+        <p>10. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
+        w&nbsp;najbliższy piątek o&nbsp;godz.&nbsp;16.00 – obecność
         obowiązkowa.</p>
-        <p>9. Spowiedź św. dla dzieci pierwszokomunijnych i&nbsp;ich rodziców
-        w&nbsp;najbliższy piątek o&nbsp;godz.&nbsp;16.30.</p>
-        <p>10. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
-        za&nbsp;ofiary składane na&nbsp;rzecz parafii, za&nbsp;wszelką pomoc.
-        Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
-        urodziny, inne rocznice, składamy najlepsze życzenia
+        <p>11. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą
+        swoje imieniny, urodziny, inne rocznice, składamy najlepsze życzenia
         z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
         we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 16.&nbsp;maja 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 23.&nbsp;maja 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>

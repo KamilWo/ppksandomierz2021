@@ -1,90 +1,98 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            17.05 – 23.05 2021&nbsp;r.
+            24.05 – 30.05 2021&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">17&nbsp;maja, Poniedziałek</p>
+<p class="intentions_date">24&nbsp;maja, Poniedziałek –
+Święto Najświętszej Maryi Panny Matki Kościoła</p>
 <ul>
-    <li>6.30 + Henryka Leśniaka greg.&nbsp;29</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;6</li>
     <li>6.30 + Adama Osowskiego</li>
-    <li>18.00 + Genowefę, Stanisława
-    i&nbsp;zm.&nbsp;z&nbsp;rodziny</li>
-    <li>18.00 + Elżbietę Chmiel</li>
+    <li>18.00 w&nbsp;int. powołań do&nbsp;służby w&nbsp;Kościele</li>
+    <li>18.00 + ks.&nbsp;Kazimierza Jarochę; Kazimierza
+    Grządkowskiego w&nbsp;8&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Stanisława Kozłowskiego</li>
     <li>18.00 + Barbarę Marzec</li>
 </ul>
 
-<p class="intentions_date">18&nbsp;maja, Wtorek</p>
+<p class="intentions_date">25&nbsp;maja, Wtorek</p>
 <ul>
-    <li>6.30 + Mieczysława Paterka</li>
-    <li>6.30 + Stanisława Kudelskiego</li>
-    <li>6.30 + Piotra, Krzysztofa Karweckich; Wiesława Synowca</li>
-    <li>18.00 + Henryka Leśniaka greg.&nbsp;30</li>
-    <li>18.00 + Teresę Świątańską w&nbsp;1&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Stanisława Wojtkowiaka</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;7</li>
+    <li>6.30 + Mieczysława Bryłę</li>
+    <li>6.30 + Agnieszkę Jakus</li>
+    <li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+    i&nbsp;eutanazji</li>
+    <li>18.00 + Pawła Grzesiaka</li>
+    <li>18.00 + Stanisława, Mariannę, Michała
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Przewlekłych</li>
 </ul>
 
-<p class="intentions_date">19&nbsp;maja, Środa</p>
+<p class="intentions_date">26&nbsp;maja, Środa –
+św.&nbsp;Filipa Nereusza</p>
 <ul>
-    <li>6.30 w&nbsp;int. ks.&nbsp;Łukasza i&nbsp;ks.&nbsp;Szczepana
-    o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę Matki Bożej
-    z&nbsp;racji r.&nbsp;święceń kapłańskich</li>
-    <li>6.30 + Helenę Bajak greg.&nbsp;1</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;8</li>
+    <li>6.30 + Zofię Guściorę</li>
     <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    potrzebne łaski, opiekę Matki Bożej, wstawiennictwo
-    św.&nbsp;Patronów dla Ireny, Krystyny, Józefy</li>
-    <li>18.00 dziękczynno-błagalna o&nbsp;Miłosierdzie Boże,
-    potrzebne łaski w&nbsp;rodzinie i&nbsp;wszystkich polskich
-    rodzinach za&nbsp;wstawiennictwem św.&nbsp;Józefa opiekuna
-    rodzin</li>
-    <li>18.00 + Mieczysława Bryłę</li>
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
+    ks.&nbsp;Damiana Dziuby z&nbsp;racji rocznicy święceń
+    kapłańskich</li>
+    <li>18.00 + Marię Włoch</li>
+    <li>18.00 + Weronikę Błaszczyk</li>
 </ul>
 
-<p class="intentions_date">20&nbsp;maja, Czwartek</p>
+<p class="intentions_date">27&nbsp;maja, Czwartek –
+Święto Jezusa Chrystusa Najwyższego i&nbsp;Wiecznego Kapłana</p>
 <ul>
-    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    opiekę Matki Bożej, potrzebne łaski w&nbsp;małżeństwie Asi
-    i&nbsp;Daniela</li>
-    <li>6.30 o&nbsp;łaskę zdrowia</li>
-    <li>6.30 + Helenę Bajak greg.&nbsp;2</li>
-    <li>6.30 + Mieczysława Bryłę</li>
-    <li>18.00 + Kazimierza Makowskiego</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;9</li>
+    <li>6.30 + Tadeusza Fietko</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej dla ks.&nbsp;Proboszcza
+    Stanisława i&nbsp;Kapłanów pracujących w&nbsp;naszej Parafii –
+    od&nbsp;Legionu Maryi</li>
     <li>18.00 + Elżbietę Chmiel</li>
+    <li>18.00 + Adama Osowskiego</li>
 </ul>
 
-<p class="intentions_date">21 maja, Piątek</p>
+<p class="intentions_date">28 maja, Piątek</p>
 <ul>
-    <li>6.30 + Helenę Bajak greg.&nbsp;3</li>
-    <li>6.30 + Mieczysława Bryłę</li>
+    <li>6.30 + Teodozję w&nbsp;dn.&nbsp;im., Zdzisława Dudków, dusze
+    w&nbsp;czyśćcu cierpiące</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;10</li>
+    <li>6.30 + Stefana Orłowskiego</li>
+    <li>18.00 + Barbarę Marzec</li>
     <li>18.00 + Jana Jedlińskiego</li>
-    <li>18.00 + Barbarę Marzec</li>
-    <li>18.00 + Tadeusza Fietko</li>
+    <li>18.00 + Teodorę Bażant</li>
 </ul>
 
-<p class="intentions_date">22&nbsp;maja, Sobota</p>
+<p class="intentions_date">29&nbsp;maja, Sobota –
+św. Urszuli Ledóchowskiej</p>
 <ul>
-    <li>6.30 + Helenę Bajak greg.&nbsp;4</li>
-    <li>6.30 + Mieczysława Bryłę</li>
-    <li>18.00 w&nbsp;int. o&nbsp;uwielbienie Ducha Świętego</li>
-    <li>18.00 + Barbarę Marzec</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;11</li>
+    <li>6.30 + Stanisława Kudelskiego</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
+    Stanisława z&nbsp;racji 80&nbsp;r. urodzin</li>
     <li>18.00 + Alicję Orzechowską</li>
+    <li>18.00 + Agnieszkę Jakus</li>
 </ul>
 
-<p class="intentions_date">23&nbsp;maja, Niedziela –
+<p class="intentions_date">30&nbsp;maja, Niedziela –
     <span style="color: grey">
-        Uroczystość Zesłania Ducha Świętego
+        Uroczystość Najświętszej Trójcy
     </span>
 </p>
 <ul>
-    <li>7.30 + Zofię, Wincentego, Henryka Wyrzykowskich; Bogusława
-    Stępińskiego</li>
-    <li>7.30 + Stanisława Pliżgę</li>
-    <li>9.30 + Bożenę, Wojciecha, Grzegorza, Henryka Gajków</li>
-    <li>9.30 + Helenę Bajak greg.&nbsp;5</li>
-    <li>11.15 + Krystynę Walasek</li>
+    <li>7.30 + Jana, Zofię, Marka, Andrzeja Wrzesińskich</li>
+    <li>7.30 + Helenę Bajak greg.&nbsp;12</li>
+    <li>9.30 + Mariannę Kierzkowską w&nbsp;1&nbsp;r.&nbsp;śm.
+    i&nbsp;zm. z&nbsp;rodz.</li>
+    <li>11.15 + Anielę, Romualda, Pamelę, Aleksandra,
+    zm.&nbsp;z&nbsp;rodz. Kapisów</li>
     <li>12.30 w&nbsp;intencji parafian</li>
-    <li>18.00 + Helenę, Jana, Ireneusza, Bożenę Kiliańskich</li>
+    <li>18.00 + Sylwię Pawłowską w&nbsp;3&nbsp;r.&nbsp;śm.</li>
 </ul>
     </div>
 </div>

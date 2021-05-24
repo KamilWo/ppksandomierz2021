@@ -16,7 +16,157 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 16.&nbsp;maja 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 23.&nbsp;maja 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            17.05 – 23.05 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">17&nbsp;maja, Poniedziałek</p>
+<ul>
+    <li>6.30 + Henryka Leśniaka greg.&nbsp;29</li>
+    <li>6.30 + Adama Osowskiego</li>
+    <li>18.00 + Genowefę, Stanisława
+    i&nbsp;zm.&nbsp;z&nbsp;rodziny</li>
+    <li>18.00 + Elżbietę Chmiel</li>
+    <li>18.00 + Barbarę Marzec</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;maja, Wtorek</p>
+<ul>
+    <li>6.30 + Mieczysława Paterka</li>
+    <li>6.30 + Stanisława Kudelskiego</li>
+    <li>6.30 + Piotra, Krzysztofa Karweckich; Wiesława Synowca</li>
+    <li>18.00 + Henryka Leśniaka greg.&nbsp;30</li>
+    <li>18.00 + Teresę Świątańską w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Stanisława Wojtkowiaka</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;maja, Środa</p>
+<ul>
+    <li>6.30 w&nbsp;int. ks.&nbsp;Łukasza i&nbsp;ks.&nbsp;Szczepana
+    o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę Matki Bożej
+    z&nbsp;racji r.&nbsp;święceń kapłańskich</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;1</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej, wstawiennictwo
+    św.&nbsp;Patronów dla Ireny, Krystyny, Józefy</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Miłosierdzie Boże,
+    potrzebne łaski w&nbsp;rodzinie i&nbsp;wszystkich polskich
+    rodzinach za&nbsp;wstawiennictwem św.&nbsp;Józefa opiekuna
+    rodzin</li>
+    <li>18.00 + Mieczysława Bryłę</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;maja, Czwartek</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski w&nbsp;małżeństwie Asi
+    i&nbsp;Daniela</li>
+    <li>6.30 o&nbsp;łaskę zdrowia</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;2</li>
+    <li>6.30 + Mieczysława Bryłę</li>
+    <li>18.00 + Kazimierza Makowskiego</li>
+    <li>18.00 + Elżbietę Chmiel</li>
+</ul>
+
+<p class="intentions_date">21 maja, Piątek</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;3</li>
+    <li>6.30 + Mieczysława Bryłę</li>
+    <li>18.00 + Jana Jedlińskiego</li>
+    <li>18.00 + Barbarę Marzec</li>
+    <li>18.00 + Tadeusza Fietko</li>
+</ul>
+
+<p class="intentions_date">22&nbsp;maja, Sobota</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;4</li>
+    <li>6.30 + Mieczysława Bryłę</li>
+    <li>18.00 w&nbsp;int. o&nbsp;uwielbienie Ducha Świętego</li>
+    <li>18.00 + Barbarę Marzec</li>
+    <li>18.00 + Alicję Orzechowską</li>
+</ul>
+
+<p class="intentions_date">23&nbsp;maja, Niedziela –
+    <span style="color: grey">
+        Uroczystość Zesłania Ducha Świętego
+    </span>
+</p>
+<ul>
+    <li>7.30 + Zofię, Wincentego, Henryka Wyrzykowskich; Bogusława
+    Stępińskiego</li>
+    <li>7.30 + Stanisława Pliżgę</li>
+    <li>9.30 + Bożenę, Wojciecha, Grzegorza, Henryka Gajków</li>
+    <li>9.30 + Helenę Bajak greg.&nbsp;5</li>
+    <li>11.15 + Krystynę Walasek</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>18.00 + Helenę, Jana, Ireneusza, Bożenę Kiliańskich</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+
+<div class="card">
+    <div class="card-header">
+        <h3>16.&nbsp;maja 2021&nbsp;r.</h3>
+        <h3>VII Niedziela Wielkanocna – Uroczystość Wniebowstąpienia Pańskiego, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy parafiankom, Paniom: Grażynie Tworowskiej, Rozalii
+        Lipiec, Małgorzacie Wieczorek za&nbsp;sprzątanie kościoła. <em>Bóg
+        zapłać</em> za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii,
+        w&nbsp;wysokości 200&nbsp;zł. <strong>Do&nbsp;sprzątania świątyni
+        zapraszamy rodziców dzieci pierwszokomunijnych, w&nbsp;najbliższą
+        sobotę na&nbsp;godz.&nbsp;9.00.</strong></p>
+        <p>2. Dziś po&nbsp;Mszach&nbsp;Św. zbiórka do&nbsp;puszek
+        na&nbsp;Instytut Teologiczny w&nbsp;Sandomierzu.</p>
+        <p>3. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+        <p>4. W&nbsp;przyszłą niedzielę Uroczystość Zesłania Ducha&nbsp;Św.
+        – zakończenie okresu wielkanocnego.</p>
+        <p>5. Za&nbsp;tydzień w&nbsp;niedzielę w&nbsp;naszym kościele
+        parafialnym o&nbsp;godz.&nbsp;12.30 - Uroczysta Pierwsza Komunia św.
+        dzieci z&nbsp;naszej parafii, tj.&nbsp;pierwsza grupa. Druga grupa
+        dzieci będzie miała uroczystość 13&nbsp;czerwca&nbsp;br. o&nbsp;tej
+        samej godzinie. Prośba do&nbsp;tych parafian, którzy zazwyczaj
+        uczestniczą w&nbsp;niedzielnej Mszy&nbsp;św. o&nbsp;godzinie 12.30
+        i&nbsp;nie są&nbsp;z&nbsp;rodziny któregoś pierwszokomunijnego
+        dziecka, aby w&nbsp;przyszłą niedzielę przyszli na&nbsp;Mszę&nbsp;św.
+        na&nbsp;inną godzinę. Chcemy w&nbsp;miarę zachować epidemiczne
+        bezpieczeństwo zgromadzonych w&nbsp;kościele na&nbsp;tej
+        uroczystości.</p>
+        <p>6. Nabożeństwo majowe przez cały ten miesiąc
+        o&nbsp;godz.&nbsp;17.30. Zapraszamy wszystkich.</p>
+        <p>7. W&nbsp;Boże Ciało na&nbsp;razie planujemy procesję przy
+        kościele parafialnym. Prosimy <strong>Zespół dekoracyjny
+        o&nbsp;przygotowanie I&nbsp;ołtarza, Koło Gospodyń Wiejskich Milczany
+        – II, Kobierzanki – III-go, Koło Gospodyń Chwałowianki
+        o&nbsp;przygotowanie IV-go ołtarza.</strong> Zainteresowani ołtarzami
+        kontaktują się z&nbsp;Księdzem Krzysztofem. O&nbsp;ewentualnych
+        zmianach w&nbsp;organizacji procesji, będziemy informować.</p>
+        <p>8. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
+        w&nbsp;najbliższy czwartek o&nbsp;godz.&nbsp;16.00 - obecność
+        obowiązkowa.</p>
+        <p>9. Spowiedź św. dla dzieci pierwszokomunijnych i&nbsp;ich rodziców
+        w&nbsp;najbliższy piątek o&nbsp;godz.&nbsp;16.30.</p>
+        <p>10. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;ofiary składane na&nbsp;rzecz parafii, za&nbsp;wszelką pomoc.
+        Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 16.&nbsp;maja 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
