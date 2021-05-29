@@ -16,7 +16,173 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 23.&nbsp;maja 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 30.&nbsp;maja 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            24.05 – 30.05 2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">24&nbsp;maja, Poniedziałek –
+Święto Najświętszej Maryi Panny Matki Kościoła</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;6</li>
+    <li>6.30 + Adama Osowskiego</li>
+    <li>18.00 w&nbsp;int. powołań do&nbsp;służby w&nbsp;Kościele</li>
+    <li>18.00 + ks.&nbsp;Kazimierza Jarochę; Kazimierza
+    Grządkowskiego w&nbsp;8&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Stanisława Kozłowskiego</li>
+    <li>18.00 + Barbarę Marzec</li>
+</ul>
+
+<p class="intentions_date">25&nbsp;maja, Wtorek</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;7</li>
+    <li>6.30 + Mieczysława Bryłę</li>
+    <li>6.30 + Agnieszkę Jakus</li>
+    <li>18.00 int. wynagradzająca Panu Bogu za&nbsp;grzechy aborcji
+    i&nbsp;eutanazji</li>
+    <li>18.00 + Pawła Grzesiaka</li>
+    <li>18.00 + Stanisława, Mariannę, Michała
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Przewlekłych</li>
+</ul>
+
+<p class="intentions_date">26&nbsp;maja, Środa –
+św.&nbsp;Filipa Nereusza</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;8</li>
+    <li>6.30 + Zofię Guściorę</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
+    ks.&nbsp;Damiana Dziuby z&nbsp;racji rocznicy święceń
+    kapłańskich</li>
+    <li>18.00 + Marię Włoch</li>
+    <li>18.00 + Weronikę Błaszczyk</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;maja, Czwartek –
+Święto Jezusa Chrystusa Najwyższego i&nbsp;Wiecznego Kapłana</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;9</li>
+    <li>6.30 + Tadeusza Fietko</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, dary
+    Ducha Świętego, opiekę Matki Bożej dla ks.&nbsp;Proboszcza
+    Stanisława i&nbsp;Kapłanów pracujących w&nbsp;naszej Parafii –
+    od&nbsp;Legionu Maryi</li>
+    <li>18.00 + Elżbietę Chmiel</li>
+    <li>18.00 + Adama Osowskiego</li>
+</ul>
+
+<p class="intentions_date">28 maja, Piątek</p>
+<ul>
+    <li>6.30 + Teodozję w&nbsp;dn.&nbsp;im., Zdzisława Dudków, dusze
+    w&nbsp;czyśćcu cierpiące</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;10</li>
+    <li>6.30 + Stefana Orłowskiego</li>
+    <li>18.00 + Barbarę Marzec</li>
+    <li>18.00 + Jana Jedlińskiego</li>
+    <li>18.00 + Teodorę Bażant</li>
+</ul>
+
+<p class="intentions_date">29&nbsp;maja, Sobota –
+św. Urszuli Ledóchowskiej</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;11</li>
+    <li>6.30 + Stanisława Kudelskiego</li>
+    <li>6.30 + Jacka Strugałę</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, dary Ducha Świętego, opiekę Matki Bożej dla
+    Stanisława z&nbsp;racji 80&nbsp;r. urodzin</li>
+    <li>18.00 + Alicję Orzechowską</li>
+    <li>18.00 + Agnieszkę Jakus</li>
+</ul>
+
+<p class="intentions_date">30&nbsp;maja, Niedziela –
+    <span style="color: grey">
+        Uroczystość Najświętszej Trójcy
+    </span>
+</p>
+<ul>
+    <li>7.30 + Jana, Zofię, Marka, Andrzeja Wrzesińskich</li>
+    <li>7.30 + Helenę Bajak greg.&nbsp;12</li>
+    <li>9.30 + Mariannę Kierzkowską w&nbsp;1&nbsp;r.&nbsp;śm.
+    i&nbsp;zm. z&nbsp;rodz.</li>
+    <li>11.15 + Anielę, Romualda, Pamelę, Aleksandra,
+    zm.&nbsp;z&nbsp;rodz. Kapisów</li>
+    <li>12.30 w&nbsp;intencji parafian</li>
+    <li>18.00 + Sylwię Pawłowską w&nbsp;3&nbsp;r.&nbsp;śm.</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>23.&nbsp;maja 2021&nbsp;r.</h3>
+        <h3>Uroczystość Zesłania Ducha Świętego, Rok B</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy rodzicom tegorocznych dzieci pierwszokomunijnym
+        za&nbsp;posprzątanie kościoła i&nbsp;wokół niego, wykonanie
+        kwiatowej dekoracji na&nbsp;dzisiejsze uroczystości oraz
+        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii w&nbsp;wysokości
+        2000&nbsp;zł. <strong>Zapraszamy do&nbsp;sprzątania świątyni
+        parafialnej w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>,
+        parafian z&nbsp;ul.&nbsp;Cieśli 3 klatka nr&nbsp;I.</p>
+        <p>2. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;Instytut
+        Teologiczny w&nbsp;Sandomierzu zebrane zostało 963&nbsp;zł.
+        <em>Bóg zapłać</em>.</p>
+        <p>3. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej -
+        „Niedziela”, „Gość Niedzielny”, dla dzieci nowy numer „Małego
+        Gościa”.</p>
+        <p>4. Jutro Święto Matki Kościoła – Msze&nbsp;św. w&nbsp;tym dniu
+        o&nbsp;6.30 i&nbsp;o&nbsp;18.00, a&nbsp;w&nbsp;najbliższą środę –
+        Dzień Matki. To&nbsp;święto jest okazją do&nbsp;okazania miłości
+        i&nbsp;wdzięczności naszym kochanym mamom.</p>
+        <p>5. Prosimy o&nbsp;zgłoszenie się dziesięciu osób z&nbsp;parafii:
+        chętnych, aby wziąć udział w&nbsp;majówce na&nbsp;statku płynącym
+        po&nbsp;Wiśle 28&nbsp;maja br. o&nbsp;godz.&nbsp;18.00. Bilety
+        gratisowe będą do&nbsp;odebrania w&nbsp;zakrystii. Nabożeństwo
+        poprowadzi ks.&nbsp;bp.&nbsp;Ordynariusz.</p>
+        <p>6. Jutro w&nbsp;naszym kościele zakończenie tzw. „Sztafety
+        modlitewnej w&nbsp;intencji powołań kapłańskich”. Przez kolejne dni
+        począwszy od&nbsp;Niedzieli Dobrego Pasterza w&nbsp;wyznaczonych
+        parafiach Diecezji Sandomierskiej, miała miejsce modlitwa o&nbsp;nowe
+        powołania do&nbsp;służby Bożej. Naszą modlitwę parafialną
+        rozpoczniemy adoracją  Najśw. Sakramentu o&nbsp;godz.&nbsp;17.00,
+        o&nbsp;17.30 nabożeństwo majowe, po&nbsp;nim Msza&nbsp;św. Zapraszamy
+        parafian do&nbsp;wzięcia udziału w&nbsp;modlitwie. Prosimy także
+        ludzi młodych, kandydatów do&nbsp;bierzmowania, szczególnie
+        z&nbsp;klas ósmych, służbę liturgiczną, młodzież szkól średnich.
+        Problem z&nbsp;powołaniami jest poważny. Za&nbsp;niedługi czas może
+        zabraknąć księży do&nbsp;podstawowych posług religijnych.</p>
+        <p>7. Dziękujemy parafianinowi z&nbsp;Chwałek za&nbsp;usunięcie mchu
+        z&nbsp;dużej części płotu okalającego posesje parafialnego kościoła
+        i&nbsp;posprzątanie. <em>Bóg zapłać</em>.</p>
+        <p>8. W&nbsp;następną niedzielę – Uroczystość Trójcy Świętej –
+        zakończenie okresu Komunii&nbsp;św. wielkanocnej.</p>
+        <p>9. Dzieci, które dziś po&nbsp;raz pierwszy przyjęły
+        Komunię&nbsp;św. przez kolejne 6&nbsp;dni wieczorem uczestniczą
+        we&nbsp;Mszy&nbsp;św. Będą przeżywać tzw. „Biały Tydzień”,
+        w&nbsp;czasie którego w&nbsp;swoich modlitwach polecać będą Panu Bogu
+        swoje rodziny i&nbsp;inne intencje.</p>
+        <p>10. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
+        w&nbsp;najbliższy piątek o&nbsp;godz.&nbsp;16.00 – obecność
+        obowiązkowa.</p>
+        <p>11. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą
+        swoje imieniny, urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 23.&nbsp;maja 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

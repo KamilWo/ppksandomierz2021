@@ -1,63 +1,54 @@
 <div class="card">
     <div class="card-header">
-        <h3>23.&nbsp;maja 2021&nbsp;r.</h3>
-        <h3>Uroczystość Zesłania Ducha Świętego, Rok B</h3>
+        <h3>30.&nbsp;maja 2021&nbsp;r.</h3>
+        <h3>Uroczystość Trójcy Świętej</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy rodzicom tegorocznych dzieci pierwszokomunijnym
-        za&nbsp;posprzątanie kościoła i&nbsp;wokół niego, wykonanie
-        kwiatowej dekoracji na&nbsp;dzisiejsze uroczystości oraz
-        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii w&nbsp;wysokości
-        2000&nbsp;zł. <strong>Zapraszamy do&nbsp;sprzątania świątyni
+        <p>1. Dziękujemy parafianom z&nbsp;I&nbsp;klatki, blok nr&nbsp;3
+        ul.&nbsp;Cieśli, za&nbsp;sprzątanie kościoła. <em>Bóg zapłać</em>
+        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii, w&nbsp;wysokości
+        140&nbsp;zł. <strong>Zapraszamy do&nbsp;sprzątania świątyni
         parafialnej w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>,
-        parafian z&nbsp;ul.&nbsp;Cieśli 3 klatka nr&nbsp;I.</p>
-        <p>2. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;Instytut
-        Teologiczny w&nbsp;Sandomierzu zebrane zostało 963&nbsp;zł.
-        <em>Bóg zapłać</em>.</p>
+        parafian z&nbsp;ul.&nbsp;Cieśli&nbsp;3 klatka nr&nbsp;II.</p>
+        <p>2. Nabożeństwo czerwcowe bezpośrednio po&nbsp;Mszy&nbsp;św.
+        wieczornej przez wszystkie dni miesiąca czerwca.</p>
         <p>3. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej -
         „Niedziela”, „Gość Niedzielny”, dla dzieci nowy numer „Małego
         Gościa”.</p>
-        <p>4. Jutro Święto Matki Kościoła – Msze&nbsp;św. w&nbsp;tym dniu
-        o&nbsp;6.30 i&nbsp;o&nbsp;18.00, a&nbsp;w&nbsp;najbliższą środę –
-        Dzień Matki. To&nbsp;święto jest okazją do&nbsp;okazania miłości
-        i&nbsp;wdzięczności naszym kochanym mamom.</p>
-        <p>5. Prosimy o&nbsp;zgłoszenie się dziesięciu osób z&nbsp;parafii:
-        chętnych, aby wziąć udział w&nbsp;majówce na&nbsp;statku płynącym
-        po&nbsp;Wiśle 28&nbsp;maja br. o&nbsp;godz.&nbsp;18.00. Bilety
-        gratisowe będą do&nbsp;odebrania w&nbsp;zakrystii. Nabożeństwo
-        poprowadzi ks.&nbsp;bp.&nbsp;Ordynariusz.</p>
-        <p>6. Jutro w&nbsp;naszym kościele zakończenie tzw. „Sztafety
-        modlitewnej w&nbsp;intencji powołań kapłańskich”. Przez kolejne dni
-        począwszy od&nbsp;Niedzieli Dobrego Pasterza w&nbsp;wyznaczonych
-        parafiach Diecezji Sandomierskiej, miała miejsce modlitwa o&nbsp;nowe
-        powołania do&nbsp;służby Bożej. Naszą modlitwę parafialną
-        rozpoczniemy adoracją  Najśw. Sakramentu o&nbsp;godz.&nbsp;17.00,
-        o&nbsp;17.30 nabożeństwo majowe, po&nbsp;nim Msza&nbsp;św. Zapraszamy
-        parafian do&nbsp;wzięcia udziału w&nbsp;modlitwie. Prosimy także
-        ludzi młodych, kandydatów do&nbsp;bierzmowania, szczególnie
-        z&nbsp;klas ósmych, służbę liturgiczną, młodzież szkól średnich.
-        Problem z&nbsp;powołaniami jest poważny. Za&nbsp;niedługi czas może
-        zabraknąć księży do&nbsp;podstawowych posług religijnych.</p>
-        <p>7. Dziękujemy parafianinowi z&nbsp;Chwałek za&nbsp;usunięcie mchu
-        z&nbsp;dużej części płotu okalającego posesje parafialnego kościoła
-        i&nbsp;posprzątanie. <em>Bóg zapłać</em>.</p>
-        <p>8. W&nbsp;następną niedzielę – Uroczystość Trójcy Świętej –
-        zakończenie okresu Komunii&nbsp;św. wielkanocnej.</p>
-        <p>9. Dzieci, które dziś po&nbsp;raz pierwszy przyjęły
-        Komunię&nbsp;św. przez kolejne 6&nbsp;dni wieczorem uczestniczą
-        we&nbsp;Mszy&nbsp;św. Będą przeżywać tzw. „Biały Tydzień”,
-        w&nbsp;czasie którego w&nbsp;swoich modlitwach polecać będą Panu Bogu
-        swoje rodziny i&nbsp;inne intencje.</p>
-        <p>10. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
-        w&nbsp;najbliższy piątek o&nbsp;godz.&nbsp;16.00 – obecność
-        obowiązkowa.</p>
-        <p>11. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
-        za&nbsp;wszelką pomoc. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą
-        swoje imieniny, urodziny, inne rocznice, składamy najlepsze życzenia
-        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
-        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>4. Pan Organista, który przez ostatnie dwa miesiące posługiwał
+        w&nbsp;parafii, ze&nbsp;względów osobistych zrezygnował
+        z&nbsp;dalszej pracy w&nbsp;naszej parafii, jeszcze będzie grał
+        w&nbsp;naszym kościele parafialnym do&nbsp;13&nbsp;czerwca.</p>
+        <p>5. W&nbsp;czwartek 3&nbsp;czerwca Uroczystość Bożego Ciała.
+        Porządek Mszy Świętych w&nbsp;naszej parafii, jest następujący: 7.30,
+        9.30, 11.15 z&nbsp;procesją dookoła kościoła do&nbsp;przygotowanych
+        ołtarzy. Nie będzie Mszy Świętej o&nbsp;godzinie 12.30. Kolejna Msza
+        święta będzie o&nbsp;godzinie 18.00.</p>
+        <p>6. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
+        w&nbsp;najbliższą środę o&nbsp;godz.&nbsp;16.00.</p>
+        <p>7. W&nbsp;przyszłą niedziele zbiórka do&nbsp;puszek
+        na&nbsp;Świątynię Opatrzności Bożej.</p>
+        <p>8. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej z&nbsp;naszej
+        parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
+        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
+        spowiedź&nbsp;św. W&nbsp;środę klasy siódme
+        o&nbsp;godz.&nbsp;17.00.</p>
+        <p>9. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>10. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota
+        miesiąca. W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.00.</p>
+        <p>11. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. –
+        nabożeństwo Różańcowe poprowadzi Legion Maryi z&nbsp;naszej
+        parafii.</p>
+        <p>12. Życzymy Błogosławionej Niedzieli. Przyjmijcie Boże
+        Błogosławieństwo.</p>
         <p>
-            <span style="float: left;">Sandomierz, 23.&nbsp;maja 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 30.&nbsp;maja 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
