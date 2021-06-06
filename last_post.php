@@ -1,54 +1,61 @@
 <div class="card">
     <div class="card-header">
-        <h3>30.&nbsp;maja 2021&nbsp;r.</h3>
-        <h3>Uroczystość Trójcy Świętej</h3>
+        <h3>6.&nbsp;czerwca 2021&nbsp;r.</h3>
+        <h3>X Niedziela Wielkanocna</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafianom z&nbsp;I&nbsp;klatki, blok nr&nbsp;3
-        ul.&nbsp;Cieśli, za&nbsp;sprzątanie kościoła. <em>Bóg zapłać</em>
-        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii, w&nbsp;wysokości
-        140&nbsp;zł. <strong>Zapraszamy do&nbsp;sprzątania świątyni
-        parafialnej w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>,
-        parafian z&nbsp;ul.&nbsp;Cieśli&nbsp;3 klatka nr&nbsp;II.</p>
-        <p>2. Nabożeństwo czerwcowe bezpośrednio po&nbsp;Mszy&nbsp;św.
-        wieczornej przez wszystkie dni miesiąca czerwca.</p>
-        <p>3. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej -
-        „Niedziela”, „Gość Niedzielny”, dla dzieci nowy numer „Małego
-        Gościa”.</p>
-        <p>4. Pan Organista, który przez ostatnie dwa miesiące posługiwał
-        w&nbsp;parafii, ze&nbsp;względów osobistych zrezygnował
-        z&nbsp;dalszej pracy w&nbsp;naszej parafii, jeszcze będzie grał
-        w&nbsp;naszym kościele parafialnym do&nbsp;13&nbsp;czerwca.</p>
-        <p>5. W&nbsp;czwartek 3&nbsp;czerwca Uroczystość Bożego Ciała.
-        Porządek Mszy Świętych w&nbsp;naszej parafii, jest następujący: 7.30,
-        9.30, 11.15 z&nbsp;procesją dookoła kościoła do&nbsp;przygotowanych
-        ołtarzy. Nie będzie Mszy Świętej o&nbsp;godzinie 12.30. Kolejna Msza
-        święta będzie o&nbsp;godzinie 18.00.</p>
-        <p>6. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
-        w&nbsp;najbliższą środę o&nbsp;godz.&nbsp;16.00.</p>
-        <p>7. W&nbsp;przyszłą niedziele zbiórka do&nbsp;puszek
+        <p>1. Wczoraj kościół parafialny sprzątali parafianie: Marzanna
+        Żurek, Józefa Chorzępa, Stanisława i&nbsp;Józef Borowiec, Adrian
+        Walasek i&nbsp;Franciszek Walasek - dziękujemy. <em>Bóg zapłać</em>,
+        także za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii,
+        w&nbsp;wysokości 90&nbsp;zł. <strong>Do&nbsp;sprzątania świątyni
+        zapraszamy rodziców dzieci pierwszokomunijnych, w&nbsp;najbliższą
+        sobotę na&nbsp;godz.&nbsp;9.00.</strong></p>
+        <p>2. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
+        w&nbsp;najbliższy piątek o&nbsp;godz.&nbsp;16.00.</p>
+        <p>3. W&nbsp;czwartek zakończenie oktawy Bożego Ciała. Poświęcenie
+        wianków i&nbsp;błogosławieństwo dzieci na&nbsp;zakończenie
+        nabożeństwa eucharystycznego, które będzie po&nbsp;Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;18.00.</p>
+        <p>4. Nabożeństwo do&nbsp;Serca Pana Jezusa od&nbsp;piątku, przez
+        cały czerwiec po&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;18.00.</p>
+        <p>5. W&nbsp;najbliższy wtorek na&nbsp;godz.&nbsp;9.00 prosimy
+        czterech mężczyzn, chodzi o&nbsp;usunięcie starych krzewów
+        i&nbsp;niektórych gałęzi z&nbsp;drzew wokół kościoła i&nbsp;domu
+        parafialnego.</p>
+        <p>6. W&nbsp;najbliższy piątek Uroczystość Najświętszego Serca Pana
+        Jezusa – Dzień Modlitw o&nbsp;Świętość Kapłanów (nie obowiązuje
+        wstrzemięźliwość od&nbsp;pokarmów mięsnych).</p>
+        <p>7. Dziś, po&nbsp;Mszach&nbsp;św. zbiórka do&nbsp;puszek
         na&nbsp;Świątynię Opatrzności Bożej.</p>
-        <p>8. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
-        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej z&nbsp;naszej
-        parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
-        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
-        spowiedź&nbsp;św. W&nbsp;środę klasy siódme
-        o&nbsp;godz.&nbsp;17.00.</p>
-        <p>9. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
-        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
-        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
-        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
-        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
-        <p>10. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota
-        miesiąca. W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
-        od&nbsp;godz.&nbsp;17.00.</p>
-        <p>11. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. –
-        nabożeństwo Różańcowe poprowadzi Legion Maryi z&nbsp;naszej
-        parafii.</p>
-        <p>12. Życzymy Błogosławionej Niedzieli. Przyjmijcie Boże
-        Błogosławieństwo.</p>
+        <p>8. Prasa katolicka do&nbsp;nabycia na&nbsp;stoliku pod chórem.
+        Polecamy.</p>
+        <p>9. W&nbsp;przyszłą niedzielę o&nbsp;godz.&nbsp;12.30 - Uroczystość
+        Pierwszej Komunii Świętej dla drugiej grupy dzieci z&nbsp;naszej
+        parafii. Spowiedź dla dzieci, ich rodziców i&nbsp;chrzestnych
+        w&nbsp;piątek o&nbsp;godz.&nbsp;17.30.</p>
+        <p>10. Dziękujemy parafianom z&nbsp;Milczan, Kobiernik
+        i&nbsp;Zespołowi Dekoracyjnemu z&nbsp;Miasta, za&nbsp;przygotowanie
+        pięknych ołtarzy na&nbsp;Uroczystość Bożego Ciała, paniom Dorocie
+        Sarzyńskiej i&nbsp;Jolancie Maciejewskiej, za&nbsp;udekorowanie
+        kwiatami ołtarza w&nbsp;kościele, dzieciom sypiącym kwiatki, niosącym
+        chorągwie, baldachim. Wyrażamy wdzięczność wszystkim, którzy
+        w&nbsp;jakikolwiek sposób przyczynili się do&nbsp;tego, że&nbsp;jako
+        parafia mogliśmy przeżyć to&nbsp;święto godnie i&nbsp;pobożnie.
+        <em>Bóg zapłać</em>.</p>
+        <p>11. Dwunastego czerwca rocznica  wizyty apostolskiej św.&nbsp;Jana
+        Pawła&nbsp;II w&nbsp;Sandomierzu w&nbsp;1999 roku.</p>
+        <p>12. Trzynastego czerwca rocznica nominacji
+        ks.&nbsp;dr&nbsp;Krzysztofa Nitkiewicza na&nbsp;Biskupa
+        Sandomierskiego w&nbsp;2009 roku, jest okazją do&nbsp;modlitwy
+        w&nbsp;intencji Pasterza Kościoła Sandomierskiego.</p>
+        <p>13. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą
+        swoje imieniny, urodziny, inne rocznice, składamy najlepsze życzenia
+        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
+        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 30.&nbsp;maja 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 6.&nbsp;czerwca 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>

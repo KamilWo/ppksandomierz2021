@@ -16,7 +16,169 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 30.&nbsp;maja 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 6.&nbsp;czerwca 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            31.05. – 06.06.2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">31&nbsp;maja, Poniedziałek –
+Święto Nawiedzenia Najświętszej Maryi Panny</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;13</li>
+    <li>6.30 + Stefana Orłowskiego</li>
+    <li>18.00 + Barbarę Marzec</li>
+    <li>18.00 + Mieczysława Bryłę</li>
+    <li>18.00 + Stanisława Komorowskiego
+    w&nbsp;22&nbsp;r.&nbsp;śm.</li>
+</ul>
+
+<p class="intentions_date">01&nbsp;czerwca, Wtorek –
+św.&nbsp;Justyna</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna w&nbsp;int. dzieci
+    i&nbsp;chrześniaków</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;14</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;1</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, potrzebne łaski szczególnie pomyślne zdanie
+    egzaminów i&nbsp;mądrość w&nbsp;podejmowaniu decyzji dla
+    Katarzyny i&nbsp;Bartka</li>
+    <li>18.00 + Stanisławę, Jana, Stanisława, Witolda, Mariana,
+    Krystynę, Mariana</li>
+    <li>18.00 + Martę Pożogę</li>
+</ul>
+
+<p class="intentions_date">02&nbsp;czerwca, Środa</p>
+<ul>
+    <li>6.30 w&nbsp;int. o&nbsp;łaskę dobrej śmierci</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;15</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;2</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski dla Anny i&nbsp;Bartosza
+    w&nbsp;10&nbsp;r. sakr. małżeństwa</li>
+    <li>18.00 + Zdzisława Śledzia w&nbsp;13&nbsp;r.&nbsp;sm.</li>
+    <li>18.00 + Jana Jedlińskiego</li>
+</ul>
+
+<p class="intentions_date">03&nbsp;czerwca, Czwartek –
+Uroczystość Najświętszego Ciała i&nbsp;Krwi Chrystusa</p>
+<ul>
+    <li>7.30 + Jana Rogowskiego; Bronisławę, Jana Zająców</li>
+    <li>7.30 + Helenę Bajak greg.&nbsp;16</li>
+    <li>9.30 + Ludwikę Szczębarę i&nbsp;zm.&nbsp;z&nbsp;rodz.
+    Szczębarów, Golców, Królów, Ostrowskich oraz dusze w&nbsp;czyśćcu
+    cierpiące</li>
+    <li>11.15 w&nbsp;intencji parafian</li>
+    <li>11.15 + Andrzeja Walichę w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Jerzego Zająca greg.&nbsp;3</li>
+</ul>
+
+<p class="intentions_date">04&nbsp;czerwca, Piątek</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;17</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;4</li>
+    <li>6.30 + Halinę Hamryszczak w&nbsp;3&nbsp;r.&nbsp;śm.
+    i&nbsp;zm.&nbsp;z&nbsp;rodziny</li>
+    <li>18.00 + Barbarę Marzec</li>
+    <li>18.00 + Marię, Antoniego Lasotów; Władysławę, Michalinę,
+    Wojciecha Politów</li>
+</ul>
+
+<p class="intentions_date">05&nbsp;czerwca, Sobota –
+św.&nbsp;Bonifacego</p>
+<ul>
+    <li>6.30 + Krystynę Stan</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;18</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;5</li>
+    <li>18.00 w&nbsp;int. wynagradzającej Niepokalanemu Sercu Maryi
+    za&nbsp;grzechy i&nbsp;bluźnierstwa</li>
+    <li>18.00 + Jana w&nbsp;22&nbsp;r.&nbsp;śm., Zofię, Wiktorię,
+    Franciszka, Józefa Wiatrowskich</li>
+    <li>18.00 + Tadeusza Sadkowskiego</li>
+</ul>
+
+<p class="intentions_date">06&nbsp;czerwca, Niedziela –
+    <span style="color: grey">
+        Dziesiąta Niedziela zwykła
+    </span>
+</p>
+<ul>
+    <li>7.30 + Helenę Bajak greg.&nbsp;19</li>
+    <li>7.30 + Jerzego Zająca greg.&nbsp;6</li>
+    <li>9.30 + Mieczysława, Helenę, Jana Wnuków; Katarzynę,
+    Stanisława Wyrzykowskich; Tadeusza Judę</li>
+    <li>11.15 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski dla Kół Żywego Różańca –
+    od&nbsp;Ewy Łukawskiej</li>
+    <li>11.15 + Jarosława Drabika</li>
+    <li>12.30 + Stanisława, Józefę Chmiel
+    i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
+    <li>18.00 w&nbsp;intencji parafian</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>30.&nbsp;maja 2021&nbsp;r.</h3>
+        <h3>Uroczystość Trójcy Świętej</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy parafianom z&nbsp;I&nbsp;klatki, blok nr&nbsp;3
+        ul.&nbsp;Cieśli, za&nbsp;sprzątanie kościoła. <em>Bóg zapłać</em>
+        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii, w&nbsp;wysokości
+        140&nbsp;zł. <strong>Zapraszamy do&nbsp;sprzątania świątyni
+        parafialnej w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>,
+        parafian z&nbsp;ul.&nbsp;Cieśli&nbsp;3 klatka nr&nbsp;II.</p>
+        <p>2. Nabożeństwo czerwcowe bezpośrednio po&nbsp;Mszy&nbsp;św.
+        wieczornej przez wszystkie dni miesiąca czerwca.</p>
+        <p>3. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej -
+        „Niedziela”, „Gość Niedzielny”, dla dzieci nowy numer „Małego
+        Gościa”.</p>
+        <p>4. Pan Organista, który przez ostatnie dwa miesiące posługiwał
+        w&nbsp;parafii, ze&nbsp;względów osobistych zrezygnował
+        z&nbsp;dalszej pracy w&nbsp;naszej parafii, jeszcze będzie grał
+        w&nbsp;naszym kościele parafialnym do&nbsp;13&nbsp;czerwca.</p>
+        <p>5. W&nbsp;czwartek 3&nbsp;czerwca Uroczystość Bożego Ciała.
+        Porządek Mszy Świętych w&nbsp;naszej parafii, jest następujący: 7.30,
+        9.30, 11.15 z&nbsp;procesją dookoła kościoła do&nbsp;przygotowanych
+        ołtarzy. Nie będzie Mszy Świętej o&nbsp;godzinie 12.30. Kolejna Msza
+        święta będzie o&nbsp;godzinie 18.00.</p>
+        <p>6. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
+        w&nbsp;najbliższą środę o&nbsp;godz.&nbsp;16.00.</p>
+        <p>7. W&nbsp;przyszłą niedziele zbiórka do&nbsp;puszek
+        na&nbsp;Świątynię Opatrzności Bożej.</p>
+        <p>8. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej z&nbsp;naszej
+        parafii ma&nbsp;spotkanie w&nbsp;parafialnym kościele
+        w&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;17.00, a&nbsp;po&nbsp;nim
+        spowiedź&nbsp;św. W&nbsp;środę klasy siódme
+        o&nbsp;godz.&nbsp;17.00.</p>
+        <p>9. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>10. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota
+        miesiąca. W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.00.</p>
+        <p>11. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. –
+        nabożeństwo Różańcowe poprowadzi Legion Maryi z&nbsp;naszej
+        parafii.</p>
+        <p>12. Życzymy Błogosławionej Niedzieli. Przyjmijcie Boże
+        Błogosławieństwo.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 30.&nbsp;maja 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
