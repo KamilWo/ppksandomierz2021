@@ -1,100 +1,108 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />
-            07.06. – 13.06.2021&nbsp;r.
+            14.06. – 20.06.2021&nbsp;r.
         </h3>
     </div>
     <div class="col">
-<p class="intentions_date">07&nbsp;czerwca, Poniedziałek</p>
+<p class="intentions_date">14&nbsp;czerwca, Poniedziałek –
+bł.&nbsp;Michała Kozala</p>
 <ul>
-    <li>6.30 + Stefanię, Franciszka Kowalskich; Marię Woś; Wiesławę
-    Wałcerz</li>
-    <li>6.30 + Helenę Bajak greg.&nbsp;20</li>
-    <li>6.30 + Jerzego Zająca greg.&nbsp;7</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;27</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;14</li>
+    <li>6.30 + Marię, Czesława Witków; Annę Podsiadły</li>
+    <li>18.00 + Barbarę Marzec</li>
+    <li>18.00 + Stanisława Wojtkowiaka</li>
+    <li>18.00 + Ireneusza w&nbsp;r.&nbsp;śm., Małgorzatę, Annę, Jana,
+    Kazimierza Frończyków; Jolantę Piotrowską; Anastazję Kazimierską;
+    Katarzynę, Leokadię, Józefa, Kazimierza, Mariana, Juliana
+    Dojków</li>
+</ul>
+
+<p class="intentions_date">15&nbsp;czerwca, Wtorek</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski, wstawiennictwo
+    św.&nbsp;Patronki dla Jolanty z&nbsp;racji urodzin i&nbsp;imienin
+    oraz dla Anny</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;28</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;15</li>
     <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    opiekę Matki Bożej, potrzebne łaski dla Bogusławy i&nbsp;Jana
-    z&nbsp;racji 46&nbsp;r. sakramentu małżeństwa</li>
-    <li>18.00 w&nbsp;int. rodziny Panu Bogu wiadomej –
-    o&nbsp;pojednanie, przymnożenie wiary, nadziei i&nbsp;miłości</li>
-    <li>18.00 + Tomasza Stępnia w&nbsp;23&nbsp;r.&nbsp;śm.;
-    +&nbsp;Krzysztofa</li>
+    potrzebne łaski, opiekę Matki Bożej, wstawiennictwo
+    św.&nbsp;Patronki dla Jolanty z&nbsp;racji imienin</li>
+    <li>18.00 + Agnieszkę Jakus</li>
+    <li>18.00 + Mieczysława Stąpora</li>
 </ul>
 
-<p class="intentions_date">08&nbsp;czerwca, Wtorek –
-św.&nbsp;Jadwigi Królowej</p>
+<p class="intentions_date">16&nbsp;czerwca, Środa</p>
 <ul>
-    <li>6.30 + Helenę Bajak greg.&nbsp;21</li>
-    <li>6.30 + Jerzego Zająca greg.&nbsp;8</li>
-    <li>6.30 + Zbigniewa Kiliańskiego</li>
-    <li>18.00 w&nbsp;int. osób uzależnionych i&nbsp;ich rodzin –
-    o&nbsp;łaskę przemiany</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;29</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;16</li>
+    <li>6.30 + Teodorę Bażant</li>
+    <li>18.00 + Michalinę, Józefa Strawczyńskich i&nbsp;zm.
+    z&nbsp;rodziny</li>
+    <li>18.00 + Barbarę Marzec</li>
+    <li>18.00 + Mariana Bryłę</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;czerwca, Czwartek –
+św.&nbsp;brata Alberta Chmielowskiego</p>
+<ul>
+    <li>6.30 + Mariannę Jakułę</li>
+    <li>6.30 + Helenę Bajak greg.30</li>
+    <li>6.30 + Jerzego Zająca greg.17</li>
+    <li>9.00 + Anielę, Alfonsa Kędziorów</li>
+    <li>18.00 Bierzmowanie,<br> w&nbsp;intencji parafian</li>
     <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    opiekę Matki Bożej, potrzebne łaski dla Helenki</li>
-    <li>18.00 + Bonifacego Marca</li>
+    potrzebne łaski, łaskę zdrowia dla rodziny Pacholczyków</li>
+    <li>18.00 + Alicję Przyłucką w&nbsp;8&nbsp;r.&nbsp;śm.; Zygmunta,
+    Annę Stylskich</li>
+    <li>18.00 + Mariannę, Franciszka, Henryka Banasiewiczów</li>
 </ul>
 
-<p class="intentions_date">09&nbsp;czerwca, Środa</p>
-<ul>
-    <li>6.30 + Helenę Bajak greg.&nbsp;22</li>
-    <li>6.30 + Jerzego Zająca greg.&nbsp;9</li>
-    <li>6.30 + Barbarę Marzec</li>
-    <li>18.00 int. dziękczynna za otrzymane łaski, szybki powrót
-    do&nbsp;zdrowia całej rodziny</li>
-    <li>18.00 + Jana Jedlińskiego</li>
-    <li>18.00 + Danielę Ura</li>
-</ul>
-
-<p class="intentions_date">10&nbsp;czerwca, Czwartek</p>
-<ul>
-    <li>6.30 + Helenę Bajak greg.&nbsp;23</li>
-    <li>6.30 + Jerzego Zająca greg.&nbsp;10</li>
-    <li>6.30 + Mariannę, Jana Rutkowskich</li>
-    <li>18.00 int. o&nbsp;łaskę nawrócenia dla męża Piotra
-    i&nbsp;ojca</li>
-    <li>18.00 + Ludwika w&nbsp;r.&nbsp;śm.; Helenę Wabiów
-    i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
-    <li>18.00 + Krystynę Wziętek</li>
-</ul>
-
-<p class="intentions_date">11&nbsp;czerwca, Piątek –
+<p class="intentions_date">18&nbsp;czerwca, Piątek –
 Uroczystość Najświętszego Serca Pana Jezusa</p>
 <ul>
-    <li>6.30 + Helenę Bajak greg.&nbsp;24</li>
-    <li>6.30 + Jerzego Zająca greg.&nbsp;11</li>
-    <li>6.30 + Wiesława Ilowa w&nbsp;r.&nbsp;śm.
-    i&nbsp;zm.&nbsp;z&nbsp;rodziny</li>
-    <li>18.00 + Mariana w&nbsp;11&nbsp;r.&nbsp;śm., Helenę
-    Przyłuckich</li>
-    <li>18.00 + Halinę, Kazimierza Masztaleraków</li>
-    <li>18.00 + Krystynę Wziętek</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;18</li>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>6.30 + Stanisława Kawiorskiego</li>
+    <li>18.00 + Mieczysława Bryłę</li>
+    <li>18.00 + Adama Osowskiego</li>
 </ul>
 
-<p class="intentions_date">12&nbsp;czerwca, Sobota –
+<p class="intentions_date">19&nbsp;czerwca, Sobota –
 Niepokalanego Serca Najświętszej Maryi Panny</p>
 <ul>
-    <li>6.30 + Helenę Bajak greg.&nbsp;25</li>
     <li>6.30 + Jerzego Zająca greg.&nbsp;12</li>
-    <li>6.30 + Mariannę Pasek w&nbsp;20&nbsp;r.&nbsp;śm.</li>
-    <li>18.00 + Helenę Czerepak</li>
-    <li>18.00 + Marka Stefaniaka</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Miłosierdzie Boże,
+    potrzebne łaski w&nbsp;rodzinie i&nbsp;wszystkich polskich
+    rodzinach za&nbsp;wstawiennictwem św.&nbsp;Józefa Opiekuna
+    rodzin</li>
+    <li>18.00 + Stanisława, Krystynę Chrząstowskich</li>
 </ul>
 
-<p class="intentions_date">13&nbsp;czerwca, Niedziela –
+<p class="intentions_date">20&nbsp;czerwca, Niedziela –
     <span style="color: grey">
-        XI&nbsp;Niedziela zwykła
+        XII&nbsp;Niedziela zwykła
     </span>
 </p>
 <ul>
-    <li>7.30 + Henryka i&nbsp;zm.&nbsp;z&nbsp;rodz. Łatków</li>
-    <li>7.30 + Helenę Bajak greg.&nbsp;26</li>
-    <li>9.30 + Zofie, Wawrzyńca Kwietniów, zmarłe rodzeństwo oraz
-    zm.&nbsp;z&nbsp;rodz. Kwietniów i&nbsp;Kondeuszów</li>
-    <li>9.30 + Jerzego Zająca greg.&nbsp;13</li>
-    <li>11.15 + Przemysława Kukiełkę w&nbsp;8&nbsp;r.&nbsp;śm.</li>
-    <li>12.30 w&nbsp;intencji parafian, I&nbsp;Komunia Święta</li>
+    <li>7.30 + Jerzego Zająca greg.&nbsp;20</li>
+    <li>9.30 w&nbsp;intencji parafian,</li>
+    <li>9.30 + Janinę, Jana, Ryszarda Jońców</li>
+    <li>11.15 w&nbsp;int. rodzin Kręgu Domowego Kościoła
+    z&nbsp;zawierzeniem św.&nbsp;Rodzinie wszystkich rodzin
+    Parafii</li>
+    <li>11.15 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla Ewy i&nbsp;Marcina
+    Pietruszków w&nbsp;10&nbsp;r.&nbsp;sakr. małżeństwa</li>
+    <li>12.30 dziękczynno-błagalna w&nbsp;50&nbsp;r.&nbsp;sakr.
+    małżeństwa Wiesławy i&nbsp;Tadeusza Fietków o&nbsp;Boże
+    błogosławieństwo, potrzebne łaski, opiekę Matki Bożej dla
+    Wiesławy i&nbsp;życie wieczne dla + Tadeusza</li>
     <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
-    opiekę Matki Bożej, potrzebne łaski Hani z&nbsp;racji 13&nbsp;r.
-    urodzin</li>
+    opiekę Matki Bożej, potrzebne łaski, wstawiennictwo
+    św.&nbsp;Patrona dla Wojciecha Fularskiego</li>
 </ul>
     </div>
 </div>

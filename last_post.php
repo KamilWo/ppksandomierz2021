@@ -1,61 +1,59 @@
 <div class="card">
     <div class="card-header">
-        <h3>6.&nbsp;czerwca 2021&nbsp;r.</h3>
-        <h3>X Niedziela Wielkanocna</h3>
+        <h3>13.&nbsp;czerwca 2021&nbsp;r.</h3>
+        <h3>XI Niedziela Zwykła</h3>
     </div>
     <div class="col">
-        <p>1. Wczoraj kościół parafialny sprzątali parafianie: Marzanna
-        Żurek, Józefa Chorzępa, Stanisława i&nbsp;Józef Borowiec, Adrian
-        Walasek i&nbsp;Franciszek Walasek - dziękujemy. <em>Bóg zapłać</em>,
-        także za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii,
-        w&nbsp;wysokości 90&nbsp;zł. <strong>Do&nbsp;sprzątania świątyni
-        zapraszamy rodziców dzieci pierwszokomunijnych, w&nbsp;najbliższą
-        sobotę na&nbsp;godz.&nbsp;9.00.</strong></p>
-        <p>2. Spotkanie z&nbsp;uczniami klas ósmych w&nbsp;naszym kościele
-        w&nbsp;najbliższy piątek o&nbsp;godz.&nbsp;16.00.</p>
-        <p>3. W&nbsp;czwartek zakończenie oktawy Bożego Ciała. Poświęcenie
-        wianków i&nbsp;błogosławieństwo dzieci na&nbsp;zakończenie
-        nabożeństwa eucharystycznego, które będzie po&nbsp;Mszy&nbsp;św.
-        o&nbsp;godz.&nbsp;18.00.</p>
-        <p>4. Nabożeństwo do&nbsp;Serca Pana Jezusa od&nbsp;piątku, przez
-        cały czerwiec po&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;18.00.</p>
-        <p>5. W&nbsp;najbliższy wtorek na&nbsp;godz.&nbsp;9.00 prosimy
-        czterech mężczyzn, chodzi o&nbsp;usunięcie starych krzewów
-        i&nbsp;niektórych gałęzi z&nbsp;drzew wokół kościoła i&nbsp;domu
-        parafialnego.</p>
-        <p>6. W&nbsp;najbliższy piątek Uroczystość Najświętszego Serca Pana
-        Jezusa – Dzień Modlitw o&nbsp;Świętość Kapłanów (nie obowiązuje
-        wstrzemięźliwość od&nbsp;pokarmów mięsnych).</p>
-        <p>7. Dziś, po&nbsp;Mszach&nbsp;św. zbiórka do&nbsp;puszek
-        na&nbsp;Świątynię Opatrzności Bożej.</p>
+        <p>1. Dziękujemy rodzicom drugiej grupy dzieci pierwszokomunijnych,
+        za&nbsp;posprzątanie kościoła, pokoszenie trawników i&nbsp;wykonanie
+        kwiatowej dekoracji na&nbsp;niedzielę i&nbsp;uroczystość komunijną.
+        <strong>Zapraszamy, do&nbsp;sprzątania świątyni parafialnej
+        w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>, parafian
+        z&nbsp;ul.&nbsp;Cieśli&nbsp;3 klatka nr&nbsp;III.</p>
+        <p>2. W&nbsp;obecnym czasie Kościół mierzy się z&nbsp;różnymi
+        trudnościami, między innymi z&nbsp;problemem apostazji.
+        W&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;18.00, ks.&nbsp;profesor
+        Leon Siwecki przybliży nam to&nbsp;zagadnienie „odejść
+        z&nbsp;kościoła”; jakie są&nbsp;powody apostazji, jak temu
+        przeciwdziałać. Zapraszamy parafian, młodzież, do&nbsp;wzięcia
+        udziału w&nbsp;modlitwie i&nbsp;refleksji nad tą&nbsp;kwestią.</p>
+        <p>3. Dziękujemy pięciorgu parafian za&nbsp;zrobienie porządku wokół
+        kościoła parafialnego, usunięcie gałęzi i&nbsp;śmieci, wdzięczni
+        jesteśmy Panu Sołtysowi z&nbsp;Milczan za&nbsp;udzieloną pomoc.
+        <em>Bóg zapłać</em> wszystkim.</p>
+        <p>4. Spowiedź dla młodzieży klas ósmych, przygotowującej się
+        do&nbsp;przyjęcia sakramentu Bierzmowania, ich rodziców
+        i&nbsp;świadków, w&nbsp;środę o&nbsp;godz.&nbsp;17.00.</p>
+        <p>5. Uroczysta Msza&nbsp;św. odpustowa ku&nbsp;czci św.&nbsp;Brata
+        Alberta Chmielowskiego i&nbsp;udzielenie sakramentu Bierzmowania
+        młodzieży z&nbsp;naszej parafii, w&nbsp;najbliższy czwartek
+        o&nbsp;godz.&nbsp;18.00, którą poprzedzi modlitwa litanijna
+        ku&nbsp;czci Najśw. Serca Pana Jezusa o&nbsp;godz.&nbsp;17.40.</p>
+        <p>6. Za&nbsp;tydzień w&nbsp;niedzielę, tj.&nbsp;20.06. br. będziemy
+        gościć w&nbsp;naszej parafii Ikonę św.&nbsp;Rodziny w&nbsp;ramach
+        nawiedzenia rodzin Oazy ”Domowego Kościoła”. Na&nbsp;zakończenie
+        każdej Mszy&nbsp;św. zawierzymy wszystkie rodziny naszej parafii
+        w&nbsp;uroczystym akcie. Po&nbsp;Mszach&nbsp;św. będzie możliwość
+        nabycia kopii ikony. Złożona za&nbsp;nią ofiara pieniężna będzie
+        „cegiełką” na&nbsp;wsparcie finansowe naszego diecezjalnego ośrodka
+        rekolekcyjnego w&nbsp;Uhercach Mineralnych.</p>
+        <p>7. W&nbsp;zeszłą niedzielę po&nbsp;Mszach&nbsp;św. do&nbsp;puszek
+        na&nbsp;Świątynie Opatrzności Bożej zebrane zostało 1460&nbsp;zł.
+        Cała suma pieniędzy została przekazana na&nbsp;wcześniej wspomniany
+        cel.</p>
         <p>8. Prasa katolicka do&nbsp;nabycia na&nbsp;stoliku pod chórem.
         Polecamy.</p>
-        <p>9. W&nbsp;przyszłą niedzielę o&nbsp;godz.&nbsp;12.30 - Uroczystość
-        Pierwszej Komunii Świętej dla drugiej grupy dzieci z&nbsp;naszej
-        parafii. Spowiedź dla dzieci, ich rodziców i&nbsp;chrzestnych
-        w&nbsp;piątek o&nbsp;godz.&nbsp;17.30.</p>
-        <p>10. Dziękujemy parafianom z&nbsp;Milczan, Kobiernik
-        i&nbsp;Zespołowi Dekoracyjnemu z&nbsp;Miasta, za&nbsp;przygotowanie
-        pięknych ołtarzy na&nbsp;Uroczystość Bożego Ciała, paniom Dorocie
-        Sarzyńskiej i&nbsp;Jolancie Maciejewskiej, za&nbsp;udekorowanie
-        kwiatami ołtarza w&nbsp;kościele, dzieciom sypiącym kwiatki, niosącym
-        chorągwie, baldachim. Wyrażamy wdzięczność wszystkim, którzy
-        w&nbsp;jakikolwiek sposób przyczynili się do&nbsp;tego, że&nbsp;jako
-        parafia mogliśmy przeżyć to&nbsp;święto godnie i&nbsp;pobożnie.
-        <em>Bóg zapłać</em>.</p>
-        <p>11. Dwunastego czerwca rocznica  wizyty apostolskiej św.&nbsp;Jana
-        Pawła&nbsp;II w&nbsp;Sandomierzu w&nbsp;1999 roku.</p>
-        <p>12. Trzynastego czerwca rocznica nominacji
-        ks.&nbsp;dr&nbsp;Krzysztofa Nitkiewicza na&nbsp;Biskupa
-        Sandomierskiego w&nbsp;2009 roku, jest okazją do&nbsp;modlitwy
-        w&nbsp;intencji Pasterza Kościoła Sandomierskiego.</p>
-        <p>13. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
-        za&nbsp;wszelką pomoc. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą
-        swoje imieniny, urodziny, inne rocznice, składamy najlepsze życzenia
-        z&nbsp;kapłańskim błogosławieństwem. Wszystkim uczestniczącym
-        we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+        <p>9. Diecezjalne Studium Organistowskie przy Instytucie Teologicznym
+        w&nbsp;Sandomierzu ogłasza nabór na&nbsp;rok akademicki 2021/2022
+        – więcej informacji w&nbsp;gablocie przy wejściu do&nbsp;kościoła.</p>
+        <p>10. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii.
+        Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 6.&nbsp;czerwca 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 13.&nbsp;czerwca 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
