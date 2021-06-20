@@ -16,7 +16,179 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 13.&nbsp;czerwca 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 20.&nbsp;czerwca 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            14.06. – 20.06.2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">14&nbsp;czerwca, Poniedziałek –
+bł.&nbsp;Michała Kozala</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;27</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;14</li>
+    <li>6.30 + Marię, Czesława Witków; Annę Podsiadły</li>
+    <li>18.00 + Barbarę Marzec</li>
+    <li>18.00 + Stanisława Wojtkowiaka</li>
+    <li>18.00 + Ireneusza w&nbsp;r.&nbsp;śm., Małgorzatę, Annę, Jana,
+    Kazimierza Frończyków; Jolantę Piotrowską; Anastazję Kazimierską;
+    Katarzynę, Leokadię, Józefa, Kazimierza, Mariana, Juliana
+    Dojków</li>
+</ul>
+
+<p class="intentions_date">15&nbsp;czerwca, Wtorek</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski, wstawiennictwo
+    św.&nbsp;Patronki dla Jolanty z&nbsp;racji urodzin i&nbsp;imienin
+    oraz dla Anny</li>
+    <li>6.30 + Helenę Bajak greg.&nbsp;28</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;15</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej, wstawiennictwo
+    św.&nbsp;Patronki dla Jolanty z&nbsp;racji imienin</li>
+    <li>18.00 + Agnieszkę Jakus</li>
+    <li>18.00 + Mieczysława Stąpora</li>
+</ul>
+
+<p class="intentions_date">16&nbsp;czerwca, Środa</p>
+<ul>
+    <li>6.30 + Helenę Bajak greg.&nbsp;29</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;16</li>
+    <li>6.30 + Teodorę Bażant</li>
+    <li>18.00 + Michalinę, Józefa Strawczyńskich i&nbsp;zm.
+    z&nbsp;rodziny</li>
+    <li>18.00 + Barbarę Marzec</li>
+    <li>18.00 + Mariana Bryłę</li>
+</ul>
+
+<p class="intentions_date">17&nbsp;czerwca, Czwartek –
+św.&nbsp;brata Alberta Chmielowskiego</p>
+<ul>
+    <li>6.30 + Mariannę Jakułę</li>
+    <li>6.30 + Helenę Bajak greg.30</li>
+    <li>6.30 + Jerzego Zająca greg.17</li>
+    <li>9.00 + Anielę, Alfonsa Kędziorów</li>
+    <li>18.00 Bierzmowanie,<br> w&nbsp;intencji parafian</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, łaskę zdrowia dla rodziny Pacholczyków</li>
+    <li>18.00 + Alicję Przyłucką w&nbsp;8&nbsp;r.&nbsp;śm.; Zygmunta,
+    Annę Stylskich</li>
+    <li>18.00 + Mariannę, Franciszka, Henryka Banasiewiczów</li>
+</ul>
+
+<p class="intentions_date">18&nbsp;czerwca, Piątek –
+Uroczystość Najświętszego Serca Pana Jezusa</p>
+<ul>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;18</li>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>6.30 + Stanisława Kawiorskiego</li>
+    <li>18.00 + Mieczysława Bryłę</li>
+    <li>18.00 + Adama Osowskiego</li>
+</ul>
+
+<p class="intentions_date">19&nbsp;czerwca, Sobota –
+Niepokalanego Serca Najświętszej Maryi Panny</p>
+<ul>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;12</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Miłosierdzie Boże,
+    potrzebne łaski w&nbsp;rodzinie i&nbsp;wszystkich polskich
+    rodzinach za&nbsp;wstawiennictwem św.&nbsp;Józefa Opiekuna
+    rodzin</li>
+    <li>18.00 + Stanisława, Krystynę Chrząstowskich</li>
+</ul>
+
+<p class="intentions_date">20&nbsp;czerwca, Niedziela –
+    <span style="color: grey">
+        XII&nbsp;Niedziela zwykła
+    </span>
+</p>
+<ul>
+    <li>7.30 + Jerzego Zająca greg.&nbsp;20</li>
+    <li>9.30 w&nbsp;intencji parafian,</li>
+    <li>9.30 + Janinę, Jana, Ryszarda Jońców</li>
+    <li>11.15 w&nbsp;int. rodzin Kręgu Domowego Kościoła
+    z&nbsp;zawierzeniem św.&nbsp;Rodzinie wszystkich rodzin
+    Parafii</li>
+    <li>11.15 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla Ewy i&nbsp;Marcina
+    Pietruszków w&nbsp;10&nbsp;r.&nbsp;sakr. małżeństwa</li>
+    <li>12.30 dziękczynno-błagalna w&nbsp;50&nbsp;r.&nbsp;sakr.
+    małżeństwa Wiesławy i&nbsp;Tadeusza Fietków o&nbsp;Boże
+    błogosławieństwo, potrzebne łaski, opiekę Matki Bożej dla
+    Wiesławy i&nbsp;życie wieczne dla + Tadeusza</li>
+    <li>18.00 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski, wstawiennictwo
+    św.&nbsp;Patrona dla Wojciecha Fularskiego</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>13.&nbsp;czerwca 2021&nbsp;r.</h3>
+        <h3>XI Niedziela Zwykła</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy rodzicom drugiej grupy dzieci pierwszokomunijnych,
+        za&nbsp;posprzątanie kościoła, pokoszenie trawników i&nbsp;wykonanie
+        kwiatowej dekoracji na&nbsp;niedzielę i&nbsp;uroczystość komunijną.
+        <strong>Zapraszamy, do&nbsp;sprzątania świątyni parafialnej
+        w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>, parafian
+        z&nbsp;ul.&nbsp;Cieśli&nbsp;3 klatka nr&nbsp;III.</p>
+        <p>2. W&nbsp;obecnym czasie Kościół mierzy się z&nbsp;różnymi
+        trudnościami, między innymi z&nbsp;problemem apostazji.
+        W&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;18.00, ks.&nbsp;profesor
+        Leon Siwecki przybliży nam to&nbsp;zagadnienie „odejść
+        z&nbsp;kościoła”; jakie są&nbsp;powody apostazji, jak temu
+        przeciwdziałać. Zapraszamy parafian, młodzież, do&nbsp;wzięcia
+        udziału w&nbsp;modlitwie i&nbsp;refleksji nad tą&nbsp;kwestią.</p>
+        <p>3. Dziękujemy pięciorgu parafian za&nbsp;zrobienie porządku wokół
+        kościoła parafialnego, usunięcie gałęzi i&nbsp;śmieci, wdzięczni
+        jesteśmy Panu Sołtysowi z&nbsp;Milczan za&nbsp;udzieloną pomoc.
+        <em>Bóg zapłać</em> wszystkim.</p>
+        <p>4. Spowiedź dla młodzieży klas ósmych, przygotowującej się
+        do&nbsp;przyjęcia sakramentu Bierzmowania, ich rodziców
+        i&nbsp;świadków, w&nbsp;środę o&nbsp;godz.&nbsp;17.00.</p>
+        <p>5. Uroczysta Msza&nbsp;św. odpustowa ku&nbsp;czci św.&nbsp;Brata
+        Alberta Chmielowskiego i&nbsp;udzielenie sakramentu Bierzmowania
+        młodzieży z&nbsp;naszej parafii, w&nbsp;najbliższy czwartek
+        o&nbsp;godz.&nbsp;18.00, którą poprzedzi modlitwa litanijna
+        ku&nbsp;czci Najśw. Serca Pana Jezusa o&nbsp;godz.&nbsp;17.40.</p>
+        <p>6. Za&nbsp;tydzień w&nbsp;niedzielę, tj.&nbsp;20.06. br. będziemy
+        gościć w&nbsp;naszej parafii Ikonę św.&nbsp;Rodziny w&nbsp;ramach
+        nawiedzenia rodzin Oazy ”Domowego Kościoła”. Na&nbsp;zakończenie
+        każdej Mszy&nbsp;św. zawierzymy wszystkie rodziny naszej parafii
+        w&nbsp;uroczystym akcie. Po&nbsp;Mszach&nbsp;św. będzie możliwość
+        nabycia kopii ikony. Złożona za&nbsp;nią ofiara pieniężna będzie
+        „cegiełką” na&nbsp;wsparcie finansowe naszego diecezjalnego ośrodka
+        rekolekcyjnego w&nbsp;Uhercach Mineralnych.</p>
+        <p>7. W&nbsp;zeszłą niedzielę po&nbsp;Mszach&nbsp;św. do&nbsp;puszek
+        na&nbsp;Świątynie Opatrzności Bożej zebrane zostało 1460&nbsp;zł.
+        Cała suma pieniędzy została przekazana na&nbsp;wcześniej wspomniany
+        cel.</p>
+        <p>8. Prasa katolicka do&nbsp;nabycia na&nbsp;stoliku pod chórem.
+        Polecamy.</p>
+        <p>9. Diecezjalne Studium Organistowskie przy Instytucie Teologicznym
+        w&nbsp;Sandomierzu ogłasza nabór na&nbsp;rok akademicki 2021/2022
+        – więcej informacji w&nbsp;gablocie przy wejściu do&nbsp;kościoła.</p>
+        <p>10. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii.
+        Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 13.&nbsp;czerwca 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

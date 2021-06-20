@@ -1,59 +1,60 @@
 <div class="card">
     <div class="card-header">
-        <h3>13.&nbsp;czerwca 2021&nbsp;r.</h3>
-        <h3>XI Niedziela Zwykła</h3>
+        <h3>20.&nbsp;czerwca 2021&nbsp;r.</h3>
+        <h3>XII Niedziela Zwykła</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy rodzicom drugiej grupy dzieci pierwszokomunijnych,
-        za&nbsp;posprzątanie kościoła, pokoszenie trawników i&nbsp;wykonanie
-        kwiatowej dekoracji na&nbsp;niedzielę i&nbsp;uroczystość komunijną.
-        <strong>Zapraszamy, do&nbsp;sprzątania świątyni parafialnej
-        w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>, parafian
-        z&nbsp;ul.&nbsp;Cieśli&nbsp;3 klatka nr&nbsp;III.</p>
-        <p>2. W&nbsp;obecnym czasie Kościół mierzy się z&nbsp;różnymi
-        trudnościami, między innymi z&nbsp;problemem apostazji.
-        W&nbsp;najbliższy wtorek o&nbsp;godz.&nbsp;18.00, ks.&nbsp;profesor
-        Leon Siwecki przybliży nam to&nbsp;zagadnienie „odejść
-        z&nbsp;kościoła”; jakie są&nbsp;powody apostazji, jak temu
-        przeciwdziałać. Zapraszamy parafian, młodzież, do&nbsp;wzięcia
-        udziału w&nbsp;modlitwie i&nbsp;refleksji nad tą&nbsp;kwestią.</p>
-        <p>3. Dziękujemy pięciorgu parafian za&nbsp;zrobienie porządku wokół
-        kościoła parafialnego, usunięcie gałęzi i&nbsp;śmieci, wdzięczni
-        jesteśmy Panu Sołtysowi z&nbsp;Milczan za&nbsp;udzieloną pomoc.
-        <em>Bóg zapłać</em> wszystkim.</p>
-        <p>4. Spowiedź dla młodzieży klas ósmych, przygotowującej się
-        do&nbsp;przyjęcia sakramentu Bierzmowania, ich rodziców
-        i&nbsp;świadków, w&nbsp;środę o&nbsp;godz.&nbsp;17.00.</p>
-        <p>5. Uroczysta Msza&nbsp;św. odpustowa ku&nbsp;czci św.&nbsp;Brata
-        Alberta Chmielowskiego i&nbsp;udzielenie sakramentu Bierzmowania
-        młodzieży z&nbsp;naszej parafii, w&nbsp;najbliższy czwartek
-        o&nbsp;godz.&nbsp;18.00, którą poprzedzi modlitwa litanijna
-        ku&nbsp;czci Najśw. Serca Pana Jezusa o&nbsp;godz.&nbsp;17.40.</p>
-        <p>6. Za&nbsp;tydzień w&nbsp;niedzielę, tj.&nbsp;20.06. br. będziemy
-        gościć w&nbsp;naszej parafii Ikonę św.&nbsp;Rodziny w&nbsp;ramach
-        nawiedzenia rodzin Oazy ”Domowego Kościoła”. Na&nbsp;zakończenie
-        każdej Mszy&nbsp;św. zawierzymy wszystkie rodziny naszej parafii
-        w&nbsp;uroczystym akcie. Po&nbsp;Mszach&nbsp;św. będzie możliwość
-        nabycia kopii ikony. Złożona za&nbsp;nią ofiara pieniężna będzie
-        „cegiełką” na&nbsp;wsparcie finansowe naszego diecezjalnego ośrodka
-        rekolekcyjnego w&nbsp;Uhercach Mineralnych.</p>
-        <p>7. W&nbsp;zeszłą niedzielę po&nbsp;Mszach&nbsp;św. do&nbsp;puszek
-        na&nbsp;Świątynie Opatrzności Bożej zebrane zostało 1460&nbsp;zł.
-        Cała suma pieniędzy została przekazana na&nbsp;wcześniej wspomniany
-        cel.</p>
-        <p>8. Prasa katolicka do&nbsp;nabycia na&nbsp;stoliku pod chórem.
+        <p>1. Wczoraj kościół parafialny sprzątały parafianki: Elżbieta
+        Rządkowska, Anna Kwiatkowska, Helena Fulara, Krystyna Bocheńska,
+        Maria Baran. <em>Bóg zapłać</em>, także za&nbsp;złożoną ofiarę
+        na&nbsp;potrzeby parafii, w&nbsp;wysokości 180&nbsp;zł. Dziękujemy
+        rodzicom bierzmowanej młodzieży za&nbsp;posprzątanie kościoła,
+        wykonanie kwiatowej dekoracji w&nbsp;kościele i&nbsp;ofiarę
+        na&nbsp;rzecz parafii w&nbsp;wysokości trzech tysięcy złotych. Słowa
+        wdzięczności kierujemy także do&nbsp;rodziców dzieci, które przyjęły
+        po&nbsp;raz pierwszy Komunię&nbsp;św. w&nbsp;zeszłą niedzielę
+        za&nbsp;ofiarę pięćset złotych. Za&nbsp;te&nbsp;pieniądze zostaną
+        wymienione okna w&nbsp;zakrystii dla ministrantów i&nbsp;została
+        zakupiona nowa biała kapa. <strong>Zapraszamy, do&nbsp;sprzątania
+        świątyni parafialnej w&nbsp;najbliższą sobotę
+        na&nbsp;godz.&nbsp;7.00,</strong> parafian z&nbsp;ul.&nbsp;Cieśli 3
+        klatka nr&nbsp;IV.</p>
+        <p>2. W&nbsp;piątek o&nbsp;godz.&nbsp;8.00, na&nbsp;zakończenie roku
+        szkolnego, odprawimy Mszę Świętą dziękczynną za&nbsp;otrzymane łaski
+        w&nbsp;ciągu całego roku. Zapraszamy dzieci, młodzież, rodziców,
+        nauczycieli do&nbsp;udziału we&nbsp;Mszy Świętej. Okazja
+        do&nbsp;spowiedzi codziennie wieczorem przed Mszą Świętą.</p>
+        <p>3. Dziś gościmy w&nbsp;naszej parafii Ikonę św.&nbsp;Rodziny
+        w&nbsp;ramach nawiedzenia rodzin Oazy ”Domowego Kościoła”.
+        Na&nbsp;zakończenie każdej Mszy&nbsp;św. zawierzymy wszystkie rodziny
+        naszej parafii w&nbsp;uroczystym akcie. Po&nbsp;Mszach&nbsp;św.
+        będzie możliwość nabycia kopii ikony. Złożona za&nbsp;nią ofiara
+        pieniężna będzie „cegiełką” na&nbsp;wsparcie finansowe naszego
+        diecezjalnego ośrodka rekolekcyjnego w&nbsp;Uhercach Mineralnych.</p>
+        <p>4. W&nbsp;roku św.&nbsp;Józefa zapraszamy do&nbsp;udziału
+        w&nbsp;Diecezjalnej Pielgrzymce Rodzin do&nbsp;kościoła stacyjnego
+        św.&nbsp;Józefa w&nbsp;Klimontowie, która odbędzie się
+        w&nbsp;najbliższą sobotę, tj.&nbsp;26.06.2021&nbsp;r. W&nbsp;tym roku
+        Pielgrzymka Rodzin połączona jest z&nbsp;Sandomierskim Rajdem
+        Papieskim, który wyruszy z&nbsp;dziedzińca Seminarium Duchownego
+        w&nbsp;Sandomierzu o&nbsp;godz.&nbsp;8.30.</p>
+        <p>5. Rocznica Pierwszej Komunii Świętej 27&nbsp;czerwca br.
+        na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;11.15. Rodziców tych dzieci
+        prosimy o&nbsp;kontakt z&nbsp;ks.&nbsp;Piotrem Cieślą. Spowiedź dla
+        dzieci rocznicowych i&nbsp;ich rodziców w&nbsp;najbliższy czwartek
+        o&nbsp;godz.&nbsp;17.00.</p>
+        <p>6. Prasa katolicka do&nbsp;nabycia na&nbsp;stoliku pod chórem.
         Polecamy.</p>
-        <p>9. Diecezjalne Studium Organistowskie przy Instytucie Teologicznym
-        w&nbsp;Sandomierzu ogłasza nabór na&nbsp;rok akademicki 2021/2022
-        – więcej informacji w&nbsp;gablocie przy wejściu do&nbsp;kościoła.</p>
-        <p>10. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        <p>7. W&nbsp;czwartek Uroczystość narodzenia św.&nbsp;Jana
+        Chrzciciela.</p>
+        <p>8. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
         za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii.
         Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, inne rocznice, składamy najlepsze życzenia. Wszystkim
         uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
         niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 13.&nbsp;czerwca 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 20.&nbsp;czerwca 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
