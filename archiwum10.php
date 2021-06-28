@@ -16,7 +16,167 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 20.&nbsp;czerwca 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 27.&nbsp;czerwca 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            21.06. – 27.06.2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">21&nbsp;czerwca, Poniedziałek –
+św.&nbsp;Alojzego Gonzagi</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski, dla Asi i&nbsp;Daniela
+    w&nbsp;1&nbsp;r. sakramentu małżeństwa</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;21</li>
+    <li>6.30 + Alicję Orzechowską</li>
+    <li>18.00 + Zygmunta, Urszulę i&nbsp;zm. z&nbsp;rodz.</li>
+    <li>18.00 + Barbarę Marzec</li>
+    <li>18.00 + Tadeusza Fietko</li>
+</ul>
+
+<p class="intentions_date">22&nbsp;czerwca, Wtorek</p>
+<ul>
+    <li>6.30 o&nbsp;potrzebne łaski w małżeństwie Moniki
+    i&nbsp;Łukasza</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;22</li>
+    <li>6.30 + Mieczysława Bryłę</li>
+    <li>18.00 + Ryszarda Walewskiego, Jana Knapa</li>
+    <li>18.00 + Stanisława Kudelskiego</li>
+</ul>
+
+<p class="intentions_date">23&nbsp;czerwca, Środa</p>
+<ul>
+    <li>6.30 w&nbsp;int. uwielbienia Ducha Świętego</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;23</li>
+    <li>6.30 + Jana Potrząsaja</li>
+    <li>18.00 + Jana Trojanowskiego z&nbsp;racji imienin; + Joannę
+    Stanisława Donda</li>
+    <li>18.00 + Tomasza Płatosa</li>
+    <li>18.00 + Helenę, Kazimierza Dominików</li>
+</ul>
+
+<p class="intentions_date">24&nbsp;czerwca, Czwartek –
+Uroczystość narodzenia św.&nbsp;Jana Chrzciciela</p>
+<ul>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;24</li>
+    <li>6.30 + Barbarę Marzec</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, potrzebne łaski, łaskę
+    zdrowia dla Janiny oraz za + Jana</li>
+    <li>18.00 + Janinę, Czesława Klimontów, zm.&nbsp;z&nbsp;rodz.
+    Klimontów</li>
+    <li>18.00 + Jana Mazura</li>
+</ul>
+
+<p class="intentions_date">25&nbsp;czerwca, Piątek</p>
+<ul>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;25</li>
+    <li>6.30 + Jana Jedlińskiego</li>
+    <li>18.00 + Helenę, Jana, Włodzimierza, Stanisława Kondratów;
+    Zbigniewa Patynę</li>
+    <li>18.00 + Irenę, Wiktora, Danutę, Stanisława Gajdów</li>
+    <li>18.00 + Henryka Stefańskiego</li>
+</ul>
+
+<p class="intentions_date">26&nbsp;czerwca, Sobota</p>
+<ul>
+    <li>6.30 + Sabinę Skubidę i&nbsp;zm. z&nbsp;rodz. Skubidów
+    i&nbsp;Frańczaków</li>
+    <li>6.30 + Jerzego Zająca greg.&nbsp;26</li>
+    <li>18.00 + Ewę Wrzosek w&nbsp;22&nbsp;r.&nbsp;śm.; Bartłomieja,
+    Jana, Teresę, Janinę</li>
+    <li>18.00 + Mieczysława Chmiela w&nbsp;1&nbsp;r.&nbsp;śm.</li>
+    <li>18.00 + Mieczysława Bryłę</li>
+</ul>
+
+<p class="intentions_date">27&nbsp;czerwca, Niedziela –
+    <span style="color: grey">
+        XIII&nbsp;Niedziela zwykła
+    </span>
+</p>
+<ul>
+    <li>7.30 + Jerzego Zająca greg.&nbsp;27</li>
+    <li>9.30 + Genowefę, Józefa Rosiaków i&nbsp;zm. z&nbsp;rodz.
+    Rosiaków i&nbsp;Kraśniewskich</li>
+    <li>11.15 Rocznica I&nbsp;Komunii Świętej<br>
+    w&nbsp;intencji parafian</li>
+    <li>11.15 + Jana Makowskiego w&nbsp;3&nbsp;r.&nbsp;śm.; Jana,
+    Klarę Chrząstowskich</li>
+    <li>12.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    potrzebne łaski, opiekę Matki Bożej dla Jakuba w&nbsp;18&nbsp;r.
+    urodzin oraz Joanny i&nbsp;Jarosława w&nbsp;28&nbsp;r. sakr.
+    małżeństwa</li>
+    <li>18.00 + Władysława, Marię Budzińskich</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>20.&nbsp;czerwca 2021&nbsp;r.</h3>
+        <h3>XII Niedziela Zwykła</h3>
+    </div>
+    <div class="col">
+        <p>1. Wczoraj kościół parafialny sprzątały parafianki: Elżbieta
+        Rządkowska, Anna Kwiatkowska, Helena Fulara, Krystyna Bocheńska,
+        Maria Baran. <em>Bóg zapłać</em>, także za&nbsp;złożoną ofiarę
+        na&nbsp;potrzeby parafii, w&nbsp;wysokości 180&nbsp;zł. Dziękujemy
+        rodzicom bierzmowanej młodzieży za&nbsp;posprzątanie kościoła,
+        wykonanie kwiatowej dekoracji w&nbsp;kościele i&nbsp;ofiarę
+        na&nbsp;rzecz parafii w&nbsp;wysokości trzech tysięcy złotych. Słowa
+        wdzięczności kierujemy także do&nbsp;rodziców dzieci, które przyjęły
+        po&nbsp;raz pierwszy Komunię&nbsp;św. w&nbsp;zeszłą niedzielę
+        za&nbsp;ofiarę pięćset złotych. Za&nbsp;te&nbsp;pieniądze zostaną
+        wymienione okna w&nbsp;zakrystii dla ministrantów i&nbsp;została
+        zakupiona nowa biała kapa. <strong>Zapraszamy, do&nbsp;sprzątania
+        świątyni parafialnej w&nbsp;najbliższą sobotę
+        na&nbsp;godz.&nbsp;7.00,</strong> parafian z&nbsp;ul.&nbsp;Cieśli 3
+        klatka nr&nbsp;IV.</p>
+        <p>2. W&nbsp;piątek o&nbsp;godz.&nbsp;8.00, na&nbsp;zakończenie roku
+        szkolnego, odprawimy Mszę Świętą dziękczynną za&nbsp;otrzymane łaski
+        w&nbsp;ciągu całego roku. Zapraszamy dzieci, młodzież, rodziców,
+        nauczycieli do&nbsp;udziału we&nbsp;Mszy Świętej. Okazja
+        do&nbsp;spowiedzi codziennie wieczorem przed Mszą Świętą.</p>
+        <p>3. Dziś gościmy w&nbsp;naszej parafii Ikonę św.&nbsp;Rodziny
+        w&nbsp;ramach nawiedzenia rodzin Oazy ”Domowego Kościoła”.
+        Na&nbsp;zakończenie każdej Mszy&nbsp;św. zawierzymy wszystkie rodziny
+        naszej parafii w&nbsp;uroczystym akcie. Po&nbsp;Mszach&nbsp;św.
+        będzie możliwość nabycia kopii ikony. Złożona za&nbsp;nią ofiara
+        pieniężna będzie „cegiełką” na&nbsp;wsparcie finansowe naszego
+        diecezjalnego ośrodka rekolekcyjnego w&nbsp;Uhercach Mineralnych.</p>
+        <p>4. W&nbsp;roku św.&nbsp;Józefa zapraszamy do&nbsp;udziału
+        w&nbsp;Diecezjalnej Pielgrzymce Rodzin do&nbsp;kościoła stacyjnego
+        św.&nbsp;Józefa w&nbsp;Klimontowie, która odbędzie się
+        w&nbsp;najbliższą sobotę, tj.&nbsp;26.06.2021&nbsp;r. W&nbsp;tym roku
+        Pielgrzymka Rodzin połączona jest z&nbsp;Sandomierskim Rajdem
+        Papieskim, który wyruszy z&nbsp;dziedzińca Seminarium Duchownego
+        w&nbsp;Sandomierzu o&nbsp;godz.&nbsp;8.30.</p>
+        <p>5. Rocznica Pierwszej Komunii Świętej 27&nbsp;czerwca br.
+        na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;11.15. Rodziców tych dzieci
+        prosimy o&nbsp;kontakt z&nbsp;ks.&nbsp;Piotrem Cieślą. Spowiedź dla
+        dzieci rocznicowych i&nbsp;ich rodziców w&nbsp;najbliższy czwartek
+        o&nbsp;godz.&nbsp;17.00.</p>
+        <p>6. Prasa katolicka do&nbsp;nabycia na&nbsp;stoliku pod chórem.
+        Polecamy.</p>
+        <p>7. W&nbsp;czwartek Uroczystość narodzenia św.&nbsp;Jana
+        Chrzciciela.</p>
+        <p>8. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii.
+        Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        urodziny, inne rocznice, składamy najlepsze życzenia. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 20.&nbsp;czerwca 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZALNE<br />

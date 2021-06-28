@@ -1,60 +1,66 @@
+
+
 <div class="card">
     <div class="card-header">
-        <h3>20.&nbsp;czerwca 2021&nbsp;r.</h3>
-        <h3>XII Niedziela Zwykła</h3>
+        <h3>27.&nbsp;czerwca 2021&nbsp;r.</h3>
+        <h3>XIII Niedziela Zwykła</h3>
     </div>
     <div class="col">
-        <p>1. Wczoraj kościół parafialny sprzątały parafianki: Elżbieta
-        Rządkowska, Anna Kwiatkowska, Helena Fulara, Krystyna Bocheńska,
-        Maria Baran. <em>Bóg zapłać</em>, także za&nbsp;złożoną ofiarę
-        na&nbsp;potrzeby parafii, w&nbsp;wysokości 180&nbsp;zł. Dziękujemy
-        rodzicom bierzmowanej młodzieży za&nbsp;posprzątanie kościoła,
-        wykonanie kwiatowej dekoracji w&nbsp;kościele i&nbsp;ofiarę
-        na&nbsp;rzecz parafii w&nbsp;wysokości trzech tysięcy złotych. Słowa
-        wdzięczności kierujemy także do&nbsp;rodziców dzieci, które przyjęły
-        po&nbsp;raz pierwszy Komunię&nbsp;św. w&nbsp;zeszłą niedzielę
-        za&nbsp;ofiarę pięćset złotych. Za&nbsp;te&nbsp;pieniądze zostaną
-        wymienione okna w&nbsp;zakrystii dla ministrantów i&nbsp;została
-        zakupiona nowa biała kapa. <strong>Zapraszamy, do&nbsp;sprzątania
-        świątyni parafialnej w&nbsp;najbliższą sobotę
-        na&nbsp;godz.&nbsp;7.00,</strong> parafian z&nbsp;ul.&nbsp;Cieśli 3
-        klatka nr&nbsp;IV.</p>
-        <p>2. W&nbsp;piątek o&nbsp;godz.&nbsp;8.00, na&nbsp;zakończenie roku
-        szkolnego, odprawimy Mszę Świętą dziękczynną za&nbsp;otrzymane łaski
-        w&nbsp;ciągu całego roku. Zapraszamy dzieci, młodzież, rodziców,
-        nauczycieli do&nbsp;udziału we&nbsp;Mszy Świętej. Okazja
-        do&nbsp;spowiedzi codziennie wieczorem przed Mszą Świętą.</p>
-        <p>3. Dziś gościmy w&nbsp;naszej parafii Ikonę św.&nbsp;Rodziny
-        w&nbsp;ramach nawiedzenia rodzin Oazy ”Domowego Kościoła”.
-        Na&nbsp;zakończenie każdej Mszy&nbsp;św. zawierzymy wszystkie rodziny
-        naszej parafii w&nbsp;uroczystym akcie. Po&nbsp;Mszach&nbsp;św.
-        będzie możliwość nabycia kopii ikony. Złożona za&nbsp;nią ofiara
-        pieniężna będzie „cegiełką” na&nbsp;wsparcie finansowe naszego
-        diecezjalnego ośrodka rekolekcyjnego w&nbsp;Uhercach Mineralnych.</p>
-        <p>4. W&nbsp;roku św.&nbsp;Józefa zapraszamy do&nbsp;udziału
-        w&nbsp;Diecezjalnej Pielgrzymce Rodzin do&nbsp;kościoła stacyjnego
-        św.&nbsp;Józefa w&nbsp;Klimontowie, która odbędzie się
-        w&nbsp;najbliższą sobotę, tj.&nbsp;26.06.2021&nbsp;r. W&nbsp;tym roku
-        Pielgrzymka Rodzin połączona jest z&nbsp;Sandomierskim Rajdem
-        Papieskim, który wyruszy z&nbsp;dziedzińca Seminarium Duchownego
-        w&nbsp;Sandomierzu o&nbsp;godz.&nbsp;8.30.</p>
-        <p>5. Rocznica Pierwszej Komunii Świętej 27&nbsp;czerwca br.
-        na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;11.15. Rodziców tych dzieci
-        prosimy o&nbsp;kontakt z&nbsp;ks.&nbsp;Piotrem Cieślą. Spowiedź dla
-        dzieci rocznicowych i&nbsp;ich rodziców w&nbsp;najbliższy czwartek
-        o&nbsp;godz.&nbsp;17.00.</p>
-        <p>6. Prasa katolicka do&nbsp;nabycia na&nbsp;stoliku pod chórem.
-        Polecamy.</p>
-        <p>7. W&nbsp;czwartek Uroczystość narodzenia św.&nbsp;Jana
-        Chrzciciela.</p>
-        <p>8. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
-        za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii.
-        Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+        <p>1. Dziękujemy parafianom: Paniom: Halinie Kuras z&nbsp;synem,
+        Teresie Ogorzałek, Wiesławie Zając, Krystynie Boduła z&nbsp;synem
+        i&nbsp;Panu Kazimierzowi Stawnickiemu z&nbsp;IV klatki, blok nr&nbsp;3
+        ul.&nbsp;Cieśli, za&nbsp;sprzątanie kościoła. <em>Bóg zapłać</em>
+        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii, w&nbsp;wysokości
+        180&nbsp;zł. Słowa wdzięczności kierujemy także do&nbsp;rodziców
+        dzieci, które przeżywają Rocznicę Pierwszej Komunii&nbsp;św.
+        w&nbsp;tą niedzielę, za&nbsp;ofiarę pięćset złotych.
+        <strong>Zapraszamy, do&nbsp;sprzątania świątyni parafialnej
+        w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>, parafian
+        z&nbsp;ul.&nbsp;Cieśli 5 i&nbsp;z&nbsp;bloku nr&nbsp;7 pierwsza
+        klatka.</p>
+        <p>2. W&nbsp;najbliższy Wtorek Uroczystość Świętych Apostołów Piotra
+        i&nbsp;Pawła. Msze&nbsp;św. o&nbsp;godz.&nbsp;6.30, 9.00
+        i&nbsp;o&nbsp;18.00 – taca tego dnia przeznaczona jest
+        na&nbsp;Stolicę Apostolską.</p>
+        <p>3. W&nbsp;zeszłą niedzielę gościliśmy w&nbsp;naszej parafii Ikonę
+        św.&nbsp;Rodziny. Po&nbsp;Mszach&nbsp;św. za&nbsp;sprzedane kopie
+        ikony zebrano 1500&nbsp;zł. na&nbsp;wsparcie finansowe naszego
+        diecezjalnego ośrodka rekolekcyjnego w&nbsp;Uhercach Mineralnych.
+        <em>Bóg zapłać!</em></p>
+        <p>4. „Wakacje z&nbsp;Pasją” – pod takim hasłem Caritas Diecezji
+        Sandomierskiej organizuje półkolonie w&nbsp;Sandomierzu dla dzieci
+        w&nbsp;wieku od&nbsp;6 do&nbsp;12 lat w&nbsp;terminie: I&nbsp;turnus
+        od&nbsp;05.07. do&nbsp;16.07.2021. i&nbsp;II&nbsp;turnus 19.07.
+        do&nbsp;30.07.2021&nbsp;r. Koszt półkolonii na&nbsp;turnusie
+        300&nbsp;zł. Więcej informacji w&nbsp;parafialnej gablocie przy
+        wejściu do&nbsp;kościoła.</p>
+        <p>5. W&nbsp;pierwszą niedziele lipca na&nbsp;Świętym Krzyżu – Odpust
+        Krwi Przenajdroższej - Diecezjalna Pielgrzymka Rodzin.</p>
+        <p>6. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>7. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota miesiąca.
+        W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.00.</p>
+        <p>8. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+        <p>9. Przed nami czas wakacji, przypominamy wszystkim katolikom
+        o&nbsp;trwaniu w&nbsp;wierności wobec Boga i&nbsp;Jego przykazań,
+        i&nbsp;zachowaniu szacunku do&nbsp;Kościoła św. i&nbsp;przestrzegania
+        Jego zasad, choćby systematyczne uczestnictwo w&nbsp;niedzielnej
+        Mszy&nbsp;św. codzienna modlitwa, korzystanie z&nbsp;sakramentów św.
+        godny strój i&nbsp;szlachetne zachowanie w&nbsp;miejscach św.</p>
+        <p>10. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej. Jest
+        nowe Miłujcie się i&nbsp;Mały Gość Niedzielny.</p>
+        <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
         urodziny, inne rocznice, składamy najlepsze życzenia. Wszystkim
         uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
         niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 20.&nbsp;czerwca 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 27.&nbsp;czerwca 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
