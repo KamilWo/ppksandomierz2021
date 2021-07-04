@@ -1,66 +1,40 @@
-
-
 <div class="card">
     <div class="card-header">
-        <h3>27.&nbsp;czerwca 2021&nbsp;r.</h3>
-        <h3>XIII Niedziela Zwykła</h3>
+        <h3>4.&nbsp;lipca 2021&nbsp;r.</h3>
+        <h3>XIV Niedziela Zwykła</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafianom: Paniom: Halinie Kuras z&nbsp;synem,
-        Teresie Ogorzałek, Wiesławie Zając, Krystynie Boduła z&nbsp;synem
-        i&nbsp;Panu Kazimierzowi Stawnickiemu z&nbsp;IV klatki, blok nr&nbsp;3
+        <p>1. Dziękujemy parafiankom: Paniom: Klaudii Trojanowskiej,
+        Czesławie Stawiarskiej z&nbsp;I&nbsp;klatki, blok nr&nbsp;7
         ul.&nbsp;Cieśli, za&nbsp;sprzątanie kościoła. <em>Bóg zapłać</em>
         za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii, w&nbsp;wysokości
-        180&nbsp;zł. Słowa wdzięczności kierujemy także do&nbsp;rodziców
-        dzieci, które przeżywają Rocznicę Pierwszej Komunii&nbsp;św.
-        w&nbsp;tą niedzielę, za&nbsp;ofiarę pięćset złotych.
-        <strong>Zapraszamy, do&nbsp;sprzątania świątyni parafialnej
-        w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>, parafian
-        z&nbsp;ul.&nbsp;Cieśli 5 i&nbsp;z&nbsp;bloku nr&nbsp;7 pierwsza
-        klatka.</p>
-        <p>2. W&nbsp;najbliższy Wtorek Uroczystość Świętych Apostołów Piotra
-        i&nbsp;Pawła. Msze&nbsp;św. o&nbsp;godz.&nbsp;6.30, 9.00
-        i&nbsp;o&nbsp;18.00 – taca tego dnia przeznaczona jest
-        na&nbsp;Stolicę Apostolską.</p>
-        <p>3. W&nbsp;zeszłą niedzielę gościliśmy w&nbsp;naszej parafii Ikonę
-        św.&nbsp;Rodziny. Po&nbsp;Mszach&nbsp;św. za&nbsp;sprzedane kopie
-        ikony zebrano 1500&nbsp;zł. na&nbsp;wsparcie finansowe naszego
-        diecezjalnego ośrodka rekolekcyjnego w&nbsp;Uhercach Mineralnych.
-        <em>Bóg zapłać!</em></p>
-        <p>4. „Wakacje z&nbsp;Pasją” – pod takim hasłem Caritas Diecezji
-        Sandomierskiej organizuje półkolonie w&nbsp;Sandomierzu dla dzieci
-        w&nbsp;wieku od&nbsp;6 do&nbsp;12 lat w&nbsp;terminie: I&nbsp;turnus
-        od&nbsp;05.07. do&nbsp;16.07.2021. i&nbsp;II&nbsp;turnus 19.07.
-        do&nbsp;30.07.2021&nbsp;r. Koszt półkolonii na&nbsp;turnusie
-        300&nbsp;zł. Więcej informacji w&nbsp;parafialnej gablocie przy
-        wejściu do&nbsp;kościoła.</p>
-        <p>5. W&nbsp;pierwszą niedziele lipca na&nbsp;Świętym Krzyżu – Odpust
-        Krwi Przenajdroższej - Diecezjalna Pielgrzymka Rodzin.</p>
-        <p>6. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
-        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
-        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
-        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
-        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
-        <p>7. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota miesiąca.
-        W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
-        od&nbsp;godz.&nbsp;17.00.</p>
-        <p>8. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
-        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
-        <p>9. Przed nami czas wakacji, przypominamy wszystkim katolikom
+        100&nbsp;zł. <strong>Zapraszamy, do&nbsp;sprzątania świątyni
+        parafialnej w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>,
+        parafian z&nbsp;ul.&nbsp;Cieśli blok nr&nbsp;7 druga klatka.</p>
+        <p>2. Wczorajszym nowożeńcom: Martynie Rdzonek i&nbsp;Bartoszowi
+        Nykowi, wyrażamy wdzięczność za&nbsp;ofiarowanie kwiaty
+        do&nbsp;wystroju kościoła i&nbsp;życzymy Młodej Parze Bożego
+        błogosławieństwa na&nbsp;drodze życia małżeńskiego
+        i&nbsp;rodzinnego.</p>
+        <p>3. Przed nami czas wakacji, przypominamy wszystkim katolikom
         o&nbsp;trwaniu w&nbsp;wierności wobec Boga i&nbsp;Jego przykazań,
-        i&nbsp;zachowaniu szacunku do&nbsp;Kościoła św. i&nbsp;przestrzegania
-        Jego zasad, choćby systematyczne uczestnictwo w&nbsp;niedzielnej
-        Mszy&nbsp;św. codzienna modlitwa, korzystanie z&nbsp;sakramentów św.
-        godny strój i&nbsp;szlachetne zachowanie w&nbsp;miejscach św.</p>
-        <p>10. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
-        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej. Jest
-        nowe Miłujcie się i&nbsp;Mały Gość Niedzielny.</p>
-        <p>11. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
-        urodziny, inne rocznice, składamy najlepsze życzenia. Wszystkim
-        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        i&nbsp;zachowaniu szacunku do&nbsp;Kościoła św.,
+        i&nbsp;przestrzegania Jego zasad, choćby systematyczne uczestnictwo
+        w&nbsp;niedzielnej Mszy&nbsp;św., codzienna modlitwa, korzystanie
+        z&nbsp;sakramentów św., godny strój i&nbsp;szlachetne zachowanie
+        w&nbsp;miejscach św.</p>
+        <p>4. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Są&nbsp;czasopisma: „Niedziela”, „Miłujcie się”, „Gość Niedzielny”
+        i&nbsp;„Mały Gość Niedzielny”.</p>
+        <p>5. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc, prace porządkowe przy kościele, złożone ofiary
+        na&nbsp;rzecz parafii. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą
+        swoje imieniny, urodziny, inne rocznice, składamy najlepsze życzenia.
+        Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
         niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 27.&nbsp;czerwca 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 4.&nbsp;lipca 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
