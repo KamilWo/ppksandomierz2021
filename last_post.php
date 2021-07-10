@@ -1,40 +1,50 @@
 <div class="card">
     <div class="card-header">
-        <h3>4.&nbsp;lipca 2021&nbsp;r.</h3>
-        <h3>XIV Niedziela Zwykła</h3>
+        <h3>11.&nbsp;lipca 2021&nbsp;r.</h3>
+        <h3>XV Niedziela Zwykła</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafiankom: Paniom: Klaudii Trojanowskiej,
-        Czesławie Stawiarskiej z&nbsp;I&nbsp;klatki, blok nr&nbsp;7
+        <p>1. Dziękujemy parafianom: Irenie i&nbsp;Józefowi Borowskim,
+        Aleksandrze i&nbsp;Mateuszowi Pawlęgom, Halinie Rożmiej
+        i&nbsp;Lechowi Łukasiewiczowi z&nbsp;II&nbsp;klatki, blok nr&nbsp;7
         ul.&nbsp;Cieśli, za&nbsp;sprzątanie kościoła. <em>Bóg zapłać</em>
         za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii, w&nbsp;wysokości
-        100&nbsp;zł. <strong>Zapraszamy, do&nbsp;sprzątania świątyni
+        200&nbsp;zł. <strong>Zapraszamy, do&nbsp;sprzątania świątyni
         parafialnej w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>,
-        parafian z&nbsp;ul.&nbsp;Cieśli blok nr&nbsp;7 druga klatka.</p>
-        <p>2. Wczorajszym nowożeńcom: Martynie Rdzonek i&nbsp;Bartoszowi
-        Nykowi, wyrażamy wdzięczność za&nbsp;ofiarowanie kwiaty
-        do&nbsp;wystroju kościoła i&nbsp;życzymy Młodej Parze Bożego
-        błogosławieństwa na&nbsp;drodze życia małżeńskiego
-        i&nbsp;rodzinnego.</p>
-        <p>3. Przed nami czas wakacji, przypominamy wszystkim katolikom
-        o&nbsp;trwaniu w&nbsp;wierności wobec Boga i&nbsp;Jego przykazań,
-        i&nbsp;zachowaniu szacunku do&nbsp;Kościoła św.,
-        i&nbsp;przestrzegania Jego zasad, choćby systematyczne uczestnictwo
-        w&nbsp;niedzielnej Mszy&nbsp;św., codzienna modlitwa, korzystanie
-        z&nbsp;sakramentów św., godny strój i&nbsp;szlachetne zachowanie
-        w&nbsp;miejscach św.</p>
-        <p>4. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
-        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
-        Są&nbsp;czasopisma: „Niedziela”, „Miłujcie się”, „Gość Niedzielny”
-        i&nbsp;„Mały Gość Niedzielny”.</p>
-        <p>5. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
-        za&nbsp;wszelką pomoc, prace porządkowe przy kościele, złożone ofiary
-        na&nbsp;rzecz parafii. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą
-        swoje imieniny, urodziny, inne rocznice, składamy najlepsze życzenia.
+        parafian z&nbsp;ul.&nbsp;Cieśli blok nr&nbsp;7 trzecia klatka.</p>
+        <p>2. W&nbsp;piątek, w&nbsp;liturgii obchodzimy wspomnienie
+        Najświętszej Maryi Panny z&nbsp;Góry Karmel. Zapraszamy wszystkich,
+        którzy noszą Szkaplerz do&nbsp;udziału we&nbsp;Mszy Świętej
+        o&nbsp;godzinie 18.00. Zapraszamy także chętnych do&nbsp;włączenia
+        się do&nbsp;Rodziny Szkaplerznej, przyjęcia i&nbsp;noszenia
+        na&nbsp;swojej piersi Szkaplerza. W&nbsp;czasie Mszy Świętej będziemy
+        dziękować za&nbsp;otrzymane łaski i&nbsp;prosząc o&nbsp;Boże
+        błogosławieństwo przez pośrednictwo Maryi z&nbsp;Góry Karmel.</p>
+        <p>3. Ruszają zapisy na&nbsp;pielgrzymkę. Diecezjalna Sandomierska
+        Piesza Pielgrzymka na&nbsp;Jasną Górę, która w&nbsp;tym roku pójdzie
+        po&nbsp;raz 38., będzie trwała od&nbsp;4 do&nbsp;12 sierpnia. Hasłem
+        pielgrzymki są&nbsp;słowa z&nbsp;Ewangelii według św.&nbsp;Jana:
+        „Chrystus Drogą, Prawdą i&nbsp;Życiem”. Tegoroczna pielgrzymka
+        przybierze dwie formy: sztafetową oraz z&nbsp;noclegami
+        we&nbsp;własnych namiotach. Koszt uczestnictwa w&nbsp;pielgrzymowaniu
+        sztafetowym to&nbsp;25&nbsp;zł.</p>
+        <p>4. Równolegle ze&nbsp;sztafetą wyruszy jedna grupa
+        z&nbsp;noclegami we&nbsp;własnych namiotach, które będą rozbijane
+        u&nbsp;gospodarzy na&nbsp;podwórkach – bez wchodzenia do&nbsp;domów.
+        Koszt uczestnictwa w&nbsp;takiej formie pielgrzymki
+        to&nbsp;110&nbsp;zł. Więcej informacji w&nbsp;Internecie,
+        na&nbsp;stronie Diecezji Sandomierskiej lub w&nbsp;parafialnej
+        zakrystii.</p>
+        <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej -
+        „Niedziela”, „Gość Niedzielny”, dla dzieci nowy numer „Małego
+        Gościa”.</p>
+        <p>6. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc, prace porządkowe przy kościele
+        i&nbsp;w&nbsp;świątyni, złożone ofiary na&nbsp;rzecz parafii.
         Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
         niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 4.&nbsp;lipca 2021&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 11.&nbsp;lipca 2021&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>

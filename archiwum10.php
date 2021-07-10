@@ -16,7 +16,136 @@ include 'head.php';
             <!-- treść główna -->
             <div class="col">
                 <h2 class="first-content-header">Archiwum wiadomości 2021 rok</h2>
-                <h2>Okres 1.&nbsp;stycznia 2021 - 4.&nbsp;lipca 2021 r.</h2>
+                <h2>Okres 1.&nbsp;stycznia 2021 - 11.&nbsp;lipca 2021 r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZALNE<br />
+            05.07. – 11.07.2021&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<p class="intentions_date">05&nbsp;lipca, Poniedziałek</p>
+<ul>
+    <li>6.30 + Mieczysława Bryłę</li>
+    <li>6.30 + Stefana Orłowskiego</li>
+    <li>6.30 + Krystynę Stan</li>
+    <li>18.00 + Stanisława Kudelskiego</li>
+</ul>
+
+<p class="intentions_date">06&nbsp;lipca, Wtorek –
+bł.&nbsp;Marii Teresy Ledóchowskiej</p>
+<ul>
+    <li>6.30 + Tadeusza Fietko</li>
+    <li>6.30 + Witolda Rybę w&nbsp;3&nbsp;r.&nbsp;śm.
+    zm.&nbsp;z&nbsp;rodz. Rybów</li>
+    <li>18.00 + Zofię w&nbsp;1&nbsp;r.&nbsp;śm., Henryka
+    w&nbsp;1&nbsp;r.&nbsp;śm. Kucwajów</li>
+    <li>18.00 + Krystynę Wziątek</li>
+</ul>
+
+<p class="intentions_date">07&nbsp;lipca, Środa</p>
+<ul>
+    <li>6.30 w&nbsp;int. o&nbsp;uwielbienie Ducha Świętego</li>
+    <li>6.30 + Gustawa Sadłochę w&nbsp;11&nbsp;r.&nbsp;śm.
+    zm.&nbsp;z&nbsp;rodz. Sadłochów i&nbsp;Sajdów</li>
+    <li>18.00 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, potrzebne łaski szczególnie łaskę nawrócenia
+    i&nbsp;przymnożenia wiary w&nbsp;rodzinie</li>
+    <li>18.00 + Mariana Bryłę</li>
+</ul>
+
+<p class="intentions_date">08&nbsp;lipca, Czwartek –
+św.&nbsp;Jana z&nbsp;Dukli</p>
+<ul>
+    <li>6.30 dziękczynno-błagalna o&nbsp;Boże błogosławieństwo,
+    opiekę Matki Bożej, potrzebne łaski w&nbsp;małżeństwie Moniki
+    i&nbsp;Łukasza</li>
+    <li>6.30 + Krystynę Wziątek</li>
+    <li>18.00 + Alicję Orzechowską</li>
+    <li>18.00 + Teresę Libicką</li>
+</ul>
+
+<p class="intentions_date">09&nbsp;lipca, Piątek</p>
+<ul>
+    <li>6.30 o&nbsp;Boże błogosławieństwo, dary Ducha Świętego,
+    opiekę Matki Bożej, potrzebne łaski dla dzieci
+    i&nbsp;chrześniaków</li>
+    <li>6.30 + Krzysztofa Burkowskiego</li>
+    <li>18.00 + Mieczysława, Genowefę Chałupczak</li>
+    <li>18.00 + Piotra Bugalskiego w&nbsp;r.&nbsp;śm.
+    i&nbsp;zm.&nbsp;z&nbsp;rodz. Bugalskich</li>
+</ul>
+
+<p class="intentions_date">10&nbsp;lipca, Sobota</p>
+<ul>
+    <li>6.30 + Adama Osowskiego</li>
+    <li>6.30 + Stanisława Pacholczyka</li>
+    <li>18.00 w&nbsp;int. o&nbsp;nawrócenie męża Piotra
+    i&nbsp;ojca</li>
+    <li>18.00 + Mariana Bryłę</li>
+</ul>
+
+<p class="intentions_date">11&nbsp;lipca, Niedziela –
+    <span style="color: grey">
+        XV&nbsp;Niedziela zwykła
+    </span>
+</p>
+<ul>
+    <li>7.30 w&nbsp;intencji parafian</li>
+    <li>9.30 + Michała Kędziorę w&nbsp;7&nbsp;r.&nbsp;śm.;
+    zm.&nbsp;rodziców, Jana, Zofię Łukawskich
+    i&nbsp;zm.&nbsp;z&nbsp;rodz.</li>
+    <li>11.15 + Józefa w&nbsp;45&nbsp;r.&nbsp;śm., Stefanię Janus;
+    Zofię Lachtarę, Krystynę Polit</li>
+    <li>12.30 + Józefa Liśkiewicza</li>
+    <li>18.00 + Bożenę, Wojciecha, Grzegorza, Henryka Gajków</li>
+</ul>
+    </div>
+</div>
+<br/>
+
+<div class="card">
+    <div class="card-header">
+        <h3>4.&nbsp;lipca 2021&nbsp;r.</h3>
+        <h3>XIV Niedziela Zwykła</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziękujemy parafiankom: Paniom: Klaudii Trojanowskiej,
+        Czesławie Stawiarskiej z&nbsp;I&nbsp;klatki, blok nr&nbsp;7
+        ul.&nbsp;Cieśli, za&nbsp;sprzątanie kościoła. <em>Bóg zapłać</em>
+        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii, w&nbsp;wysokości
+        100&nbsp;zł. <strong>Zapraszamy, do&nbsp;sprzątania świątyni
+        parafialnej w&nbsp;najbliższą sobotę na&nbsp;godz.&nbsp;7.00</strong>,
+        parafian z&nbsp;ul.&nbsp;Cieśli blok nr&nbsp;7 druga klatka.</p>
+        <p>2. Wczorajszym nowożeńcom: Martynie Rdzonek i&nbsp;Bartoszowi
+        Nykowi, wyrażamy wdzięczność za&nbsp;ofiarowanie kwiaty
+        do&nbsp;wystroju kościoła i&nbsp;życzymy Młodej Parze Bożego
+        błogosławieństwa na&nbsp;drodze życia małżeńskiego
+        i&nbsp;rodzinnego.</p>
+        <p>3. Przed nami czas wakacji, przypominamy wszystkim katolikom
+        o&nbsp;trwaniu w&nbsp;wierności wobec Boga i&nbsp;Jego przykazań,
+        i&nbsp;zachowaniu szacunku do&nbsp;Kościoła św.,
+        i&nbsp;przestrzegania Jego zasad, choćby systematyczne uczestnictwo
+        w&nbsp;niedzielnej Mszy&nbsp;św., codzienna modlitwa, korzystanie
+        z&nbsp;sakramentów św., godny strój i&nbsp;szlachetne zachowanie
+        w&nbsp;miejscach św.</p>
+        <p>4. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+        Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        Są&nbsp;czasopisma: „Niedziela”, „Miłujcie się”, „Gość Niedzielny”
+        i&nbsp;„Mały Gość Niedzielny”.</p>
+        <p>5. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc, prace porządkowe przy kościele, złożone ofiary
+        na&nbsp;rzecz parafii. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą
+        swoje imieniny, urodziny, inne rocznice, składamy najlepsze życzenia.
+        Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 4.&nbsp;lipca 2021&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+        </p>
+    </div>
+</div>
+<br />
 
 <div class="card">
     <div class="card-header">
